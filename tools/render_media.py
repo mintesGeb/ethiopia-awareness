@@ -32,6 +32,8 @@ BG_TOP, BG_BOT = np.array([14, 20, 30], np.float32), np.array([30, 38, 52], np.f
 ACCENT = (242, 169, 59)      # amber
 INK = (244, 241, 234)
 MUTED = (168, 176, 190)
+# Facebook Reels safe zones (1080x1920), checked against a real upload on Oct 13, 2026
+SAFE_TOP, SAFE_BOTTOM, SAFE_RIGHT, PB_Y = 400, 420, 170, 300
 
 
 def font(lang, weight, size):
@@ -89,8 +91,10 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     L = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     d = ImageDraw.Draw(L)
     mx = 90
-    maxw = w - 2 * mx
-    top = 170 if not card else 90
+    # Reels: keep clear of Facebook's overlays (status bar/back+search icons on top,
+    # page name + caption at the bottom, like/comment/share column on the right).
+    maxw = w - 2 * mx if card else w - mx - SAFE_RIGHT
+    top = SAFE_TOP if not card else 90
     # brand + kicker
     if spec.get("brand"):
         d.text((mx, top - 70), spec["brand"].upper(), font=font("en", "semi", 30), fill=MUTED)
@@ -98,16 +102,18 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     d.rectangle([mx, top, mx + 64, top + 8], fill=ACCENT)
     d.text((mx, top + 26), spec.get("kicker", ""), font=kf, fill=ACCENT)
     # main block, vertically centred in the middle zone
-    zone_top, zone_bot = (top + 120, h - 330) if not card else (top + 110, h - 210)
+    zone_top, zone_bot = (top + 120, h - SAFE_BOTTOM - 200) if not card else (top + 110, h - 210)
     blocks = []
     if slide.get("stat"):
-        f, lines, s, bh = fit(d, slide["stat"], "en" if slide["stat"].isascii() else lang, "black", 210, maxw, 260)
+        f, lines, s, bh = fit(d, slide["stat"], "en" if slide["stat"].isascii() else lang, "black", 210, maxw, 240)
         blocks.append((f, lines, s, bh, ACCENT, 1.05))
     if slide.get("title"):
-        f, lines, s, bh = fit(d, slide["title"], lang, "bold", 96 if not slide.get("stat") else 70, maxw, 560)
+        f, lines, s, bh = fit(d, slide["title"], lang, "bold", 96 if not slide.get("stat") else 70, maxw, 420 if not card else 560)
         blocks.append((f, lines, s, bh, INK, 1.2))
     if slide.get("body"):
-        f, lines, s, bh = fit(d, slide["body"], lang, "reg", 58, maxw, 680, minsize=32)
+        used = sum(int(len(b[1]) * b[2] * b[5]) for b in blocks) + 44 * len(blocks)
+        room = max(120, zone_bot - zone_top - used)   # body gets whatever space is left, so nothing overflows
+        f, lines, s, bh = fit(d, slide["body"], lang, "reg", 58, maxw, min(room, 680), lh=1.3, minsize=32)
         blocks.append((f, lines, s, bh, INK if not slide.get("title") else MUTED, 1.3))
     gap = 44
     total_h = sum(int(len(b[1]) * b[2] * b[5]) for b in blocks) + gap * (len(blocks) - 1)
@@ -120,7 +126,7 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     # footer: source
     sf = font(lang if not spec.get("source", "").isascii() else "en", "reg", 30)
     slines = wrap(d, spec.get("source", ""), sf, maxw)
-    fy = h - (150 if not card else 110) - 40 * (len(slines) - 1)
+    fy = h - (SAFE_BOTTOM + 40 if not card else 110) - 40 * (len(slines) - 1)
     d.line([mx, fy - 28, w - mx, fy - 28], fill=(80, 90, 106), width=2)
     for ln in slines:
         d.text((mx, fy), ln, font=sf, fill=MUTED)
@@ -180,10 +186,10 @@ def render_video(spec, out_dir):
             seg_w = (W - 2 * 60 - (n - 1) * 10) / n
             for j in range(n):
                 x0 = int(60 + j * (seg_w + 10)); x1 = int(x0 + seg_w)
-                frame[70:76, x0:x1] = (70, 78, 92)
+                frame[PB_Y:PB_Y + 6, x0:x1] = (70, 78, 92)
                 fill = 1.0 if j < i else (t / dur if j == i else 0)
                 if fill > 0:
-                    frame[70:76, x0:x0 + int((x1 - x0) * fill)] = ACCENT
+                    frame[PB_Y:PB_Y + 6, x0:x0 + int((x1 - x0) * fill)] = ACCENT
             p.stdin.write(np.clip(frame, 0, 255).astype(np.uint8).tobytes())
         t0 += dur
     p.stdin.close(); p.wait()
