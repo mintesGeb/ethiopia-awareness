@@ -1,0 +1,223 @@
+#!/usr/bin/env python3
+"""Render a daily news explainer as (1) a vertical video reel and (2) a square-ish graphic card.
+
+usage: python3 tools/render_media.py <spec.json> <out_dir> [--card-only]
+outputs: <out_dir>/<id>.mp4 (1080x1920, ~25-35s, soft synthesized pad audio)
+         <out_dir>/<id>_card.jpg (1080x1350, < 1 MB)
+
+spec.json:
+{
+  "id": "2026-10-13_food",                 # file stem
+  "lang": "en" | "am",                     # am = Amharic (Ethiopic font)
+  "brand": "Be-Aware",                     # page name shown small at the top (optional)
+  "kicker": "FOOD SECURITY · TIGRAY & OROMIA",
+  "slides": [                               # 4-6 slides; first = hook, last = call to action
+    {"title": "Hunger is rising behind the headlines", "body": "optional smaller text"},
+    {"stat": "40%+", "body": "estimated crop losses in East & West Hararghe"},
+    ...
+  ],
+  "source": "Source: Addis Standard / FEWS NET, Oct 9, 2026",
+  "card": {"stat": "IPC 3", "title": "...", "body": "..."}   # optional; defaults to first stat slide
+}
+Text only, no photos (news photos are copyrighted). Neutral palette: no flags or party colours.
+"""
+import json, math, os, subprocess, sys, wave
+import numpy as np
+from PIL import Image, ImageDraw, ImageFont
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+FD = os.path.join(HERE, "fonts")
+W, H, FPS = 1080, 1920, 24
+BG_TOP, BG_BOT = np.array([14, 20, 30], np.float32), np.array([30, 38, 52], np.float32)
+ACCENT = (242, 169, 59)      # amber
+INK = (244, 241, 234)
+MUTED = (168, 176, 190)
+
+
+def font(lang, weight, size):
+    if lang == "am":
+        f = ImageFont.truetype(os.path.join(FD, "NotoSansEthiopic.ttf"), size)
+        f.set_variation_by_name({"bold": "Bold", "semi": "SemiBold", "reg": "Regular", "black": "ExtraBold"}[weight])
+        return f
+    name = {"bold": "Inter-Bold.otf", "semi": "Inter-SemiBold.otf", "reg": "Inter-Regular.otf", "black": "Inter-ExtraBold.otf"}[weight]
+    for d in (FD, "/usr/share/fonts/opentype/inter"):
+        if os.path.exists(os.path.join(d, name)):
+            return ImageFont.truetype(os.path.join(d, name), size)
+    dv = "DejaVuSans.ttf" if weight == "reg" else "DejaVuSans-Bold.ttf"
+    return ImageFont.truetype(os.path.join("/usr/share/fonts/truetype/dejavu", dv), size)
+
+
+def wrap(draw, text, f, maxw):
+    lines = []
+    for para in text.split("\n"):
+        cur = ""
+        for w in para.split():
+            t = (cur + " " + w).strip()
+            if draw.textlength(t, font=f) <= maxw:
+                cur = t
+            else:
+                if cur:
+                    lines.append(cur)
+                cur = w
+        lines.append(cur)
+    return lines
+
+
+def fit(draw, text, lang, weight, size, maxw, maxh, lh=1.22, minsize=34):
+    while True:
+        f = font(lang, weight, size)
+        lines = wrap(draw, text, f, maxw)
+        h = int(len(lines) * size * lh)
+        if h <= maxh or size <= minsize:
+            return f, lines, size, h
+        size -= 4
+
+
+def background(w, h):
+    y = np.linspace(0, 1, h)[:, None, None]
+    g = BG_TOP + (BG_BOT - BG_TOP) * y
+    img = np.repeat(g, w, axis=1)
+    yy, xx = np.mgrid[0:h, 0:w]
+    glow = np.clip(1 - np.hypot(xx - w * 0.85, yy - h * 0.12) / (w * 0.9), 0, 1) ** 2
+    img = img + glow[:, :, None] * np.array([60, 40, 10], np.float32) * 0.5
+    return img.astype(np.float32)
+
+
+def text_layer(slide, spec, w, h, idx, total, card=False):
+    """Transparent RGBA layer with all text for one slide."""
+    lang = spec.get("lang", "en")
+    L = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    d = ImageDraw.Draw(L)
+    mx = 90
+    maxw = w - 2 * mx
+    top = 170 if not card else 90
+    # brand + kicker
+    if spec.get("brand"):
+        d.text((mx, top - 70), spec["brand"].upper(), font=font("en", "semi", 30), fill=MUTED)
+    kf = font(lang, "bold", 34)
+    d.rectangle([mx, top, mx + 64, top + 8], fill=ACCENT)
+    d.text((mx, top + 26), spec.get("kicker", ""), font=kf, fill=ACCENT)
+    # main block, vertically centred in the middle zone
+    zone_top, zone_bot = (top + 120, h - 330) if not card else (top + 110, h - 210)
+    blocks = []
+    if slide.get("stat"):
+        f, lines, s, bh = fit(d, slide["stat"], "en" if slide["stat"].isascii() else lang, "black", 210, maxw, 260)
+        blocks.append((f, lines, s, bh, ACCENT, 1.05))
+    if slide.get("title"):
+        f, lines, s, bh = fit(d, slide["title"], lang, "bold", 96 if not slide.get("stat") else 70, maxw, 560)
+        blocks.append((f, lines, s, bh, INK, 1.2))
+    if slide.get("body"):
+        f, lines, s, bh = fit(d, slide["body"], lang, "reg", 58, maxw, 680, minsize=32)
+        blocks.append((f, lines, s, bh, INK if not slide.get("title") else MUTED, 1.3))
+    gap = 44
+    total_h = sum(int(len(b[1]) * b[2] * b[5]) for b in blocks) + gap * (len(blocks) - 1)
+    y = zone_top + max(0, (zone_bot - zone_top - total_h) // 2)
+    for f, lines, s, bh, col, lh in blocks:
+        for ln in lines:
+            d.text((mx, y), ln, font=f, fill=col)
+            y += int(s * lh)
+        y += gap
+    # footer: source
+    sf = font(lang if not spec.get("source", "").isascii() else "en", "reg", 30)
+    slines = wrap(d, spec.get("source", ""), sf, maxw)
+    fy = h - (150 if not card else 110) - 40 * (len(slines) - 1)
+    d.line([mx, fy - 28, w - mx, fy - 28], fill=(80, 90, 106), width=2)
+    for ln in slines:
+        d.text((mx, fy), ln, font=sf, fill=MUTED)
+        fy += 40
+    return np.array(L, np.float32)
+
+
+def pad_audio(path, dur, sr=44100):
+    """Quiet, copyright-free synthesized ambient pad (A minor add9), with fades."""
+    t = np.arange(int(sr * dur)) / sr
+    freqs = [110.0, 164.81, 220.0, 261.63, 329.63, 493.88]
+    sig = np.zeros_like(t)
+    for i, f in enumerate(freqs):
+        lfo = 0.6 + 0.4 * np.sin(2 * math.pi * (0.05 + 0.02 * i) * t + i)
+        sig += lfo * (np.sin(2 * math.pi * f * t) + 0.3 * np.sin(2 * math.pi * f * 2.003 * t)) / (1 + i * 0.4)
+    sig /= np.max(np.abs(sig))
+    env = np.minimum(1, t / 2.0) * np.minimum(1, (dur - t) / 2.5)
+    sig = (sig * env * 0.18 * 32767).astype(np.int16)
+    with wave.open(path, "wb") as wv:
+        wv.setnchannels(1); wv.setsampwidth(2); wv.setframerate(sr); wv.writeframes(sig.tobytes())
+
+
+def render_video(spec, out_dir):
+    slides = spec["slides"]
+    n = len(slides)
+    durs = []
+    for s in slides:
+        words = len((s.get("title", "") + " " + s.get("body", "") + " " + s.get("stat", "")).split())
+        durs.append(min(6.0, max(3.5, 1.6 + words * 0.26)))
+    total = sum(durs)
+    bg = background(W + 120, H)
+    layers = [text_layer(s, spec, W, H, i, n) for i, s in enumerate(slides)]
+    vid_tmp = os.path.join(out_dir, spec["id"] + "_silent.mp4")
+    p = subprocess.Popen(["ffmpeg", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24",
+                          "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-", "-c:v", "libx264", "-preset", "medium",
+                          "-crf", "21", "-pix_fmt", "yuv420p", vid_tmp], stdin=subprocess.PIPE)
+    t0 = 0.0
+    fade = 0.45
+    for i, (lay, dur) in enumerate(zip(layers, durs)):
+        nf = int(dur * FPS)
+        a = lay[:, :, 3:4] / 255.0
+        rgb = lay[:, :, :3]
+        for k in range(nf):
+            t = k / FPS
+            gt = (t0 + t) / total
+            off = int(60 + 60 * math.sin(gt * math.pi))          # slow background drift
+            frame = bg[:, off:off + W].copy()
+            alpha = min(1.0, t / fade, (dur - t) / fade) if i < n - 1 else min(1.0, t / fade)
+            rise = int((1 - min(1.0, t / 0.6)) ** 3 * 40)          # text eases up into place
+            if rise:
+                aa = np.zeros_like(a); cc = np.zeros_like(rgb)
+                aa[:-rise] = a[rise:]; cc[:-rise] = rgb[rise:]
+            else:
+                aa, cc = a, rgb
+            frame = frame * (1 - aa * alpha) + cc * aa * alpha
+            # progress segments (story style)
+            seg_w = (W - 2 * 60 - (n - 1) * 10) / n
+            for j in range(n):
+                x0 = int(60 + j * (seg_w + 10)); x1 = int(x0 + seg_w)
+                frame[70:76, x0:x1] = (70, 78, 92)
+                fill = 1.0 if j < i else (t / dur if j == i else 0)
+                if fill > 0:
+                    frame[70:76, x0:x0 + int((x1 - x0) * fill)] = ACCENT
+            p.stdin.write(np.clip(frame, 0, 255).astype(np.uint8).tobytes())
+        t0 += dur
+    p.stdin.close(); p.wait()
+    wav = os.path.join(out_dir, spec["id"] + "_pad.wav")
+    pad_audio(wav, total)
+    out = os.path.join(out_dir, spec["id"] + ".mp4")
+    subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", vid_tmp, "-i", wav, "-c:v", "copy", "-c:a", "aac",
+                    "-b:a", "128k", "-shortest", "-movflags", "+faststart", out], check=True)
+    os.remove(vid_tmp); os.remove(wav)
+    return out, total
+
+
+def render_card(spec, out_dir):
+    cw, ch = 1080, 1350
+    card = spec.get("card") or next((s for s in spec["slides"] if s.get("stat")), spec["slides"][0])
+    bg = background(cw, ch)
+    lay = text_layer(card, spec, cw, ch, 0, 1, card=True)
+    a = lay[:, :, 3:4] / 255.0
+    img = bg * (1 - a) + lay[:, :, :3] * a
+    out = os.path.join(out_dir, spec["id"] + "_card.jpg")
+    Image.fromarray(np.clip(img, 0, 255).astype(np.uint8)).save(out, quality=90)
+    return out
+
+
+if __name__ == "__main__":
+    spec = json.load(open(sys.argv[1], encoding="utf-8"))
+    if not spec.get("brand"):
+        bf = os.path.join(HERE, "..", "BRAND.txt")
+        spec["brand"] = open(bf, encoding="utf-8").read().strip() if os.path.exists(bf) else "Be-Aware MG"
+    out_dir = sys.argv[2]
+    os.makedirs(out_dir, exist_ok=True)
+    res = {}
+    if "--card-only" not in sys.argv:
+        v, dur = render_video(spec, out_dir)
+        res.update(video=v, seconds=round(dur, 1))
+    res["card"] = render_card(spec, out_dir)
+    print(json.dumps(res))

@@ -1,0 +1,52 @@
+[
+ {
+  "date": "2026-10-12",
+  "slot": "first",
+  "lang": "en",
+  "type": "text",
+  "headline": "GCR2P Atrocity Alert No. 497: Alamata, Adwa/Sheraro strikes, Eritrea cutting ties",
+  "source": "GCR2P",
+  "url": "",
+  "post_id": ""
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "text",
+  "headline": "Hunger is rising behind the headlines (FEWS NET IPC 3 outlook, Tigray & Hararghe)",
+  "source": "Addis Standard via AllAfrica, Oct 9 2026",
+  "url": "https://allafrica.com/stories/202610090344.html",
+  "post_id": "105052697572360_1132323066043811"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "extra",
+  "lang": "am",
+  "type": "text",
+  "headline": "Amharic version of the FEWS NET food insecurity story",
+  "source": "Addis Standard via AllAfrica, Oct 9 2026",
+  "url": "https://allafrica.com/stories/202610090344.html",
+  "post_id": "105052697572360_1132408996035218"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "text",
+  "headline": "Federal forces enter Adwa, Tigray (Amharic)",
+  "source": "Al Jazeera/AFP, Oct 12 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say",
+  "post_id": "105052697572360_1132438912698893"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "text",
+  "headline": "Ethiopian troops reach Zalambessa on Eritrean border (Amharic)",
+  "source": "Reuters via Arab News, Oct 13 2026",
+  "url": "https://arabnews.pk/world/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears-3004054",
+  "post_id": "105052697572360_1132476986028419"
+ }
+]
