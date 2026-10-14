@@ -86,6 +86,57 @@ def background(w, h):
     return img.astype(np.float32)
 
 
+# --- Slide-1 locator map (approved by MG Oct 14, 2026) -------------------------
+# Outline: Ethiopia's outer border only (no internal region lines, some are disputed),
+# from github.com/johan/world.geo.json (Unlicense / Natural Earth, public domain).
+# Spec field "places": list of keys from PLACES (max 2 shown), e.g. ["mekelle"];
+# [] = nationwide story (outline, no dot). Optional "place_label" overrides the label.
+PLACES = {  # key: (lat, lon, English label, Amharic label)
+    "tigray": (13.9, 39.0, "TIGRAY", "ትግራይ"), "mekelle": (13.50, 39.47, "MEKELLE, TIGRAY", "መቐለ፣ ትግራይ"),
+    "adwa": (14.16, 38.90, "ADWA, TIGRAY", "አድዋ፣ ትግራይ"), "shire": (14.10, 38.28, "SHIRE, TIGRAY", "ሽሬ፣ ትግራይ"),
+    "alamata": (12.42, 39.55, "ALAMATA", "አላማጣ"), "korem": (12.51, 39.52, "KOREM", "ኮረም"),
+    "zalambessa": (14.52, 39.38, "ZALAMBESSA, TIGRAY", "ዛላምበሳ፣ ትግራይ"), "humera": (14.29, 36.62, "HUMERA", "ሁመራ"),
+    "amhara": (11.5, 38.0, "AMHARA", "አማራ"), "gondar": (12.61, 37.47, "GONDAR, AMHARA", "ጎንደር፣ አማራ"),
+    "bahir_dar": (11.59, 37.39, "BAHIR DAR, AMHARA", "ባሕር ዳር፣ አማራ"), "dessie": (11.13, 39.63, "DESSIE, AMHARA", "ደሴ፣ አማራ"),
+    "afar": (11.8, 41.0, "AFAR", "አፋር"), "semera": (11.79, 41.01, "SEMERA, AFAR", "ሰመራ፣ አፋር"),
+    "oromia": (7.8, 39.0, "OROMIA", "ኦሮሚያ"), "east_hararghe": (9.0, 41.8, "EAST HARARGHE, OROMIA", "ምሥራቅ ሐረርጌ፣ ኦሮሚያ"),
+    "west_hararghe": (8.9, 40.7, "WEST HARARGHE, OROMIA", "ምዕራብ ሐረርጌ፣ ኦሮሚያ"), "borana": (4.5, 38.5, "BORANA, OROMIA", "ቦረና፣ ኦሮሚያ"),
+    "jimma": (7.67, 36.83, "JIMMA, OROMIA", "ጅማ፣ ኦሮሚያ"), "nekemte": (9.09, 36.55, "NEKEMTE, OROMIA", "ነቀምት፣ ኦሮሚያ"),
+    "addis_ababa": (9.03, 38.74, "ADDIS ABABA", "አዲስ አበባ"), "dire_dawa": (9.60, 41.86, "DIRE DAWA", "ድሬዳዋ"),
+    "harar": (9.31, 42.12, "HARAR", "ሐረር"), "somali": (7.0, 43.5, "SOMALI REGION", "ሶማሌ ክልል"),
+    "benishangul": (10.8, 35.5, "BENISHANGUL-GUMUZ", "ቤኒሻንጉል ጉሙዝ"), "gambela": (7.9, 34.6, "GAMBELA", "ጋምቤላ"),
+    "sidama": (6.7, 38.5, "SIDAMA", "ሲዳማ"), "south": (6.2, 37.4, "SOUTHERN ETHIOPIA", "ደቡብ ኢትዮጵያ"),
+}
+_RING = None
+
+
+def draw_locator(d, spec, x, y, w):
+    """Draw the Ethiopia outline + place dot(s) + label. Returns the height used."""
+    global _RING
+    if _RING is None:
+        with open(os.path.join(HERE, "ethiopia_outline.geo.json"), encoding="utf-8") as fh:
+            _RING = json.load(fh)["features"][0]["geometry"]["coordinates"][0]
+    lang = spec.get("lang", "en")
+    lons = [p[0] for p in _RING]; lats = [p[1] for p in _RING]
+    lo0, lo1, la0, la1 = min(lons), max(lons), min(lats), max(lats)
+    k = math.cos(math.radians(9)); s = w / ((lo1 - lo0) * k); mh = (la1 - la0) * s
+    P = lambda lo, la: (x + (lo - lo0) * k * s, y + (la1 - la) * s)
+    pts = [P(*p) for p in _RING]
+    d.polygon(pts, fill=(40, 50, 66, 255))
+    d.line(pts + [pts[0]], fill=(120, 130, 146, 255), width=3, joint="curve")
+    keys = [p for p in spec.get("places", []) if p in PLACES][:2]
+    for key in keys:
+        cx, cy = P(PLACES[key][1], PLACES[key][0])
+        d.ellipse([cx - 30, cy - 30, cx + 30, cy + 30], outline=ACCENT + (110,), width=4)
+        d.ellipse([cx - 13, cy - 13, cx + 13, cy + 13], fill=ACCENT + (255,))
+    label = spec.get("place_label")
+    if not label:
+        names = [PLACES[k_][3 if lang == "am" else 2] for k_ in keys]
+        label = (" እና " if lang == "am" else " & ").join(names) if names else ("ኢትዮጵያ" if lang == "am" else "ETHIOPIA")
+    d.text((x, y + mh + 22), label, font=font(lang, "bold", 30), fill=ACCENT + (255,))
+    return int(mh + 70)
+
+
 def text_layer(slide, spec, w, h, idx, total, card=False):
     """Transparent RGBA layer with all text for one slide."""
     lang = spec.get("lang", "en")
@@ -116,6 +167,8 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     d.text((mx, top + 26), spec.get("kicker", ""), font=kf, fill=ACCENT)
     # main block, vertically centred in the middle zone
     zone_top, zone_bot = (top + 120, h - SAFE_BOTTOM - 200) if not card else (top + 110, h - 210)
+    if not card and idx == 0 and "places" in spec:
+        zone_top += draw_locator(d, spec, mx, top + 120, 330) + 30
     blocks = []
     if slide.get("stat"):
         f, lines, s, bh = fit(d, slide["stat"], "en" if slide["stat"].isascii() else lang, "black", 210, maxw, 240)

@@ -30,12 +30,19 @@ text must not overflow or overlap the source line.
 - Every slide carries the `source` footer (outlet, and report name if any, and date).
 - Last slide title = a neutral call (protect civilians / humanitarian access / restore communications /
   independent investigations / peaceful dialogue); body = "Follow for sourced updates from across Ethiopia."
+  (Amharic: "ከመላው ኢትዮጵያ ምንጩ የተጠቀሰ መረጃ ለማግኘት ይከተሉን።")
 - The renderer adds a small "Follow / for more" arrow (Amharic: "ለተጨማሪ / ይከተሉን") on the last slide,
   pointing at Facebook's Follow button, and shows slide 1 from the very first frame so the thumbnail
   is never blank. Do not change or move either one.
-  (Amharic: "ከመላው ኢትዮጵያ ምንጩ የተጠቀሰ መረጃ ለማግኘት ይከተሉን።")
 - `kicker` = TOPIC · REGION in caps (e.g. "FOOD SECURITY · TIGRAY & OROMIA").
-- No flags, logos, party colours, photos, maps of front lines or casualty imagery.
+- `places` (REQUIRED in every reel spec): where the story happened, as keys from `PLACES` in
+  tools/render_media.py, max 2, most specific that the source supports (e.g. ["mekelle"],
+  ["tigray", "east_hararghe"]). Use [] for a nationwide story. Slide 1 then shows a small outline of
+  Ethiopia with a dot per place and the place name; this keeps every thumbnail consistent. If a place is
+  missing from `PLACES`, use the nearest listed town or the region, never guess a location. Optional
+  `place_label` overrides the label text. Do not add internal region borders.
+- No flags, logos, party colours, photos, maps of front lines or casualty imagery (the plain locator
+  map above is the only map allowed).
 
 ## Publish
 1. `git add specs media posted.json && git commit && git push origin main`. Public URL:
