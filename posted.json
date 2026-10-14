@@ -128,5 +128,15 @@
   "source": "Reuters, Oct 13 2026",
   "url": "https://www.thestar.com.my/news/world/2026/10/14/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears",
   "post_id": "1598065164593539"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "UN Security Council holds second closed meeting on northern Ethiopia in two weeks (US-requested, Oct 13)",
+  "source": "Security Council Report, Oct 12 2026",
+  "url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/horn-of-africa-closed-consultations.php",
+  "post_id": "105052697572360_1133547742588010"
  }
 ]
