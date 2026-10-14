@@ -213,17 +213,56 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     return np.array(L, np.float32)
 
 
-def pad_audio(path, dur, sr=44100):
-    """Quiet, copyright-free synthesized ambient pad (A minor add9), with fades."""
-    t = np.arange(int(sr * dur)) / sr
-    freqs = [110.0, 164.81, 220.0, 261.63, 329.63, 493.88]
-    sig = np.zeros_like(t)
-    for i, f in enumerate(freqs):
-        lfo = 0.6 + 0.4 * np.sin(2 * math.pi * (0.05 + 0.02 * i) * t + i)
-        sig += lfo * (np.sin(2 * math.pi * f * t) + 0.3 * np.sin(2 * math.pi * f * 2.003 * t)) / (1 + i * 0.4)
+def pad_audio(path, dur, sr=44100, seed=""):
+    """Original, copyright-free music bed "C6", chosen by MG on Oct 14, 2026: clean 3-note chords
+    (D minor -> C, open voicing, no detune), a soft bass drum about every 2.8 s (pitched so phone
+    speakers can hear it) and a light shaker / rim tick. No melody. The key moves by up to two
+    semitones per reel (picked from the spec id) so consecutive reels don't sound identical."""
+    n = int(sr * dur); t = np.arange(n) / sr
+    rng = np.random.default_rng(5)
+    shift = 2 ** ([0, -2, 2][sum(map(ord, seed)) % 3] / 12)
+    chords = [[146.83, 220.00, 349.23], [130.81, 196.00, 329.63]]
+
+    def chord(freqs, length):
+        tt = np.arange(int(sr * length)) / sr
+        s = sum((np.sin(2 * math.pi * f * shift * tt) + 0.18 * np.sin(4 * math.pi * f * shift * tt)) * (1.0 if i == 0 else 0.8)
+                for i, f in enumerate(freqs))
+        return s / np.max(np.abs(s))
+
+    sig = np.zeros(n); seg = 7.0; x = 0; i = 0
+    while x < n:
+        c = chord(chords[i % 2], seg + 1.5); m = min(len(c), n - x); k = np.arange(m)
+        sig[x:x + m] += c[:m] * np.minimum(1, k / (sr * 1.5)) * np.minimum(1, (m - k) / (sr * 1.5))
+        x += int(sr * seg); i += 1
+    a = math.exp(-2 * math.pi * 2500 / sr)                      # gentle low-pass, softens the top end
+    sig = np.convolve(sig, (1 - a) * a ** np.arange(80))[:n]
+    sig = sig / np.max(np.abs(sig)) * 0.55
+
+    def put(snd, at, g):
+        j = int(at * sr); m = min(len(snd), n - j)
+        if m > 0:
+            sig[j:j + m] += snd[:m] * g
+
+    tk = np.arange(int(sr * 0.45)) / sr
+    ph = np.cumsum(60 + 60 * np.exp(-tk * 25)) / sr
+    kick = (np.sin(2 * math.pi * ph) * np.exp(-tk * 9) + 0.35 * np.sin(4 * math.pi * ph) * np.exp(-tk * 14)
+            + rng.standard_normal(len(tk)) * np.exp(-tk * 400) * 0.25)
+    ts = np.arange(int(sr * 0.09)) / sr
+    nz = rng.standard_normal(len(ts)); nz = nz - np.convolve(nz, np.ones(6) / 6, "same")
+    shaker = nz * np.minimum(1, ts / 0.01) * np.exp(-ts * 45)
+    tr = np.arange(int(sr * 0.06)) / sr
+    rim = (np.sin(2 * math.pi * 1700 * tr) + 0.5 * np.sin(2 * math.pi * 2900 * tr)) * np.exp(-tr * 90)
+    beat, b, k = 1.4, 0.0, 0
+    while b < dur:
+        if k % 2 == 0:
+            put(kick, b, 0.5)
+        put(shaker, b + beat / 2, 0.10); put(shaker, b + beat * 0.25, 0.05); put(shaker, b + beat * 0.75, 0.05)
+        if k % 4 == 3:
+            put(rim, b, 0.12)
+        b += beat; k += 1
     sig /= np.max(np.abs(sig))
-    env = np.minimum(1, t / 2.0) * np.minimum(1, (dur - t) / 2.5)
-    sig = (sig * env * 0.18 * 32767).astype(np.int16)
+    env = np.minimum(1, t / 1.5) * np.minimum(1, (dur - t) / 2.0)
+    sig = (sig * env * 0.30 * 32767).astype(np.int16)
     with wave.open(path, "wb") as wv:
         wv.setnchannels(1); wv.setsampwidth(2); wv.setframerate(sr); wv.writeframes(sig.tobytes())
 
@@ -276,7 +315,7 @@ def render_video(spec, out_dir):
         t0 += dur
     p.stdin.close(); p.wait()
     wav = os.path.join(out_dir, spec["id"] + "_pad.wav")
-    pad_audio(wav, total)
+    pad_audio(wav, total, seed=spec.get("id", ""))
     out = os.path.join(out_dir, spec["id"] + ".mp4")
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", vid_tmp, "-i", wav, "-c:v", "copy", "-c:a", "aac",
                     "-b:a", "128k", "-shortest", "-movflags", "+faststart", out], check=True)
