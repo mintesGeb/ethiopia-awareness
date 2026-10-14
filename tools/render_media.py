@@ -97,7 +97,19 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     top = SAFE_TOP if not card else 90
     # brand + kicker
     if spec.get("brand"):
-        d.text((mx, top - 70), spec["brand"].upper(), font=font("en", "semi", 30), fill=MUTED)
+        # Channel name in white; MG's signature ("MG") smaller, in the amber accent.
+        name, sig = spec["brand"].strip(), ""
+        if name.upper().endswith(" MG"):
+            name, sig = name[:-3].strip(), "MG"
+        nf = font("en", "bold", 32)
+        by = top - 72
+        d.text((mx, by), name.upper(), font=nf, fill=INK)
+        if sig:
+            sf_ = font("en", "bold", 21)
+            nx = mx + d.textlength(name.upper(), font=nf) + 12
+            # align baselines
+            yb = by + nf.getmetrics()[0] - sf_.getmetrics()[0]
+            d.text((nx, yb), sig, font=sf_, fill=ACCENT)
     kf = font(lang, "bold", 34)
     d.rectangle([mx, top, mx + 64, top + 8], fill=ACCENT)
     d.text((mx, top + 26), spec.get("kicker", ""), font=kf, fill=ACCENT)
