@@ -30,6 +30,9 @@ text must not overflow or overlap the source line.
 - Every slide carries the `source` footer (outlet, and report name if any, and date).
 - Last slide title = a neutral call (protect civilians / humanitarian access / restore communications /
   independent investigations / peaceful dialogue); body = "Follow for sourced updates from across Ethiopia."
+- The renderer adds a small "Follow / for more" arrow (Amharic: "ለተጨማሪ / ይከተሉን") on the last slide,
+  pointing at Facebook's Follow button, and shows slide 1 from the very first frame so the thumbnail
+  is never blank. Do not change or move either one.
   (Amharic: "ከመላው ኢትዮጵያ ምንጩ የተጠቀሰ መረጃ ለማግኘት ይከተሉን።")
 - `kicker` = TOPIC · REGION in caps (e.g. "FOOD SECURITY · TIGRAY & OROMIA").
 - No flags, logos, party colours, photos, maps of front lines or casualty imagery.

@@ -34,6 +34,7 @@ INK = (244, 241, 234)
 MUTED = (168, 176, 190)
 # Facebook Reels safe zones (1080x1920), checked against a real upload on Oct 13, 2026
 SAFE_TOP, SAFE_BOTTOM, SAFE_RIGHT, PB_Y = 400, 420, 170, 300
+CTA_Y = 1690   # level with Facebook's page name + Follow button on phones
 
 
 def font(lang, weight, size):
@@ -135,6 +136,19 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
             d.text((mx, y), ln, font=f, fill=col)
             y += int(s * lh)
         y += gap
+    # Reels, last slide only: a small "Follow for more" arrow pointing left at Facebook's
+    # Follow button (approved by MG Oct 14, 2026). Kept well right of "Follow" so the
+    # arrowhead stays clear when the button changes to "Following".
+    if not card and idx == total - 1:
+        y = CTA_Y
+        tip, tail = 625, 835
+        d.line([(tip + 18, y), (tail, y)], fill=ACCENT, width=7)
+        d.polygon([(tip, y), (tip + 28, y - 17), (tip + 28, y + 17)], fill=ACCENT)
+        top_t, bot_t = ("ለተጨማሪ", "ይከተሉን") if lang == "am" else ("Follow", "for more")
+        cf = font(lang, "bold", 27)
+        cx = tail - 62
+        for txt, ty in ((top_t, y - 50), (bot_t, y + 20)):
+            d.text((cx - d.textlength(txt, font=cf) / 2, ty), txt, font=cf, fill=ACCENT)
     # footer: source
     sf = font(lang if not spec.get("source", "").isascii() else "en", "reg", 30)
     slines = wrap(d, spec.get("source", ""), sf, maxw)
@@ -186,8 +200,11 @@ def render_video(spec, out_dir):
             gt = (t0 + t) / total
             off = int(60 + 60 * math.sin(gt * math.pi))          # slow background drift
             frame = bg[:, off:off + W].copy()
-            alpha = min(1.0, t / fade, (dur - t) / fade) if i < n - 1 else min(1.0, t / fade)
-            rise = int((1 - min(1.0, t / 0.6)) ** 3 * 40)          # text eases up into place
+            # Slide 1 is fully visible from the first frame, because Facebook uses
+            # the first frame as the reel's thumbnail (a fade-in left it blank).
+            fade_in = 1.0 if i == 0 else t / fade
+            alpha = min(1.0, fade_in, (dur - t) / fade) if i < n - 1 else min(1.0, fade_in)
+            rise = 0 if i == 0 else int((1 - min(1.0, t / 0.6)) ** 3 * 40)   # text eases up into place
             if rise:
                 aa = np.zeros_like(a); cc = np.zeros_like(rgb)
                 aa[:-rise] = a[rise:]; cc[:-rise] = rgb[rise:]
