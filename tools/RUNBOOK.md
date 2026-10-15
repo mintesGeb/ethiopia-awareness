@@ -24,6 +24,16 @@ ffmpeg -loglevel error -y -ss 8 -i media/<id>.mp4 -frames:v 1 /tmp/check.jpg   #
 Needs ffmpeg, numpy, Pillow (all preinstalled). Always look at one frame (or the card) before posting:
 text must not overflow or overlap the source line.
 
+## Finding stories (added Oct 15, 2026 at MG's request: don't miss fresh stories)
+- Before picking, search the last 48 hours broadly, not only the slot's main topic. Besides conflict and
+  human rights, also check: Ethiopian migrants (Djibouti/Yemen/Gulf route, IOM), diaspora-relevant
+  security alerts and travel advisories (US/UK embassies), displacement, press freedom, health/outbreaks,
+  and economy news that hits civilians (fuel, cash, banking, internet shutdowns).
+- Use at least three different searches, including one for "Ethiopia" news from the last 24 hours and
+  one Ethiopian outlet (Addis Standard, The Reporter, BBC Amharic).
+- If a fresh, major story clearly fits better than the slot's usual topic, use it (keeping the slot's
+  format), and note that in the report.
+
 ## Writing slides (same neutrality and sourcing rules as the text posts)
 - 5-7 slides. Slide 1 = hook title of max ~8 words (plus an optional short body).
 - Middle slides: one fact each. Use `stat` only for a number stated in the source.

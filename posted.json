@@ -158,5 +158,25 @@
   "source": "AP via WTOP, Oct 15 2026",
   "url": "https://wtop.com/world/2026/10/rubio-urges-restraint-over-ethiopia-eritrea-tensions-as-rights-group-reports-civilians-killed/",
   "post_id": "105052697572360_1134113202531464"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "139 dead off Djibouti; migrant boat to Yemen capsized, survivors all Ethiopian (IOM)",
+  "source": "AP via PBS NewsHour, Oct 11 2026",
+  "url": "https://www.pbs.org/newshour/world/at-least-139-migrants-dead-dozens-missing-after-boat-capsizes-off-djibouti-coast",
+  "post_id": "2130605931163496"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "manual-planned-2pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "PLANNED (do not repeat): US Embassy alert: possible long-range attacks; do not travel to Amhara, Tigray, Afar; beware false reports",
+  "source": "Anadolu Oct 7 2026; Fox News Oct 14 2026",
+  "url": "https://www.aa.com.tr/en/americas/us-embassy-warns-of-possible-long-range-attacks-targeting-ethiopian-military-installations/4081480",
+  "post_id": ""
  }
 ]
