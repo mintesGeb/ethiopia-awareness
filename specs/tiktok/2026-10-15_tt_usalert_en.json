@@ -1,0 +1,32 @@
+{
+"brand": "Be-Aware MG",
+"platform": "tiktok",
+"id": "2026-10-15_tt_usalert_en",
+"lang": "en",
+"kicker": "SECURITY ALERT · ETHIOPIA",
+"places": [],
+"place_label": "ETHIOPIA",
+"slides": [
+{
+"title": "US Embassy alert for Ethiopia",
+"body": "What it told US citizens this month"
+},
+{
+"title": "Possible long-range attacks",
+"body": "The embassy said it is aware of reports of possible long-range attacks on Ethiopian military installations."
+},
+{
+"title": "Do not travel to Amhara, Tigray or Afar",
+"body": "US citizens there were told to leave if it is safe, or to shelter in place."
+},
+{
+"title": "Beware false reports",
+"body": "The embassy warned of false and misleading social media reports about the security situation, and urged people to check reliable sources."
+},
+{
+"title": "Stay informed. Verify before you share.",
+"body": "Follow for sourced updates from across Ethiopia."
+}
+],
+"source": "Source: Anadolu Agency, Oct 7, 2026; Fox News, Oct 14, 2026"
+}
