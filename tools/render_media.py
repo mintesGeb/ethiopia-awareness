@@ -35,6 +35,7 @@ MUTED = (168, 176, 190)
 # Facebook Reels safe zones (1080x1920), checked against a real upload on Oct 13, 2026
 SAFE_TOP, SAFE_BOTTOM, SAFE_RIGHT, PB_Y = 400, 420, 170, 300
 CTA_Y = 1690   # level with Facebook's page name + Follow button on phones
+TT_CTA_Y = 1110  # TikTok: level with the profile picture (+ follow) in the right-hand column
 
 
 def font(lang, weight, size):
@@ -167,6 +168,9 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     d.text((mx, top + 26), spec.get("kicker", ""), font=kf, fill=ACCENT)
     # main block, vertically centred in the middle zone
     zone_top, zone_bot = (top + 120, h - SAFE_BOTTOM - 200) if not card else (top + 110, h - 210)
+    tiktok = spec.get("platform") == "tiktok"
+    if tiktok and not card and idx == total - 1:
+        zone_bot = min(zone_bot, TT_CTA_Y - 120)
     if not card and idx == 0 and "places" in spec:
         zone_top += draw_locator(d, spec, mx, top + 120, 330) + 30
     blocks = []
@@ -192,7 +196,18 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
     # Reels, last slide only: a small "Follow for more" arrow pointing left at Facebook's
     # Follow button (approved by MG Oct 14, 2026). Kept well right of "Follow" so the
     # arrowhead stays clear when the button changes to "Following".
-    if not card and idx == total - 1:
+    if not card and idx == total - 1 and tiktok:
+        # TikTok: the follow "+" sits on the profile picture in the right-hand column
+        y = TT_CTA_Y
+        tail, tip = 690, 905
+        d.line([(tail, y), (tip - 18, y)], fill=ACCENT, width=7)
+        d.polygon([(tip, y), (tip - 28, y - 17), (tip - 28, y + 17)], fill=ACCENT)
+        top_t, bot_t = ("ለተጨማሪ", "ይከተሉን") if lang == "am" else ("Follow", "for more")
+        cf = font(lang, "bold", 27)
+        cx = tail + 62
+        for txt, ty in ((top_t, y - 50), (bot_t, y + 20)):
+            d.text((cx - d.textlength(txt, font=cf) / 2, ty), txt, font=cf, fill=ACCENT)
+    elif not card and idx == total - 1:
         y = CTA_Y
         tip, tail = 625, 835
         d.line([(tip + 18, y), (tail, y)], fill=ACCENT, width=7)
@@ -273,7 +288,10 @@ def render_video(spec, out_dir):
     durs = []
     for s in slides:
         words = len((s.get("title", "") + " " + s.get("body", "") + " " + s.get("stat", "")).split())
-        durs.append(min(6.0, max(3.5, 1.6 + words * 0.26)))
+        if spec.get("platform") == "tiktok":
+            durs.append(min(4.6, max(2.8, 1.2 + words * 0.21)))     # TikTok: quicker pacing
+        else:
+            durs.append(min(6.0, max(3.5, 1.6 + words * 0.26)))
     total = sum(durs)
     bg = background(W + 120, H)
     layers = [text_layer(s, spec, W, H, i, n) for i, s in enumerate(slides)]
