@@ -72,7 +72,8 @@ def fit(draw, text, lang, weight, size, maxw, maxh, lh=1.22, minsize=34):
         f = font(lang, weight, size)
         lines = wrap(draw, text, f, maxw)
         h = int(len(lines) * size * lh)
-        if h <= maxh or size <= minsize:
+        too_wide = any(draw.textlength(ln, font=f) > maxw for ln in lines)   # e.g. a long number can't wrap
+        if (h <= maxh and not too_wide) or size <= minsize:
             return f, lines, size, h
         size -= 4
 
