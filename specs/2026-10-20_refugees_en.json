@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-20_refugees_en",
+ "lang": "en",
+ "kicker": "REFUGEES · GAMBELA & SOMALI REGION",
+ "places": [
+  "gambela",
+  "somali"
+ ],
+ "slides": [
+  {
+   "title": "A million refugees, and registration has stopped",
+   "body": "UNHCR warns funding cuts are hitting refugees in Ethiopia"
+  },
+  {
+   "title": "Ethiopia hosts 1,023,565 refugees and asylum-seekers",
+   "body": "as of Aug. 31, 2026, Government/UNHCR data show. Most live in Gambela (441,416) and the Somali region (361,366)."
+  },
+  {
+   "stat": "469,858",
+   "title": "from South Sudan",
+   "body": "the largest group, followed by 362,151 from Somalia, 124,650 from Eritrea and 57,694 from Sudan (UNHCR data)."
+  },
+  {
+   "title": "Registration halted",
+   "body": "for tens of thousands of people arriving from South Sudan and Eritrea, UN News reported on Oct. 12. Hundreds of thousands more await verification."
+  },
+  {
+   "stat": "$3B",
+   "title": "received of $8.5B needed",
+   "body": "UNHCR's funding so far in 2026, worldwide. Its chief, Barham Salih, warned: \"Efficiency has limits.\""
+  },
+  {
+   "title": "Protect refugees. Keep humanitarian aid flowing.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: UN News, Oct 12, 2026 · UNHCR data, Aug 31, 2026",
+ "card": {
+  "stat": "469,858",
+  "title": "refugees from South Sudan in Ethiopia",
+  "body": "Registration has been halted for tens of thousands of new arrivals, UN News reported (Oct. 12)."
+ }
+}
