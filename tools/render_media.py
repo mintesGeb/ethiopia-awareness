@@ -106,7 +106,7 @@ PLACES = {  # key: (lat, lon, English label, Amharic label)
     "addis_ababa": (9.03, 38.74, "ADDIS ABABA", "አዲስ አበባ"), "dire_dawa": (9.60, 41.86, "DIRE DAWA", "ድሬዳዋ"),
     "harar": (9.31, 42.12, "HARAR", "ሐረር"), "somali": (7.0, 43.5, "SOMALI REGION", "ሶማሌ ክልል"),
     "benishangul": (10.8, 35.5, "BENISHANGUL-GUMUZ", "ቤኒሻንጉል ጉሙዝ"), "gambela": (7.9, 34.6, "GAMBELA", "ጋምቤላ"),
-    "sidama": (6.7, 38.5, "SIDAMA", "ሲዳማ"), "south": (6.2, 37.4, "SOUTHERN ETHIOPIA", "ደቡብ ኢትዮጵያ"),
+    "sidama": (6.7, 38.5, "SIDAMA", "ሲዳማ"), "gurage": (8.12, 38.37, "EAST GURAGE, CENTRAL ETH.", "ምሥራቅ ጉራጌ"), "south": (6.2, 37.4, "SOUTHERN ETHIOPIA", "ደቡብ ኢትዮጵያ"),
 }
 _RING = None
 
