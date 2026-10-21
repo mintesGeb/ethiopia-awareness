@@ -1,0 +1,46 @@
+{
+ "id": "2026-10-21_amharahealth_en",
+ "lang": "en",
+ "kicker": "HEALTH · AMHARA",
+ "places": ["amhara"],
+ "slides": [
+  {
+   "title": "Mobile clinics in Amhara are shutting down",
+   "body": "The UN warns funding cuts threaten health care for displaced families"
+  },
+  {
+   "stat": "57",
+   "title": "mobile health and nutrition teams needed in Amhara",
+   "body": "according to the UN humanitarian office, OCHA."
+  },
+  {
+   "stat": "16",
+   "title": "teams are operating now",
+   "body": "fewer than a third of the teams OCHA says the region needs."
+  },
+  {
+   "stat": "10",
+   "title": "of those 16 expected to stop by end of October",
+   "body": "because of funding constraints, OCHA said."
+  },
+  {
+   "stat": "11,976",
+   "title": "people live at China camp, Debre Birhan",
+   "body": "Residents told Addis Standard that aid groups pulling out left them struggling to get basic medical care."
+  },
+  {
+   "title": "Food aid planned for about 100,000 people",
+   "body": "in Wag Hamra and North Wollo zones, OCHA said. In Tigray, more medical and nutrition supplies have arrived."
+  },
+  {
+   "title": "Keep life-saving health care reaching civilians.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: OCHA via Addis Standard, Oct 21, 2026",
+ "card": {
+  "stat": "10 of 16",
+  "title": "mobile health teams in Amhara set to close by end of October",
+  "body": "Funding shortfalls, the UN humanitarian office OCHA said (Oct. 21)."
+ }
+}
