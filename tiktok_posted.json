@@ -143,5 +143,33 @@
   "headline": "Sodo attacks (question hook test)",
   "hook": "question",
   "status": "posted by MG Oct 20"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "2026-10-21_tt_finarwa_n_en",
+  "headline": "TikTok cut of FB Oct 21 4pm Amharic reel: Finarwa drone strike (English)",
+  "hook": "number",
+  "status": "sent to MG"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "2026-10-21_tt_amharahealth_q_en",
+  "headline": "TikTok cut of FB Oct 21 1pm reel: Amhara mobile clinics closing",
+  "hook": "question",
+  "status": "sent to MG"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "2026-10-21_tt_unceasefire_en",
+  "headline": "Fresh: UN's Ojielo calls for immediate Tigray ceasefire (Oct 20)",
+  "hook": "headline",
+  "status": "sent to MG"
+ },
+ {
+  "date": "2026-10-21",
+  "id": "2026-10-21_tt_eritrea_am",
+  "headline": "Fresh: TPF says TPLF leaders crossed into Eritrea; Eritrea and TPLF deny (AFP, Oct 20) (Amharic)",
+  "hook": "headline",
+  "status": "sent to MG"
  }
 ]
