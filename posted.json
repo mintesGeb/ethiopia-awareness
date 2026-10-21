@@ -528,5 +528,27 @@
   "source": "AFP via APA, Oct 21 2026",
   "url": "https://en.apa.az/africa/afp-four-people-killed-in-drone-strike-in-ethiopia-531461",
   "post_id": "1621088016698109"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): UN Resident Coordinator Ozonnia Ojielo calls for immediate Tigray ceasefire, aid access, civilian government (Oct 20)",
+  "source": "The Reporter (Ethiopia) via The Rio Times, Oct 21 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-21_fb_unceasefire_en"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "manual",
+  "lang": "am",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): TPF commander says TPLF leaders crossed into Eritrea; Eritrea's info minister calls it lies; TPLF denies (Amharic)",
+  "source": "AFP via The Peninsula, Oct 21 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-21_fb_eritrea_am"
  }
 ]
