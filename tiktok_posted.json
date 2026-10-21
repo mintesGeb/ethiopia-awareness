@@ -127,14 +127,14 @@
   "date": "2026-10-20",
   "id": "2026-10-20_tt_refugees_en",
   "headline": "TikTok cut of FB Oct 20 1pm reel: 1M refugees, registration halted",
-  "status": "sent to MG",
+  "status": "posted by MG Oct 20",
   "hook": "headline"
  },
  {
   "date": "2026-10-20",
   "id": "2026-10-20_tt_arsi_am",
   "headline": "TikTok cut of FB Oct 20 4pm Amharic reel: East Arsi killings/abductions",
-  "status": "sent to MG",
+  "status": "posted by MG Oct 20",
   "hook": "headline"
  },
  {
@@ -142,6 +142,6 @@
   "id": "2026-10-20_tt_sodo_q_en",
   "headline": "Sodo attacks (question hook test)",
   "hook": "question",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 20"
  }
 ]
