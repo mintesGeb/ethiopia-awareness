@@ -128,48 +128,55 @@
   "id": "2026-10-20_tt_refugees_en",
   "headline": "TikTok cut of FB Oct 20 1pm reel: 1M refugees, registration halted",
   "status": "posted by MG Oct 20",
-  "hook": "headline"
+  "hook": "headline",
+  "views_2026-10-22_1140": 0
  },
  {
   "date": "2026-10-20",
   "id": "2026-10-20_tt_arsi_am",
   "headline": "TikTok cut of FB Oct 20 4pm Amharic reel: East Arsi killings/abductions",
   "status": "posted by MG Oct 20",
-  "hook": "headline"
+  "hook": "headline",
+  "views_2026-10-22_1140": 0
  },
  {
   "date": "2026-10-20",
   "id": "2026-10-20_tt_sodo_q_en",
   "headline": "Sodo attacks (question hook test)",
   "hook": "question",
-  "status": "posted by MG Oct 20"
+  "status": "posted by MG Oct 20",
+  "views_2026-10-22_1140": 0
  },
  {
   "date": "2026-10-21",
   "id": "2026-10-21_tt_finarwa_n_en",
   "headline": "TikTok cut of FB Oct 21 4pm Amharic reel: Finarwa drone strike (English)",
   "hook": "number",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 21-22",
+  "views_2026-10-22_1140": 0
  },
  {
   "date": "2026-10-21",
   "id": "2026-10-21_tt_amharahealth_q_en",
   "headline": "TikTok cut of FB Oct 21 1pm reel: Amhara mobile clinics closing",
   "hook": "question",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 21-22",
+  "views_2026-10-22_1140": 48
  },
  {
   "date": "2026-10-21",
   "id": "2026-10-21_tt_unceasefire_en",
   "headline": "Fresh: UN's Ojielo calls for immediate Tigray ceasefire (Oct 20)",
   "hook": "headline",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 21-22",
+  "views_2026-10-22_1140": 5
  },
  {
   "date": "2026-10-21",
   "id": "2026-10-21_tt_eritrea_am",
   "headline": "Fresh: TPF says TPLF leaders crossed into Eritrea; Eritrea and TPLF deny (AFP, Oct 20) (Amharic)",
   "hook": "headline",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 21-22",
+  "views_2026-10-22_1140": 6
  }
 ]
