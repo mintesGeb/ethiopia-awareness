@@ -137,7 +137,8 @@
   "headline": "TikTok cut of FB Oct 20 4pm Amharic reel: East Arsi killings/abductions",
   "status": "posted by MG Oct 20",
   "hook": "headline",
-  "views_2026-10-22_1140": 0
+  "views_2026-10-22_1140": 0,
+  "views_2026-10-22_1710": 2
  },
  {
   "date": "2026-10-20",
@@ -145,7 +146,8 @@
   "headline": "Sodo attacks (question hook test)",
   "hook": "question",
   "status": "posted by MG Oct 20",
-  "views_2026-10-22_1140": 0
+  "views_2026-10-22_1140": 0,
+  "views_2026-10-22_1710": 1
  },
  {
   "date": "2026-10-21",
@@ -153,7 +155,8 @@
   "headline": "TikTok cut of FB Oct 21 4pm Amharic reel: Finarwa drone strike (English)",
   "hook": "number",
   "status": "posted by MG Oct 21-22",
-  "views_2026-10-22_1140": 0
+  "views_2026-10-22_1140": 0,
+  "views_2026-10-22_1710": 0
  },
  {
   "date": "2026-10-21",
@@ -161,7 +164,8 @@
   "headline": "TikTok cut of FB Oct 21 1pm reel: Amhara mobile clinics closing",
   "hook": "question",
   "status": "posted by MG Oct 21-22",
-  "views_2026-10-22_1140": 48
+  "views_2026-10-22_1140": 48,
+  "views_2026-10-22_1710": 119
  },
  {
   "date": "2026-10-21",
@@ -169,7 +173,8 @@
   "headline": "Fresh: UN's Ojielo calls for immediate Tigray ceasefire (Oct 20)",
   "hook": "headline",
   "status": "posted by MG Oct 21-22",
-  "views_2026-10-22_1140": 5
+  "views_2026-10-22_1140": 5,
+  "views_2026-10-22_1710": 181
  },
  {
   "date": "2026-10-21",
@@ -177,6 +182,28 @@
   "headline": "Fresh: TPF says TPLF leaders crossed into Eritrea; Eritrea and TPLF deny (AFP, Oct 20) (Amharic)",
   "hook": "headline",
   "status": "posted by MG Oct 21-22",
-  "views_2026-10-22_1140": 6
+  "views_2026-10-22_1140": 6,
+  "views_2026-10-22_1710": 150
+ },
+ {
+  "date": "2026-10-22",
+  "id": "2026-10-22_tt_tigraylife_n_en",
+  "headline": "TikTok cut of FB Oct 22 10am text: Mekelle reopens, 137,000 unpaid (Al Jazeera)",
+  "hook": "number",
+  "status": "sent to MG"
+ },
+ {
+  "date": "2026-10-22",
+  "id": "2026-10-22_tt_aidworkers_q_en",
+  "headline": "TikTok cut of FB Oct 22 1pm reel: who protects aid workers",
+  "hook": "question",
+  "status": "sent to MG"
+ },
+ {
+  "date": "2026-10-22",
+  "id": "2026-10-22_tt_deraschool_en",
+  "headline": "TikTok cut of FB Oct 22 7am/4pm reels: Dera school drone strike",
+  "hook": "headline",
+  "status": "sent to MG"
  }
 ]
