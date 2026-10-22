@@ -1,0 +1,37 @@
+{
+ "id": "2026-10-22_deraschool_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · SOUTH GONDAR, AMHARA",
+ "places": ["bahir_dar"],
+ "place_label": "SOUTH GONDAR, AMHARA",
+ "slides": [
+  {
+   "title": "A drone strike reportedly hit a school",
+   "body": "Sana Elementary School, Dera district, South Gondar zone, Amhara"
+  },
+  {
+   "stat": "6",
+   "title": "schoolchildren reported killed",
+   "body": "on Tuesday, Oct 20, around 10 a.m., with classes in session, Borkena reported, citing Anchor Media and EMS."
+  },
+  {
+   "stat": "27",
+   "title": "others reported wounded",
+   "body": "and taken to hospital. Their condition was not given. The figures have not been independently verified."
+  },
+  {
+   "title": "The account is disputed",
+   "body": "Reports attributed the strike to the federal military. Pro-government social media accounts claimed it targeted Fano fighters and no children died. The government and army have not commented."
+  },
+  {
+   "title": "Protect schools and civilians. Investigate independently.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Borkena (citing Anchor Media, EMS), Oct 21, 2026",
+ "card": {
+  "stat": "6",
+  "title": "schoolchildren reported killed in a drone strike in South Gondar",
+  "body": "Borkena, Oct 21, 2026. Not independently verified."
+ }
+}
