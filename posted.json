@@ -661,5 +661,16 @@
   "source": "Associated Press, Oct 23 2026",
   "url": "https://www.boston25news.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/",
   "post_id": "1818432406163459"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): Explainer: Alamein Declaration (Egypt, Eritrea, Somalia, Sudan, Oct 4) and what it means for Ethiopia",
+  "source": "Al Jazeera, Oct 5 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-23_fb_alamein_en"
  }
 ]
