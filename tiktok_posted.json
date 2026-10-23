@@ -167,7 +167,12 @@
   "status": "posted by MG Oct 21-22",
   "views_2026-10-22_1140": 48,
   "views_2026-10-22_1710": 119,
-  "views_2026-10-23_0855": 230
+  "views_2026-10-23_0855": 230,
+  "stats_2026-10-23_1700": {
+   "views": 249,
+   "likes": 3,
+   "comments": 1
+  }
  },
  {
   "date": "2026-10-21",
@@ -187,7 +192,13 @@
   "status": "posted by MG Oct 21-22",
   "views_2026-10-22_1140": 6,
   "views_2026-10-22_1710": 150,
-  "views_2026-10-23_0855": 386
+  "views_2026-10-23_0855": 386,
+  "stats_2026-10-23_1700": {
+   "views": 410,
+   "likes": 8,
+   "comments": 1
+  },
+  "uploaded": "Oct 22 11:07 AM"
  },
  {
   "date": "2026-10-22",
@@ -195,7 +206,13 @@
   "headline": "TikTok cut of FB Oct 22 10am text: Mekelle reopens, 137,000 unpaid (Al Jazeera)",
   "hook": "number",
   "status": "posted by MG Oct 22 evening (close together)",
-  "views_2026-10-23_0855": 0
+  "views_2026-10-23_0855": 0,
+  "stats_2026-10-23_1700": {
+   "views": 2,
+   "likes": 1,
+   "comments": 1
+  },
+  "uploaded": "Oct 22 11:38 PM"
  },
  {
   "date": "2026-10-22",
@@ -203,7 +220,13 @@
   "headline": "TikTok cut of FB Oct 22 1pm reel: who protects aid workers",
   "hook": "question",
   "status": "posted by MG Oct 22 evening (close together)",
-  "views_2026-10-23_0855": 0
+  "views_2026-10-23_0855": 0,
+  "stats_2026-10-23_1700": {
+   "views": 1,
+   "likes": 1,
+   "comments": 1
+  },
+  "uploaded": "Oct 22 11:39 PM"
  },
  {
   "date": "2026-10-22",
@@ -219,13 +242,25 @@
   "headline": "TikTok cut of FB Oct 23 1pm reel: Moyale families flee to Kenya; Kenya Red Cross response (test post after rejection; Account check = no outstanding issues)",
   "hook": "headline",
   "status": "posted by MG Oct 23 1:00 PM ET",
-  "views_2026-10-23_1436": 135
+  "views_2026-10-23_1436": 135,
+  "stats_2026-10-23_1700": {
+   "views": 191,
+   "likes": 3,
+   "comments": 1
+  },
+  "uploaded": "Oct 23 12:58 PM"
  },
  {
   "date": "2026-10-23",
   "id": "2026-10-23_tt_assab_q_en",
   "headline": "Explainer: why Assab is at the center of Ethiopia–Eritrea tensions (first Horn-focus video)",
   "hook": "question",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 23 2:50 PM",
+  "stats_2026-10-23_1700": {
+   "views": 204,
+   "likes": 4,
+   "comments": 1
+  },
+  "uploaded": "Oct 23 2:50 PM"
  }
 ]
