@@ -1,0 +1,37 @@
+{
+ "id": "2026-10-23_finchaa_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · WESTERN OROMIA",
+ "places": ["nekemte"],
+ "place_label": "SULULA FINCHAA, WESTERN OROMIA",
+ "slides": [
+  {
+   "title": "Armed raid on a sugar factory",
+   "body": "Finchaa Sugar Factory compound, Sulula Finchaa district, western Oromia"
+  },
+  {
+   "stat": "5",
+   "title": "people reported killed",
+   "body": "on Oct 21: four local militia members and one unarmed civilian, community members told DW Amharic, Borkena reported."
+  },
+  {
+   "stat": "2",
+   "title": "factory employees abducted",
+   "body": "during the raid. Their whereabouts and safety remain unknown, according to community sources."
+  },
+  {
+   "title": "Vehicles burned, a bank vandalized",
+   "body": "Four vehicles and many motorcycles were set on fire and a Commercial Bank of Ethiopia branch was broken into. The attackers were not identified."
+  },
+  {
+   "title": "Release the abducted. Protect civilians.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Borkena (citing DW Amharic), Oct 21, 2026",
+ "card": {
+  "stat": "5",
+  "title": "reported killed in an armed raid on the Finchaa Sugar Factory",
+  "body": "Borkena (citing DW Amharic), Oct 21, 2026"
+ }
+}
