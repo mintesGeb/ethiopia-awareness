@@ -10,3 +10,11 @@ Rotate the opening slide style and record it as "hook" in tiktok_posted.json so 
 - "question": slide 1 = {"title": <a factual question the video answers, max ~8 words>} (no body)
 - "headline": slide 1 = the usual headline + short body (control group)
 Never use a question that implies blame or an unproven claim; the answer must be in the sourced slides.
+
+## Content limits on TikTok (added Oct 23, 2026)
+- TikTok REJECTED the Dera school drone strike video (2026-10-22_tt_deraschool_en), and the Finarwa drone strike
+  video (children killed) got 0 views. Do not make TikTok versions of stories whose main point is people,
+  especially children, killed or wounded in strikes or attacks. Keep those on Facebook only.
+- Good TikTok topics: aid and health access, displacement and refugees, daily life, travel and security alerts,
+  diplomacy and official statements, claims and denials.
+- MG must leave at least 2 hours between TikTok uploads, with no more than 3 a day. Suggest times spaced that way.
