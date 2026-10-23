@@ -1,0 +1,45 @@
+{
+ "id": "2026-10-23_moyale_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · BORANA, OROMIA",
+ "places": ["borana"],
+ "place_label": "MOYALE, BORANA (OROMIA)",
+ "slides": [
+  {
+   "title": "Families flee Moyale fighting into Kenya",
+   "body": "A border-town dispute turns into a displacement crisis"
+  },
+  {
+   "title": "Fighting spreads beyond Moyale",
+   "body": "On Oct 22, clashes between Oromia and Somali regional forces spread to localities in Gumi Eldallo, Wachile and Arero districts, Addis Standard reported."
+  },
+  {
+   "stat": "1,000",
+   "title": "households the Kenya Red Cross aims to reach first",
+   "body": "in Moyale, Marsabit County, with tents, household supplies, fortified flour and first aid."
+  },
+  {
+   "title": "Urgent needs",
+   "body": "A rapid assessment found families need food, safe water, sanitation, health care and protection, especially women, children, older people and people with disabilities."
+  },
+  {
+   "title": "What is still unknown",
+   "body": "Neither side has released casualty figures. How many people crossed into Kenya has not been disclosed. Transport in Moyale has halted and houses were reportedly burned."
+  },
+  {
+   "stat": "288,000+",
+   "title": "people displaced by earlier border clashes",
+   "body": "after tensions rose in mid-2025 over a Somali Region administrative restructuring plan, according to Addis Standard."
+  },
+  {
+   "title": "Protect civilians on both sides of the border.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard, Oct 22-23, 2026",
+ "card": {
+  "stat": "1,000",
+  "title": "households targeted by Kenya Red Cross after families fled Moyale clashes",
+  "body": "Addis Standard, Oct 23, 2026."
+ }
+}
