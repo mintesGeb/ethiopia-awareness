@@ -18,3 +18,13 @@ Never use a question that implies blame or an unproven claim; the answer must be
 - Good TikTok topics: aid and health access, displacement and refugees, daily life, travel and security alerts,
   diplomacy and official statements, claims and denials.
 - MG must leave at least 2 hours between TikTok uploads, with no more than 3 a day. Suggest times spaced that way.
+
+## Focus (agreed with MG Oct 23, 2026)
+- TikTok niche: Ethiopia at the center, plus Horn of Africa issues as they relate to Ethiopia: Ethiopia–Eritrea
+  (border, Assab, Red Sea access), Tigray politics and the Pretoria deal, Egypt and the Nile/GERD, the
+  Alamein Declaration (Egypt, Eritrea, Somalia, Sudan), Sudan and Somalia where Ethiopia is involved.
+- Prefer explainers ("Why does Assab matter?") and both-sides official statements. Always give each side's
+  position together. Label state media (Shabait, ENA) as state media and blogs/op-eds as opinion.
+- Why: the Aksum video (well-known heritage place, big stakes, nothing graphic) is the best performer by
+  views, likes and saves; official-statement videos (UN, Eritrea denial, US Embassy) are next.
+- Facebook stays as is: broad human-rights coverage across the country.
