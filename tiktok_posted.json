@@ -156,7 +156,8 @@
   "hook": "number",
   "status": "posted by MG Oct 21-22",
   "views_2026-10-22_1140": 0,
-  "views_2026-10-22_1710": 0
+  "views_2026-10-22_1710": 0,
+  "views_2026-10-23_0855": 0
  },
  {
   "date": "2026-10-21",
@@ -165,7 +166,8 @@
   "hook": "question",
   "status": "posted by MG Oct 21-22",
   "views_2026-10-22_1140": 48,
-  "views_2026-10-22_1710": 119
+  "views_2026-10-22_1710": 119,
+  "views_2026-10-23_0855": 230
  },
  {
   "date": "2026-10-21",
@@ -174,7 +176,8 @@
   "hook": "headline",
   "status": "posted by MG Oct 21-22",
   "views_2026-10-22_1140": 5,
-  "views_2026-10-22_1710": 181
+  "views_2026-10-22_1710": 181,
+  "views_2026-10-23_0855": 342
  },
  {
   "date": "2026-10-21",
@@ -183,27 +186,31 @@
   "hook": "headline",
   "status": "posted by MG Oct 21-22",
   "views_2026-10-22_1140": 6,
-  "views_2026-10-22_1710": 150
+  "views_2026-10-22_1710": 150,
+  "views_2026-10-23_0855": 386
  },
  {
   "date": "2026-10-22",
   "id": "2026-10-22_tt_tigraylife_n_en",
   "headline": "TikTok cut of FB Oct 22 10am text: Mekelle reopens, 137,000 unpaid (Al Jazeera)",
   "hook": "number",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 22 evening (close together)",
+  "views_2026-10-23_0855": 0
  },
  {
   "date": "2026-10-22",
   "id": "2026-10-22_tt_aidworkers_q_en",
   "headline": "TikTok cut of FB Oct 22 1pm reel: who protects aid workers",
   "hook": "question",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 22 evening (close together)",
+  "views_2026-10-23_0855": 0
  },
  {
   "date": "2026-10-22",
   "id": "2026-10-22_tt_deraschool_en",
   "headline": "TikTok cut of FB Oct 22 7am/4pm reels: Dera school drone strike",
   "hook": "headline",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 22 evening (close together)",
+  "views_2026-10-23_0855": 0
  }
 ]
