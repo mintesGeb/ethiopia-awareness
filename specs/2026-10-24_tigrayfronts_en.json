@@ -1,0 +1,39 @@
+{
+ "id": "2026-10-24_tigrayfronts_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · TIGRAY & AMHARA",
+ "places": ["tigray", "amhara"],
+ "place_label": "TIGRAY & NORTHERN AMHARA",
+ "slides": [
+  {
+   "title": "Tigray's war is moving on several fronts",
+   "body": "What was reported Oct 20-23, according to the Critical Threats Project"
+  },
+  {
+   "title": "Tigrayan forces reportedly back in Rama",
+   "body": "On Oct 22, about 25 miles north of Adwa near the Eritrean border, after federal troops redeployed to central Tigray (citing ACLED). Not independently verified."
+  },
+  {
+   "title": "Clashes near the Amhara border",
+   "body": "On Oct 22, fighting on the road west of Woldia halted traffic between Istayish and Sanka, CTP reported, citing DW. Reports differ on whether traffic has resumed."
+  },
+  {
+   "title": "An unverified claim in the west",
+   "body": "Benishangul Gumuz state TV claimed TPLF vehicles crossed in from Sudan on Oct 22. CTP said it could not verify the claim."
+  },
+  {
+   "stat": "71",
+   "title": "tonnes of medical supplies",
+   "body": "delivered by WHO to conflict-hit Tigray, Amhara and Afar, Capital Ethiopia reported on Oct 21."
+  },
+  {
+   "title": "Protect civilians on every front.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Critical Threats Project, Oct 23; Capital Ethiopia, Oct 21, 2026",
+ "card": {
+  "title": "Tigray's war is moving on several fronts",
+  "body": "Critical Threats Project, Oct 23, 2026"
+ }
+}
