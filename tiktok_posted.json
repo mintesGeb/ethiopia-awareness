@@ -248,7 +248,10 @@
    "likes": 3,
    "comments": 1
   },
-  "uploaded": "Oct 23 12:58 PM"
+  "uploaded": "Oct 23 12:58 PM",
+  "stats_2026-10-24_0806": {
+   "views": 467
+  }
  },
  {
   "date": "2026-10-23",
@@ -261,7 +264,10 @@
    "likes": 4,
    "comments": 1
   },
-  "uploaded": "Oct 23 2:50 PM"
+  "uploaded": "Oct 23 2:50 PM",
+  "stats_2026-10-24_0806": {
+   "views": 411
+  }
  },
  {
   "date": "2026-10-23",
@@ -274,6 +280,9 @@
    "views": 208,
    "likes": 2,
    "comments": 0
+  },
+  "stats_2026-10-24_0806": {
+   "views": 286
   }
  },
  {
@@ -287,6 +296,16 @@
    "views": 0,
    "likes": 0,
    "comments": 0
+  },
+  "stats_2026-10-24_0806": {
+   "views": 0
   }
+ },
+ {
+  "date": "2026-10-24",
+  "id": "2026-10-24_tt_warofwords_en",
+  "headline": "Ethiopia–Eritrea war of words: Abiy 'ghost town', Shabait paper, Eritrea UN envoy 'no crisis', Getachew 'destructive role'",
+  "hook": "headline",
+  "status": "sent to MG (test post after Alamein-en stuck at 0)"
  }
 ]
