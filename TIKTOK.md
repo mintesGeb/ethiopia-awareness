@@ -28,3 +28,6 @@ Never use a question that implies blame or an unproven claim; the answer must be
 - Why: the Aksum video (well-known heritage place, big stakes, nothing graphic) is the best performer by
   views, likes and saves; official-statement videos (UN, Eritrea denial, US Embassy) are next.
 - Facebook stays as is: broad human-rights coverage across the country.
+- Oct 23: the English Alamein video, posted 3h20m after the Amharic version of the same story, had 0 views after
+  3 hours while the Amharic one had 208. Never post two language versions of one story on TikTok on the same
+  day; put them at least a day apart.

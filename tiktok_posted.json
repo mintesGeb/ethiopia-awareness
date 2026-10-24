@@ -268,13 +268,25 @@
   "id": "2026-10-23_tt_alamein_am",
   "headline": "Amharic explainer: what the Alamein Declaration (Egypt, Eritrea, Somalia, Sudan; Oct 4) means for Ethiopia",
   "hook": "question",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 23 5:03 PM",
+  "uploaded": "Oct 23 5:03 PM",
+  "stats_2026-10-23_2327": {
+   "views": 208,
+   "likes": 2,
+   "comments": 0
+  }
  },
  {
   "date": "2026-10-23",
   "id": "2026-10-23_tt_alamein_en",
   "headline": "English explainer: Alamein Declaration and Ethiopia (A/B test vs Amharic version; post next day same time)",
   "hook": "question",
-  "status": "sent to MG"
+  "status": "posted by MG Oct 23 8:24 PM (same day as Amharic, 3h20m later)",
+  "uploaded": "Oct 23 8:24 PM",
+  "stats_2026-10-23_2327": {
+   "views": 0,
+   "likes": 0,
+   "comments": 0
+  }
  }
 ]
