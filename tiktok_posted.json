@@ -290,7 +290,7 @@
   "id": "2026-10-23_tt_alamein_en",
   "headline": "English explainer: Alamein Declaration and Ethiopia (A/B test vs Amharic version; post next day same time)",
   "hook": "question",
-  "status": "posted by MG Oct 23 8:24 PM (same day as Amharic, 3h20m later)",
+  "status": "set to Only me by MG Oct 24 (0 views, likely duplicate of Amharic)",
   "uploaded": "Oct 23 8:24 PM",
   "stats_2026-10-23_2327": {
    "views": 0,
@@ -306,6 +306,9 @@
   "id": "2026-10-24_tt_warofwords_en",
   "headline": "Ethiopia–Eritrea war of words: Abiy 'ghost town', Shabait paper, Eritrea UN envoy 'no crisis', Getachew 'destructive role'",
   "hook": "headline",
-  "status": "sent to MG (test post after Alamein-en stuck at 0)"
+  "status": "posted by MG ~8:30 AM Oct 24",
+  "stats_2026-10-24_1009": {
+   "views": 0
+  }
  }
 ]

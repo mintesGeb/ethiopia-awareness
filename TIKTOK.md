@@ -31,3 +31,5 @@ Never use a question that implies blame or an unproven claim; the answer must be
 - Oct 23: the English Alamein video, posted 3h20m after the Amharic version of the same story, had 0 views after
   3 hours while the Amharic one had 208. Never post two language versions of one story on TikTok on the same
   day; put them at least a day apart.
+- Precaution (Oct 24): keep words like "war", "killed", "attack" out of the slide-1 title and the first line of the
+  caption; TikTok seems to review conflict-heavy wording more slowly. Use neutral verbs ("trade words", "tensions").
