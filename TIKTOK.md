@@ -44,3 +44,9 @@ Never use a question that implies blame or an unproven claim; the answer must be
   "war" wording, no second-language copies of a story, and quote-heavy Eritrea/Ethiopia rhetoric is risky;
   explainers that give background (Assab, Alamein-am) and humanitarian stories (Moyale, clinics) pass.
   Check web Studio after every upload for a "Not eligible" notice.
+- Oct 24 10:20 PM: the calm jobs/forged-visa video is ALSO "Not eligible". Every upload since Oct 23 8 PM has
+  been flagged, while Moyale/Assab/Alamein-am (posted Oct 23 1-5 PM) passed. Either the account is under tighter
+  automatic review, or each video tripped its own filter (duplicate; "war"; forged visas / migrant workers may hit
+  the human-exploitation policy). Monday test must be the safest possible: humanitarian/aid or cultural story,
+  no claims of crimes, no migration-fraud angle, short caption. If that is flagged too, treat it as
+  account-level: post on TikTok at most once every 2-3 days for 1-2 weeks and file "Report a problem".
