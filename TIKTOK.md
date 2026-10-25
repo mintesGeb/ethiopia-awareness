@@ -35,5 +35,5 @@ Never use a question that implies blame or an unproven claim; the answer must be
   caption; TikTok seems to review conflict-heavy wording more slowly. Use neutral verbs ("trade words", "tensions").
 - Oct 24 evening: three new uploads in a row at 0 views (Alamein-en, war of words, jobs visa) while older videos keep
   growing. The jobs video was calm (uploaded via web Studio, not the app), and TikTok offered to boost it (so it passed the policy
-  check). Treated as a temporary hold on new uploads: Next step: ONE test upload through the TikTok phone app on Oct 25 afternoon; if that also gets 0, pause 48 h. Meanwhile no deleting,
+  check). Treated as a temporary hold on new uploads: MG confirmed ALL uploads (including the good ones) were via web Studio, so the upload method is not the cause. Plan: pause TikTok uploads 48 h, then ONE test upload through the phone app on Oct 26 afternoon. Meanwhile no deleting,
   no privacy toggles, no engagement from MG's second account. Facebook continues as normal.
