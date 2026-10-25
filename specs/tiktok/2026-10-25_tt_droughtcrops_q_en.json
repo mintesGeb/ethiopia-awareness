@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-25_tt_droughtcrops_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DROUGHT · AMHARA, OROMIA & TIGRAY",
+ "places": ["west_hararghe", "gondar"],
+ "place_label": "WEST HARARGHE & NORTH GONDAR",
+ "slides": [
+  {"title": "What is drought doing to Ethiopia's crops?"},
+  {"stat": "250,035", "title": "hectares of crops lost", "body": "June-September rains came up to four weeks late (El Niño), an IFRC report says."},
+  {"stat": "3.5 million+", "title": "people affected", "body": "in 101 hard-hit districts across six regions. 28,629 livestock lost and 319+ water points dried up."},
+  {"title": "Response so far", "body": "The Ethiopian Red Cross plans to reach 50,000 people over six months. The report says current aid is not enough. A national assessment is under way."},
+  {"title": "Fund drought aid. Reach every affected district.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Reporter, citing IFRC · Oct 25, 2026"
+}

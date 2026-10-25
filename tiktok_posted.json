@@ -384,5 +384,14 @@
   "headline": "Moyale update: 14,000+ crossed into Kenya; 10,900+ in camps (Kenya Red Cross)",
   "hook": "number",
   "status": "sent to MG"
+ },
+ {
+  "date": "2026-10-25",
+  "id": "2026-10-25_tt_droughtcrops_q_en",
+  "headline": "El Niño drought: 250,035 ha of crops lost, 3.5M+ affected in 101 districts (IFRC via The Reporter)",
+  "hook": "question",
+  "slot": "2pm",
+  "status": "prepped for MG",
+  "caption": "Ethiopia news today: what is drought doing to Ethiopia's crops? Late June-September rains linked to El Niño destroyed crops on 250,035 hectares, an IFRC report says. More than 3.5 million people are affected in 101 districts across six regions, with 28,629 livestock lost and over 319 water points dried up, mainly in West Hararghe, North Gondar and parts of Tigray. The Ethiopian Red Cross plans to reach 50,000 people; the report says aid is not yet enough. Source: The Reporter, citing IFRC, Oct 25, 2026. #Ethiopia #EthiopiaNews #Drought #ElNino #FoodSecurity"
  }
 ]
