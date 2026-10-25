@@ -33,3 +33,7 @@ Never use a question that implies blame or an unproven claim; the answer must be
   day; put them at least a day apart.
 - Precaution (Oct 24): keep words like "war", "killed", "attack" out of the slide-1 title and the first line of the
   caption; TikTok seems to review conflict-heavy wording more slowly. Use neutral verbs ("trade words", "tensions").
+- Oct 24 evening: three new uploads in a row at 0 views (Alamein-en, war of words, jobs visa) while older videos keep
+  growing. The jobs video was calm, uploaded in the app, and TikTok offered to boost it (so it passed the policy
+  check). Treated as a temporary hold on new uploads: TikTok paused for 48 h (until Oct 26 evening), no deleting,
+  no privacy toggles, no engagement from MG's second account. Facebook continues as normal.
