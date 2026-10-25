@@ -360,6 +360,16 @@
   "status": "posted by MG ~2 AM Oct 25 - PASSED (views flowing): account not blocked",
   "stats_2026-10-25_0259": {
    "views": 83
+  },
+  "stats_2026-10-25_0847": {
+   "views": 315
   }
+ },
+ {
+  "date": "2026-10-25",
+  "id": "2026-10-25_tt_whosupplies_n_en",
+  "headline": "WHO delivers 71 tonnes of medical supplies to Tigray, Amhara, Afar",
+  "hook": "number",
+  "status": "sent to MG"
  }
 ]
