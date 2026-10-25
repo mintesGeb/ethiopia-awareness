@@ -61,3 +61,25 @@ Never use a question that implies blame or an unproven claim; the answer must be
 - Fresh news first: send each clean story as soon as it is ready and let MG post right away; do not hold stories
   back for a schedule, and do not use stale stories just to fill a slot. Only timing rule: never two uploads
   within about an hour of each other. Content rules (what gets flagged) matter more than timing.
+
+## Daily TikTok schedule (agreed with MG Oct 25, 2026)
+MG posts 5 TikToks a day by hand at 6:00 AM, 10:00 AM, 2:00 PM, 6:00 PM and 11:00 PM ET. The scheduled task
+"TikTok prep for MG" runs about 30 minutes before each slot, picks the freshest clean story, renders the video
+into media/tiktok/, logs it in tiktok_posted.json and sends MG a push notification with the video link and caption.
+- 6 PM slot = Amharic. All others English (switch if the day's freshest story clearly suits the other language).
+- Hot news is NOT skipped. Cover it with careful language (below) instead.
+
+### Careful language for hot news (TikTok only; Facebook keeps its own rules)
+- Slide 1 title and the first line of the caption: no "war", "killed", "dead", "massacre", "attack", "drone strike",
+  "bomb", "fighting", "clashes". Use neutral framing: "What we know about...", "Tensions in...", "Thousands
+  displaced from...", "Residents report...", "Officials respond to...", "UN calls for...".
+- No death or injury counts anywhere in the video or caption, and never mention harm to children. If an event
+  involved deaths, say it once in a middle slide in plain words ("lives were reported lost"; "civilians were
+  reported harmed"), with attribution, and focus the rest on displacement, aid, official reactions,
+  investigations and what is still unknown.
+- No graphic words (burned, bodies, blood, slaughtered), no ethnic or religious targeting language on slide 1
+  (say "residents" or "farmers"; name a community only in a middle slide if the source does).
+- Government-vs-government rhetoric: give each side's position in neutral reported speech; at most one short
+  quote per side; never a heated quote on slide 1.
+- No migration-fraud/trafficking framing; no story told twice in two languages; no re-upload of a flagged story.
+- 4-5 slides, last slide = neutral call (protect civilians, aid access, dialogue, investigations) + follow line.
