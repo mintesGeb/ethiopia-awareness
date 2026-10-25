@@ -37,3 +37,10 @@ Never use a question that implies blame or an unproven claim; the answer must be
   growing. The jobs video was calm (uploaded via web Studio, not the app), and TikTok offered to boost it (so it passed the policy
   check). Treated as a temporary hold on new uploads: MG confirmed ALL uploads (including the good ones) were via web Studio, so the upload method is not the cause. Plan: pause TikTok uploads 48 h, then ONE test upload through the phone app on Oct 26 afternoon. Meanwhile no deleting,
   no privacy toggles, no engagement from MG's second account. Facebook continues as normal.
+- Oct 24 9:30 PM: web Studio shows "Not eligible for For You feed - violates Community Guidelines" on Finarwa
+  (drone strike, children killed), "war of words" (Abiy/Shabait/UN envoy quotes, "war" in the opening), and the
+  English Alamein (twin of the Amharic one, which is fine: likely treated as unoriginal/duplicate). The calm jobs
+  video has no notice but 0 views (likely knock-on from the earlier flags). Lessons: no casualty stories, no
+  "war" wording, no second-language copies of a story, and quote-heavy Eritrea/Ethiopia rhetoric is risky;
+  explainers that give background (Assab, Alamein-am) and humanitarian stories (Moyale, clinics) pass.
+  Check web Studio after every upload for a "Not eligible" notice.
