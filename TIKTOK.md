@@ -56,3 +56,8 @@ Never use a question that implies blame or an unproven claim; the answer must be
   Passes: humanitarian/aid/health numbers, displacement, background explainers, official denials.
   Flagged: casualties, "war" wording, heated government-vs-government quotes, second-language duplicates,
   migration fraud/trafficking angles.
+
+## Timeliness (MG, Oct 25, 2026)
+- Fresh news first: send each clean story as soon as it is ready and let MG post right away; do not hold stories
+  back for a schedule, and do not use stale stories just to fill a slot. Only timing rule: never two uploads
+  within about an hour of each other. Content rules (what gets flagged) matter more than timing.
