@@ -286,6 +286,9 @@
   },
   "stats_2026-10-25_0259": {
    "views": 470
+  },
+  "stats_2026-10-25_1602": {
+   "views": 492
   }
  },
  {
@@ -308,6 +311,9 @@
   },
   "stats_2026-10-25_0259": {
    "views": 324
+  },
+  "stats_2026-10-25_1602": {
+   "views": 333
   }
  },
  {
@@ -366,6 +372,9 @@
   },
   "stats_2026-10-25_0947": {
    "views": 341
+  },
+  "stats_2026-10-25_1602": {
+   "views": 424
   }
  },
  {
@@ -376,6 +385,9 @@
   "status": "posted by MG ~8:50 AM Oct 25",
   "stats_2026-10-25_0947": {
    "views": 138
+  },
+  "stats_2026-10-25_1602": {
+   "views": 296
   }
  },
  {
@@ -383,7 +395,10 @@
   "id": "2026-10-25_tt_moyalekenya_n_en",
   "headline": "Moyale update: 14,000+ crossed into Kenya; 10,900+ in camps (Kenya Red Cross)",
   "hook": "number",
-  "status": "posted by MG ~1:15 PM Oct 25"
+  "status": "posted by MG ~1:15 PM Oct 25",
+  "stats_2026-10-25_1602": {
+   "views": 200
+  }
  },
  {
   "date": "2026-10-25",
@@ -391,7 +406,10 @@
   "headline": "El Niño drought: 250,035 ha of crops lost, 3.5M+ affected in 101 districts (IFRC via The Reporter)",
   "hook": "question",
   "slot": "2pm",
-  "status": "prepped for MG (post ~2:30 PM, 1h+ after Moyale)",
-  "caption": "Ethiopia news today: what is drought doing to Ethiopia's crops? Late June-September rains linked to El Niño destroyed crops on 250,035 hectares, an IFRC report says. More than 3.5 million people are affected in 101 districts across six regions, with 28,629 livestock lost and over 319 water points dried up, mainly in West Hararghe, North Gondar and parts of Tigray. The Ethiopian Red Cross plans to reach 50,000 people; the report says aid is not yet enough. Source: The Reporter, citing IFRC, Oct 25, 2026. #Ethiopia #EthiopiaNews #Drought #ElNino #FoodSecurity"
+  "status": "posted by MG Oct 25 afternoon",
+  "caption": "Ethiopia news today: what is drought doing to Ethiopia's crops? Late June-September rains linked to El Niño destroyed crops on 250,035 hectares, an IFRC report says. More than 3.5 million people are affected in 101 districts across six regions, with 28,629 livestock lost and over 319 water points dried up, mainly in West Hararghe, North Gondar and parts of Tigray. The Ethiopian Red Cross plans to reach 50,000 people; the report says aid is not yet enough. Source: The Reporter, citing IFRC, Oct 25, 2026. #Ethiopia #EthiopiaNews #Drought #ElNino #FoodSecurity",
+  "stats_2026-10-25_1602": {
+   "views": 99
+  }
  }
 ]
