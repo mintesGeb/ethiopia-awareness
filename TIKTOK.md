@@ -50,3 +50,9 @@ Never use a question that implies blame or an unproven claim; the answer must be
   the human-exploitation policy). Monday test must be the safest possible: humanitarian/aid or cultural story,
   no claims of crimes, no migration-fraud angle, short caption. If that is flagged too, treat it as
   account-level: post on TikTok at most once every 2-3 days for 1-2 weeks and file "Report a problem".
+- Oct 25 test RESULT: the WFP food-aid video got 83 views within ~1 hour, so the account is NOT blocked. The flags
+  were topic/wording filters on individual videos. Resume: max 2 TikToks a day, 2+ hours apart, calm openings,
+  topics from the "passes" list; check web Studio for a "Not eligible" notice after each upload.
+  Passes: humanitarian/aid/health numbers, displacement, background explainers, official denials.
+  Flagged: casualties, "war" wording, heated government-vs-government quotes, second-language duplicates,
+  migration fraud/trafficking angles.

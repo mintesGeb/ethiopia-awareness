@@ -173,6 +173,9 @@
    "views": 249,
    "likes": 3,
    "comments": 1
+  },
+  "stats_2026-10-25_0259": {
+   "views": 269
   }
  },
  {
@@ -199,7 +202,10 @@
    "likes": 8,
    "comments": 1
   },
-  "uploaded": "Oct 22 11:07 AM"
+  "uploaded": "Oct 22 11:07 AM",
+  "stats_2026-10-25_0259": {
+   "views": 420
+  }
  },
  {
   "date": "2026-10-22",
@@ -255,6 +261,9 @@
   },
   "stats_2026-10-24_2015": {
    "views": 646
+  },
+  "stats_2026-10-25_0259": {
+   "views": 692
   }
  },
  {
@@ -274,6 +283,9 @@
   },
   "stats_2026-10-24_2015": {
    "views": 463
+  },
+  "stats_2026-10-25_0259": {
+   "views": 470
   }
  },
  {
@@ -293,6 +305,9 @@
   },
   "stats_2026-10-24_2015": {
    "views": 318
+  },
+  "stats_2026-10-25_0259": {
+   "views": 324
   }
  },
  {
@@ -342,6 +357,9 @@
   "id": "2026-10-25_tt_wfp_n_en",
   "headline": "SAFE TEST: WFP reached 2.1M people with food aid in Sept; 46% funded (no conflict/crime wording)",
   "hook": "number",
-  "status": "sent to MG"
+  "status": "posted by MG ~2 AM Oct 25 - PASSED (views flowing): account not blocked",
+  "stats_2026-10-25_0259": {
+   "views": 83
+  }
  }
 ]
