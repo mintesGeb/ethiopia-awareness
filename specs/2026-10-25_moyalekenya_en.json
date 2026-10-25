@@ -1,0 +1,46 @@
+{
+ "id": "2026-10-25_moyalekenya_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA–KENYA BORDER",
+ "slides": [
+  {
+   "title": "Moyale fighting: thousands cross into Kenya",
+   "body": "Update with new Kenya Red Cross figures"
+  },
+  {
+   "stat": "14,000+",
+   "title": "Ethiopians have fled into Kenya",
+   "body": "according to humanitarian officials quoted by TRT World and Anadolu."
+  },
+  {
+   "stat": "10,900+",
+   "title": "people in six temporary camps",
+   "body": "in Moyale, Kenya, the Kenya Red Cross said. About 4,000 more stay with relatives and host families."
+  },
+  {
+   "stat": "9",
+   "title": "deaths reported by Friday",
+   "body": "Officials feared more than a dozen may have been killed as fighting continued."
+  },
+  {
+   "title": "Food, water and toilets urgently needed",
+   "body": "The Kenya Red Cross appealed for food, water and sanitation to prevent diarrhoeal disease."
+  },
+  {
+   "title": "A dispute over a regional flag",
+   "body": "Fighting began Oct 21 over a Somali Region flag raised in an Oromia-administered area, reports say."
+  },
+  {
+   "title": "Protect civilians. Talk, don't fight.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: TRT World / Anadolu, Kenya Red Cross · Oct 24, 2026",
+ "card": {
+  "stat": "14,000+",
+  "title": "Ethiopians fled Moyale fighting into Kenya",
+  "body": "Humanitarian officials via TRT World / Anadolu, Oct 24."
+ }
+}
