@@ -1,0 +1,36 @@
+{
+ "id": "2026-10-25_arsiburji_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · OROMIA & SOUTH ETHIOPIA",
+ "places": ["oromia", "south"],
+ "place_label": "ARSI (OROMIA) & SOUTH ETHIOPIA",
+ "slides": [
+  {
+   "title": "Night attacks hit rural farming families",
+   "body": "What Borkena reported on Oct 23-24, 2026"
+  },
+  {
+   "stat": "47",
+   "title": "reported killed in Shirka Woreda, Arsi",
+   "body": "Local families told Borkena Orthodox Christian households in three kebeles were attacked at night and homes burned. Not independently verified."
+  },
+  {
+   "title": "No official statement yet",
+   "body": "Residents of Gobesa reportedly begged police to intervene. Borkena said no government statement had been issued. The attackers have not been identified."
+  },
+  {
+   "stat": "5",
+   "title": "farmers killed on the Oromia border",
+   "body": "In Burji and Kore zones (South Ethiopia), with 200+ livestock looted. A local police commander blamed armed men from West Guji."
+  },
+  {
+   "title": "Protect civilians. Investigate every attack.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Borkena, Oct 23-24, 2026 (local sources and officials)",
+ "card": {
+  "title": "Night attacks hit rural farming families",
+  "body": "Borkena, Oct 23-24, 2026"
+ }
+}
