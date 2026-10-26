@@ -1,0 +1,36 @@
+{
+ "id": "2026-10-26_moyale35k_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA–KENYA BORDER",
+ "slides": [
+  {
+   "title": "Moyale: Kenya now counts 35,000 arrivals",
+   "body": "Overnight update from the Ethiopia–Kenya border"
+  },
+  {
+   "stat": "35,000",
+   "title": "Ethiopians crossed into Kenya",
+   "body": "said Marsabit County Commissioner Stanley Kamande. About 15,000 in camps, 20,000 with local families."
+  },
+  {
+   "title": "Overcrowded camps, measles fears",
+   "body": "Three suspected measles cases were isolated, Moyale's health officer said. Tents, blankets and toilets are urgently needed."
+  },
+  {
+   "title": "No confirmed death toll",
+   "body": "Residents told AFP heavy weapons were fired in town. AFP could not verify tolls; the federal government had not responded."
+  },
+  {
+   "title": "Protect civilians on both sides of the border",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Kenya News Agency via Zegabi, Oct 25 · AFP, Oct 24, 2026",
+ "card": {
+  "stat": "35,000",
+  "title": "Ethiopians crossed into Kenya from Moyale",
+  "body": "Marsabit County Commissioner, via Kenya News Agency, Oct 25."
+ }
+}
