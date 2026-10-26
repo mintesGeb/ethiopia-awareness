@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-26_tt_tigrayvote_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "LOCAL ELECTIONS · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray holds local elections", "body": "District and village votes are underway across the region, The Reporter says."},
+  {"title": "Where voting stands", "body": "Most districts in Southern Tigray have finished, except Raya Alamata and Alamata town. Voting continues in Eastern Tigray and is paused in two Southeastern districts."},
+  {"title": "How it works", "body": "Not a party contest: candidates run on personal merit, even if they have party or religious ties. Winners serve an initial six-month term."},
+  {"title": "Officials respond", "body": "Caretaker official Redai Hailafom called the vote a positive start, said some activities limited public choice and must stop, and pledged faster return of displaced people."},
+  {"title": "Free choice. Safe return for the displaced.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Reporter · Oct 24, 2026"
+}
