@@ -429,5 +429,14 @@
   "stats_2026-10-25_2217": {
    "views": 0
   }
+ },
+ {
+  "date": "2026-10-26",
+  "id": "2026-10-26_tt_dialoguecommission_n_en",
+  "headline": "National Dialogue Commission closes: 394 recommendations, 400+ districts, ~4,000 at conference; no public implementation timetable (The Reporter, Oct 24)",
+  "hook": "number",
+  "slot": "11pm",
+  "status": "prepped for MG",
+  "caption": "Ethiopia news today: 394 recommendations from Ethiopia's National Dialogue.\nThe National Dialogue Commission said its mandate is fulfilled and was set to close on Oct 24, after consultations in 400+ districts and a national conference of about 4,000 participants. The Reporter notes no public timetable or lead institutions were given for putting the recommendations into practice. Records will go to Parliament and the national archives; House Speaker Ahmed Shide said the government will work to implement them.\nSource: The Reporter, Oct 24, 2026.\n#Ethiopia #EthiopiaNews #NationalDialogue #AddisAbaba #HornOfAfrica"
  }
 ]
