@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-26_tt_coffeestudy_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "COFFEE · SOUTHWEST ETHIOPIA",
+ "places": ["southwest"],
+ "place_label": "KAFFA, BENCH-SHEKO & SHEKA",
+ "slides": [
+  {"stat": "$3 billion", "title": "Coffee exports in 2025/26. Who benefits?"},
+  {"title": "A new study", "body": "The Rift Valley Institute interviewed 47 people in Kaffa, Bench-Sheko and Sheka zones of the southwest, The Reporter says."},
+  {"title": "What it alleges", "body": "Politically connected traders benefit from selective enforcement, and some officials both regulate the trade and invest in it. Not independently verified."},
+  {"title": "Farmers under pressure", "body": "Smallholders rely on trader loans, the study says some communities lost land to investment licences, and new EU traceability rules could add costs."},
+  {"title": "Fair rules. Support for farmers.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Reporter, citing Rift Valley Institute · Oct 24, 2026"
+}
