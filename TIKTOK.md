@@ -91,3 +91,12 @@ into media/tiktok/, logs it in tiktok_posted.json and sends MG a push notificati
   troop movements, weapons or disarmament, and never quote an armed group or military commander (the Amharic
   Tigray "fighters asked to disarm" video, uploaded via web, was flagged). Cover such news through its civilian
   side (displacement, services, aid, schools, travel, civilian bodies, dialogue, elections), or leave it to Facebook.
+
+### What performs best (views snapshot Oct 26, 2026; use this to choose stories)
+1. People on the move + a named place (Moyale families flee 834; Moyale-Kenya update 418).
+2. Ethiopia–Eritrea / Red Sea explainers and official denials (Assab 507; Eritrea denial Amharic 428; Alamein Amharic 334).
+3. Big aid/health numbers on slide 1 (WFP 2.1 million 490; WHO 71 tonnes 322).
+4. Middle: regional politics with a place (Tigray local elections 245 in hours), clinics 274, National Dialogue 233.
+5. Weakest: abstract policy questions (transitional justice 149, drought explainer 185).
+Amharic videos perform as well as English. When choosing between clean stories, prefer 1 > 2 > 3, put a place
+name or a big number on slide 1, and keep abstract policy for slow news days.
