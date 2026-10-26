@@ -83,3 +83,11 @@ into media/tiktok/, logs it in tiktok_posted.json and sends MG a push notificati
   quote per side; never a heated quote on slide 1.
 - No migration-fraud/trafficking framing; no story told twice in two languages; no re-upload of a flagged story.
 - 4-5 slides, last slide = neutral call (protect civilians, aid access, dialogue, investigations) + follow line.
+
+### Upload method and armed-group topics (Oct 25, 2026)
+- MG uploads every TikTok through the phone app (not web Studio). Every app upload so far passed (WFP, National
+  Dialogue). Push notifications should remind: "Upload in the TikTok app."
+- Precaution until proven otherwise: do not make TikToks whose subject is armed groups, fighters, commanders,
+  troop movements, weapons or disarmament, and never quote an armed group or military commander (the Amharic
+  Tigray "fighters asked to disarm" video, uploaded via web, was flagged). Cover such news through its civilian
+  side (displacement, services, aid, schools, travel, civilian bodies, dialogue, elections), or leave it to Facebook.
