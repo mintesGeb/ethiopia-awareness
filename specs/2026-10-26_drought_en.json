@@ -1,0 +1,47 @@
+{
+ "id": "2026-10-26_drought_en",
+ "lang": "en",
+ "kicker": "DROUGHT · OROMIA, AMHARA & TIGRAY",
+ "places": ["west_hararghe", "tigray"],
+ "slides": [
+  {
+   "title": "Failed rains hit 3.5 million people",
+   "body": "A new IFRC drought assessment, reported by The Reporter"
+  },
+  {
+   "stat": "101",
+   "title": "woredas affected across six regions",
+   "body": "El Niño delayed the June-September rains by up to four weeks in parts of the north, east and southeast, the IFRC says."
+  },
+  {
+   "stat": "8 of 229",
+   "title": "community ponds still held water",
+   "body": "In West Hararghe, Oromia, an estimated 696,873 people across 15 woredas urgently need help."
+  },
+  {
+   "stat": "2,896",
+   "title": "children with severe acute malnutrition",
+   "body": "found in a June screening of 464,880 children in West Hararghe, plus 24,925 with moderate malnutrition."
+  },
+  {
+   "stat": "250,865",
+   "title": "people need assistance in Tigray",
+   "body": "across seven assessed woredas. In North Gondar, Amhara, 318,443 people are affected and 19,318 displaced."
+  },
+  {
+   "stat": "1.4%",
+   "title": "of those affected are covered by the response",
+   "body": "The Ethiopian Red Cross plans to reach 50,000 people by March 2027, the IFRC notes."
+  },
+  {
+   "title": "Let aid reach every drought-hit family.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: IFRC assessment via The Reporter · Oct 24, 2026",
+ "card": {
+  "stat": "3.5M",
+  "title": "people affected by El Niño-linked drought",
+  "body": "Across 101 woredas in six regions (IFRC via The Reporter, Oct 24)."
+ }
+}
