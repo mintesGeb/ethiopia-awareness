@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-27_tt_arsisynod_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "CIVILIAN PROTECTION · ARSI, OROMIA",
+ "places": ["oromia"],
+ "place_label": "ARSI ZONE, OROMIA",
+ "slides": [
+  {"title": "Arsi: what are church leaders asking for?"},
+  {"title": "What was reported", "body": "The Ethiopian Orthodox Church's Holy Synod says lives were lost in Merti and Shirka districts of Arsi Zone on Oct 20 and 24, and homes were destroyed. Not independently verified."},
+  {"title": "The Synod's requests", "body": "Public condemnation by government bodies, stronger protection for civilians, and justice for those responsible. It also plans talks with senior officials."},
+  {"title": "Officials respond", "body": "Oromia's regional government pledged to pursue those responsible and blamed a rebel alliance. A rebel-linked source blamed the regional government. Neither claim is verified (Reuters)."},
+  {"title": "Protect civilians. Independent investigations.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Reuters; Al Jazeera · Oct 27, 2026"
+}
