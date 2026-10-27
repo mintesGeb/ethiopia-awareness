@@ -425,6 +425,9 @@
   },
   "stats_2026-10-26_1440": {
    "views": 418
+  },
+  "stats_2026-10-27_1734": {
+   "views": 495
   }
  },
  {
@@ -443,6 +446,9 @@
   },
   "stats_2026-10-26_1440": {
    "views": 185
+  },
+  "stats_2026-10-27_1734": {
+   "views": 196
   }
  },
  {
@@ -471,6 +477,9 @@
   },
   "stats_2026-10-26_1440": {
    "views": 233
+  },
+  "stats_2026-10-27_1734": {
+   "views": 306
   }
  },
  {
@@ -483,6 +492,9 @@
   "caption": "Ethiopia news today: what is Ethiopia's transitional justice plan?\nJustice Minister Hana Arayaselassie says draft laws are ready and will be published for public review in the coming days, followed by consultations in Addis Ababa, Dire Dawa and the regions. The drafts propose a Truth and Social Cohesion Commission, a Special Prosecutor's Office with a dedicated court bench, and an Institutional Reform Commission. Civil society groups asked about their independence and Tigray's participation; the ministry says it will only facilitate.\nSource: The Reporter, Oct 24, 2026.\n#Ethiopia #EthiopiaNews #TransitionalJustice #AddisAbaba #HumanRights",
   "stats_2026-10-26_1440": {
    "views": 149
+  },
+  "stats_2026-10-27_1734": {
+   "views": 237
   }
  },
  {
@@ -495,6 +507,9 @@
   "caption": "Ethiopia news today: Tigray holds local elections.\nDistrict and village votes are underway across Tigray, The Reporter says. Most Southern Tigray districts have finished, except Raya Alamata and Alamata town; voting continues in Eastern Tigray and is paused in two Southeastern districts. Candidates run on personal merit, not party lists, for an initial six-month term. Caretaker official Redai Hailafom called it a positive start, said some activities limiting public choice must stop, and pledged faster return of displaced people.\nSource: The Reporter, Oct 24, 2026.\n#Ethiopia #Tigray #TigrayNews #Elections #EthiopiaNews",
   "stats_2026-10-26_1440": {
    "views": 245
+  },
+  "stats_2026-10-27_1734": {
+   "views": 441
   }
  },
  {
@@ -503,8 +518,11 @@
   "headline": "Coffee governance study (Rift Valley Institute, 47 interviews, Kaffa/Bench-Sheko/Sheka): alleges politically connected traders shielded by selective enforcement, officials regulating and investing (unverified, no official response); smallholder debt, land loss, EU deforestation rule costs; $3bn exports 2025/26 (The Reporter, Oct 24)",
   "hook": "number",
   "slot": "2pm",
-  "status": "prepped for MG",
-  "caption": "Ethiopia news today: $3 billion in coffee exports in 2025/26. Who benefits?\nA Rift Valley Institute study, based on 47 interviews in Kaffa, Bench-Sheko and Sheka zones, alleges that politically connected traders benefit from selective enforcement and that some officials both regulate the trade and invest in it. These claims are not independently verified, and the article includes no official response. The study also says smallholders depend on trader loans, some communities lost land to investment licences, and new EU traceability rules could add costs. It recommends a regional coffee governance council.\nSource: The Reporter, Oct 24, 2026.\n#Ethiopia #EthiopianCoffee #Coffee #Farmers #EthiopiaNews"
+  "status": "posted by MG (app)",
+  "caption": "Ethiopia news today: $3 billion in coffee exports in 2025/26. Who benefits?\nA Rift Valley Institute study, based on 47 interviews in Kaffa, Bench-Sheko and Sheka zones, alleges that politically connected traders benefit from selective enforcement and that some officials both regulate the trade and invest in it. These claims are not independently verified, and the article includes no official response. The study also says smallholders depend on trader loans, some communities lost land to investment licences, and new EU traceability rules could add costs. It recommends a regional coffee governance council.\nSource: The Reporter, Oct 24, 2026.\n#Ethiopia #EthiopianCoffee #Coffee #Farmers #EthiopiaNews",
+  "stats_2026-10-27_1734": {
+   "views": 288
+  }
  },
  {
   "date": "2026-10-26",
@@ -512,8 +530,11 @@
   "headline": "Amharic: Kenyan MPs (Moyale MP Guyo Wago Jaldesa, Saku MP Dido Ali Rasso) urge Ruto to intervene over Moyale border crisis; Marsabit Commissioner Kamande ~35,000 Ethiopians crossed (15,000 camps/20,000 local), leaders cite 14,000+ (figures differ); needs blankets, tents, nets, toilets; cross-border trade halted (The Star, Oct 26). New angle, not a translation of Oct 25 English Moyale video",
   "hook": "question",
   "slot": "6pm",
-  "status": "prepped for MG",
-  "caption": "ኬንያ ስለ ሞያሌ ድንበር ምን እያለች ነው?\nየሞያሌና የሳኩ የኬንያ የፓርላማ አባላት እሁድ በናይሮቢ ፕሬዚዳንት ዊሊያም ሩቶ ጣልቃ ገብተው መረጋጋት እንዲመለስ ጠይቀዋል። የማርሳቢት ካውንቲ ኮሚሽነር ስታንሊ ካማንዴ እንዳሉት 35,000 ገደማ ኢትዮጵያውያን ወደ ኬንያ ተሻግረዋል፤ የአካባቢ መሪዎች ግን ከ14,000 በላይ ይላሉ። ተፈናቃዮች ብርድ ልብስ፣ ድንኳን፣ አጎበርና መጸዳጃ ቤት ያስፈልጋቸዋል፤ የድንበር ንግድ ቆሟል።\nSource: The Star (Kenya), Oct 26, 2026.\n#Ethiopia #ኢትዮጵያ #Moyale #Kenya #Displacement"
+  "status": "posted by MG (app)",
+  "caption": "ኬንያ ስለ ሞያሌ ድንበር ምን እያለች ነው?\nየሞያሌና የሳኩ የኬንያ የፓርላማ አባላት እሁድ በናይሮቢ ፕሬዚዳንት ዊሊያም ሩቶ ጣልቃ ገብተው መረጋጋት እንዲመለስ ጠይቀዋል። የማርሳቢት ካውንቲ ኮሚሽነር ስታንሊ ካማንዴ እንዳሉት 35,000 ገደማ ኢትዮጵያውያን ወደ ኬንያ ተሻግረዋል፤ የአካባቢ መሪዎች ግን ከ14,000 በላይ ይላሉ። ተፈናቃዮች ብርድ ልብስ፣ ድንኳን፣ አጎበርና መጸዳጃ ቤት ያስፈልጋቸዋል፤ የድንበር ንግድ ቆሟል።\nSource: The Star (Kenya), Oct 26, 2026.\n#Ethiopia #ኢትዮጵያ #Moyale #Kenya #Displacement",
+  "stats_2026-10-27_1734": {
+   "views": 386
+  }
  },
  {
   "date": "2026-10-26",
@@ -521,8 +542,11 @@
   "headline": "Russia–Africa summit (Moscow, Oct 28-29): Addis Ababa forum (UPEACE) weighs Ethiopia's gains; Ethiopia–Russia trade $191.2M in H1 2025, more than double (Russian ambassador); exports coffee/flowers/oilseeds/pulses, market access imbalance; judge summit on binding commitments (The Reporter, Oct 26)",
   "hook": "headline",
   "slot": "11pm",
-  "status": "prepped for MG",
-  "caption": "Ethiopia news today: Russia–Africa summit, Ethiopia weighs the gains.\nAhead of the Russia–Africa summit in Moscow on Oct 28–29, a policy forum in Addis Ababa hosted by the University for Peace asked what Ethiopia would actually gain. Ethiopia–Russia trade reached $191.2 million in the first half of 2025, more than double a year earlier, according to Russia's ambassador. Ethiopia's exports are mainly coffee, flowers, oilseeds and pulses, and speakers called market access a core challenge. Participants said the summit should be judged on measurable, binding commitments.\nSource: The Reporter, Oct 26, 2026.\n#Ethiopia #EthiopiaNews #Russia #AfricaDiplomacy #AddisAbaba"
+  "status": "posted by MG (app)",
+  "caption": "Ethiopia news today: Russia–Africa summit, Ethiopia weighs the gains.\nAhead of the Russia–Africa summit in Moscow on Oct 28–29, a policy forum in Addis Ababa hosted by the University for Peace asked what Ethiopia would actually gain. Ethiopia–Russia trade reached $191.2 million in the first half of 2025, more than double a year earlier, according to Russia's ambassador. Ethiopia's exports are mainly coffee, flowers, oilseeds and pulses, and speakers called market access a core challenge. Participants said the summit should be judged on measurable, binding commitments.\nSource: The Reporter, Oct 26, 2026.\n#Ethiopia #EthiopiaNews #Russia #AfricaDiplomacy #AddisAbaba",
+  "stats_2026-10-27_1734": {
+   "views": 415
+  }
  },
  {
   "date": "2026-10-27",
@@ -530,8 +554,11 @@
   "headline": "Arsi: EOTC Holy Synod reports lives lost in Merti and Shirka woredas (Oct 20, 24; unverified), asks for condemnation, civilian protection, justice, talks with officials; Oromia gov pledges to pursue perpetrators and blames rebel alliance, rebel-linked source blames regional gov, neither verified (Reuters; Al Jazeera, Oct 27). No death counts.",
   "hook": "question",
   "slot": "6am",
-  "status": "prepped for MG",
-  "caption": "Ethiopia news today: Arsi, what are church leaders asking for?\nThe Ethiopian Orthodox Church's Holy Synod says lives were lost in Merti and Shirka districts of Arsi Zone, Oromia, on Oct 20 and 24 (not independently verified). It asks government bodies to condemn the violence publicly, protect civilians and bring those responsible to justice. Oromia's regional government pledged to pursue those responsible and blamed a rebel alliance; a rebel-linked source blamed the regional government. Neither claim is verified.\nSource: Reuters; Al Jazeera, Oct 27, 2026.\n#Ethiopia #Oromia #Arsi #EthiopiaNews #ProtectCivilians"
+  "status": "posted by MG (app)",
+  "caption": "Ethiopia news today: Arsi, what are church leaders asking for?\nThe Ethiopian Orthodox Church's Holy Synod says lives were lost in Merti and Shirka districts of Arsi Zone, Oromia, on Oct 20 and 24 (not independently verified). It asks government bodies to condemn the violence publicly, protect civilians and bring those responsible to justice. Oromia's regional government pledged to pursue those responsible and blamed a rebel alliance; a rebel-linked source blamed the regional government. Neither claim is verified.\nSource: Reuters; Al Jazeera, Oct 27, 2026.\n#Ethiopia #Oromia #Arsi #EthiopiaNews #ProtectCivilians",
+  "stats_2026-10-27_1734": {
+   "views": 445
+  }
  },
  {
   "date": "2026-10-27",
@@ -539,8 +566,11 @@
   "headline": "Northern Ethiopia humanitarian assessment (Oct 19, seen by Addis Standard): Raya Azebo only ~400 of 15,000+ cultivated ha show crop growth, ~10,000 ha unplanted after May rains failed; Zala Anbesa supplies scarce, prices rising; FEWS NET IPC 3 to Jan 2027; Wag Hamra cholera concern; 11,000-13,000 may remain displaced in Afar (unverified; Addis Standard, Oct 27). No child/casualty content.",
   "hook": "number",
   "slot": "10am",
-  "status": "prepped for MG",
-  "caption": "Ethiopia news today: 400 hectares of 15,000 planted showed crop growth in Raya Azebo, Tigray\nThat is what a humanitarian assessment dated Oct 19 and seen by Addis Standard reports; about 10,000 more hectares were not planted after rains failed in May. Few supplies were reaching Zala Anbesa as of Oct 15, and prices rose sharply. The assessment also flags a cholera concern in Wag Hamra, Amhara, and 11,000-13,000 people possibly still displaced in Afar. Not independently verified.\nSource: Addis Standard, Oct 27, 2026.\n#Ethiopia #Tigray #FoodSecurity #Drought #EthiopiaNews"
+  "status": "posted by MG (app)",
+  "caption": "Ethiopia news today: 400 hectares of 15,000 planted showed crop growth in Raya Azebo, Tigray\nThat is what a humanitarian assessment dated Oct 19 and seen by Addis Standard reports; about 10,000 more hectares were not planted after rains failed in May. Few supplies were reaching Zala Anbesa as of Oct 15, and prices rose sharply. The assessment also flags a cholera concern in Wag Hamra, Amhara, and 11,000-13,000 people possibly still displaced in Afar. Not independently verified.\nSource: Addis Standard, Oct 27, 2026.\n#Ethiopia #Tigray #FoodSecurity #Drought #EthiopiaNews",
+  "stats_2026-10-27_1734": {
+   "views": 209
+  }
  },
  {
   "date": "2026-10-27",
@@ -548,8 +578,11 @@
   "headline": "Moyale update: Kenya National Commission on Human Rights (Oct 27) says ~40,000 from Ethiopia sought refuge in Moyale (15,000+ in eight shelters incl churches/schools, 20,000+ with relatives); urges food, water, shelter, sanitation, health incl maternal care; non-refoulement; Kenya-Ethiopia coordination; Kenya Red Cross had 14,000+ at weekend; figures differ, unverified (Anadolu; Citizen Digital, Oct 27). New development, not a translation of earlier Moyale videos",
   "hook": "headline",
   "slot": "2pm",
-  "status": "prepped for MG",
-  "caption": "Ethiopia news today: about 40,000 from Ethiopia now in Moyale, Kenya\nKenya's National Commission on Human Rights said on Oct 27 that roughly 40,000 people have sought refuge in Moyale after leaving unrest in southern Ethiopia. More than 15,000 are in eight temporary shelters, including churches and schools; over 20,000 stay with relatives. The commission asks for food, water, shelter, sanitation and health care, and urges Kenya and Ethiopia to coordinate. Kenya Red Cross reported 14,000+ at the weekend; figures differ and are not independently verified.\nSource: Anadolu Agency; Citizen Digital, Oct 27, 2026.\n#Ethiopia #Moyale #Kenya #Displacement #EthiopiaNews"
+  "status": "posted by MG (app)",
+  "caption": "Ethiopia news today: about 40,000 from Ethiopia now in Moyale, Kenya\nKenya's National Commission on Human Rights said on Oct 27 that roughly 40,000 people have sought refuge in Moyale after leaving unrest in southern Ethiopia. More than 15,000 are in eight temporary shelters, including churches and schools; over 20,000 stay with relatives. The commission asks for food, water, shelter, sanitation and health care, and urges Kenya and Ethiopia to coordinate. Kenya Red Cross reported 14,000+ at the weekend; figures differ and are not independently verified.\nSource: Anadolu Agency; Citizen Digital, Oct 27, 2026.\n#Ethiopia #Moyale #Kenya #Displacement #EthiopiaNews",
+  "stats_2026-10-27_1734": {
+   "views": 634
+  }
  },
  {
   "date": "2026-10-27",
@@ -557,7 +590,10 @@
   "headline": "Amharic: Russia–Africa summit (Moscow, Oct 28-29): Isaias arrived Oct 27 (Shabait, state media); Kremlin aide schedule: Putin meets Abiy Oct 28, Eritrea Oct 30, separately (TASS Oct 26); no announced Ethiopia–Eritrea meeting; ties cut early Oct, each side's accusation (Al Jazeera Oct 2). New angle, not a translation of Oct 26 English trade video",
   "hook": "question",
   "slot": "6pm",
-  "status": "prepped for MG",
-  "caption": "የሞስኮው ጉባኤ ለኢትዮጵያና ኤርትራ ምን ይዟል?\nሦስተኛው የሩሲያ–አፍሪካ ጉባኤ ኦክቶበር 28–29 በሞስኮ ይካሄዳል። የኤርትራ ፕሬዚዳንት ኢሳያስ አፈወርቂ ዛሬ ሞስኮ ገብተዋል (ሻዕቢያ፣ የኤርትራ መንግሥት ሚዲያ)። የክሬምሊን ረዳት እንዳሉት ፑቲን ከጠ/ሚ ዐቢይ አሕመድ ጋር ኦክቶበር 28፣ ከኤርትራ ጋር ደግሞ ኦክቶበር 30 በተናጠል ይገናኛሉ (ታስ)። በሁለቱ መሪዎች መካከል የታወጀ ስብሰባ የለም። ሁለቱ አገሮች በኦክቶበር መጀመሪያ የዲፕሎማሲ ግንኙነት አቋርጠዋል (አልጀዚራ)።\nSource: TASS, Oct 26; Shabait, Oct 27; Al Jazeera, Oct 2, 2026.\n#Ethiopia #ኢትዮጵያ #Eritrea #RussiaAfrica #HornOfAfrica"
+  "status": "posted by MG (app)",
+  "caption": "የሞስኮው ጉባኤ ለኢትዮጵያና ኤርትራ ምን ይዟል?\nሦስተኛው የሩሲያ–አፍሪካ ጉባኤ ኦክቶበር 28–29 በሞስኮ ይካሄዳል። የኤርትራ ፕሬዚዳንት ኢሳያስ አፈወርቂ ዛሬ ሞስኮ ገብተዋል (ሻዕቢያ፣ የኤርትራ መንግሥት ሚዲያ)። የክሬምሊን ረዳት እንዳሉት ፑቲን ከጠ/ሚ ዐቢይ አሕመድ ጋር ኦክቶበር 28፣ ከኤርትራ ጋር ደግሞ ኦክቶበር 30 በተናጠል ይገናኛሉ (ታስ)። በሁለቱ መሪዎች መካከል የታወጀ ስብሰባ የለም። ሁለቱ አገሮች በኦክቶበር መጀመሪያ የዲፕሎማሲ ግንኙነት አቋርጠዋል (አልጀዚራ)።\nSource: TASS, Oct 26; Shabait, Oct 27; Al Jazeera, Oct 2, 2026.\n#Ethiopia #ኢትዮጵያ #Eritrea #RussiaAfrica #HornOfAfrica",
+  "stats_2026-10-27_1734": {
+   "views": 0
+  }
  }
 ]
