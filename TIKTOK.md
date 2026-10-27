@@ -100,3 +100,8 @@ into media/tiktok/, logs it in tiktok_posted.json and sends MG a push notificati
 5. Weakest: abstract policy questions (transitional justice 149, drought explainer 185).
 Amharic videos perform as well as English. When choosing between clean stories, prefer 1 > 2 > 3, put a place
 name or a big number on slide 1, and keep abstract policy for slow news days.
+- Update Oct 27 (12 videos, all distributed, none flagged): opening style averages: headline ~500 views,
+  number ~325, question ~315. Prefer a plain headline that names the place and the people ("About 40,000 from
+  Ethiopia now in Moyale, Kenya" 634). Hot news told through its civilian angle works (Arsi: "what are church
+  leaders asking for?" 445, no flag). Geopolitics tied to Ethiopia works (Russia–Africa summit 415).
+  Weakest: farming/agriculture data (Raya Azebo 209, drought 196) and abstract policy (transitional justice 237).
