@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-27_arsichurch_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · ARSI ZONE, OROMIA",
+ "places": ["oromia"],
+ "place_label": "ARSI ZONE, OROMIA",
+ "slides": [
+  {
+   "title": "Arsi attacks: church gives new toll",
+   "body": "Update from Al Jazeera and Anadolu, Oct 27, 2026"
+  },
+  {
+   "stat": "60",
+   "title": "Orthodox Christians killed, church officials say",
+   "body": "In separate attacks on Oct 20 and Oct 24 in Arsi Zone. More than 20 seriously injured, 20 homes burned."
+  },
+  {
+   "stat": "14",
+   "title": "killed on Oct 20 in Merti district",
+   "body": "In Gora Silingo, Angada Kebele, according to church officials."
+  },
+  {
+   "stat": "46",
+   "title": "killed on Oct 24 in Shirka district",
+   "body": "In the villages of Tereta, Chole and Birbo, church officials said."
+  },
+  {
+   "title": "Who is responsible is not established",
+   "body": "No group claimed the attacks. A local official reportedly blamed a new rebel alliance including the OLA; the OLA denies attacking civilians."
+  },
+  {
+   "title": "Protect civilians. Investigate independently.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Al Jazeera / Anadolu, Oct 27, 2026 (church officials)",
+ "card": {
+  "title": "Arsi attacks: church says 60 killed",
+  "body": "Al Jazeera / Anadolu, Oct 27, 2026"
+ }
+}
