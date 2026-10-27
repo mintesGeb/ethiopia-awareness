@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-27_northneeds_en",
+ "lang": "en",
+ "kicker": "HUNGER & HEALTH · TIGRAY, AMHARA & AFAR",
+ "places": ["tigray", "afar"],
+ "place_label": "NORTHERN ETHIOPIA",
+ "slides": [
+  {"title": "Displaced children in Tigray are going hungry", "body": "A humanitarian assessment seen by Addis Standard"},
+  {"stat": "15%", "title": "of ~11,800 displaced children screened had moderate acute malnutrition", "body": "Screening in September and October in Laelay Adiabo, Axum and Adwa, Tigray."},
+  {"stat": "400", "title": "hectares showed crop growth in Raya Azebo", "body": "Out of more than 15,000 cultivated. About 10,000 hectares went unplanted after May rains failed."},
+  {"title": "Cholera in Wag Hamra, Amhara", "body": "Humanitarian sources report limited treatment supplies, including fluids, the assessment says."},
+  {"stat": "11,000–13,000", "title": "people may still be displaced in Afar", "body": "Figures are hard to verify. Some displaced from Abaala and Megale have returned home."},
+  {"title": "Health care under strain", "body": "Sheraro hospitals face insecurity, supply shortages and unpaid salaries. Facilities in Wukro and Adwa were reportedly looted."},
+  {"title": "Let aid reach every family safely.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Humanitarian assessment (Oct 19) via Addis Standard · Oct 27, 2026",
+ "card": {"stat": "15%", "title": "of ~11,800 displaced children screened in Tigray had moderate acute malnutrition", "body": "Humanitarian assessment via Addis Standard, Oct 27."}
+}
