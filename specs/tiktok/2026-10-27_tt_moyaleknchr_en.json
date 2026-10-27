@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-27_tt_moyaleknchr_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "DISPLACEMENT · MOYALE, ETHIOPIA–KENYA",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA–KENYA BORDER",
+ "slides": [
+  {"title": "About 40,000 from Ethiopia now in Moyale, Kenya", "body": "Kenya's rights commission calls for urgent aid."},
+  {"title": "Where people are staying", "body": "More than 15,000 are in eight temporary shelters, including churches and schools. Over 20,000 are with relatives and friends (KNCHR, Oct 27)."},
+  {"title": "Figures are rising", "body": "Kenya Red Cross reported more than 14,000 at the weekend. Counts differ between agencies and are not independently verified."},
+  {"title": "What is needed", "body": "Food, clean water, shelter, sanitation and health care, including maternal care. The commission warns crowding could raise disease risk."},
+  {"title": "Protect people seeking safety. Keep aid flowing.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Anadolu Agency; Citizen Digital · Oct 27, 2026"
+}
