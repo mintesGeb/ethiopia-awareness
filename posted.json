@@ -1,846 +1,856 @@
 [
-  {
-    "date": "2026-10-12",
-    "slot": "first",
-    "lang": "en",
-    "type": "text",
-    "headline": "GCR2P Atrocity Alert No. 497: Alamata, Adwa/Sheraro strikes, Eritrea cutting ties",
-    "source": "GCR2P",
-    "url": "",
-    "post_id": ""
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "text",
-    "headline": "Hunger is rising behind the headlines (FEWS NET IPC 3 outlook, Tigray & Hararghe)",
-    "source": "Addis Standard via AllAfrica, Oct 9 2026",
-    "url": "https://allafrica.com/stories/202610090344.html",
-    "post_id": "105052697572360_1132323066043811"
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "extra",
-    "lang": "am",
-    "type": "text",
-    "headline": "Amharic version of the FEWS NET food insecurity story",
-    "source": "Addis Standard via AllAfrica, Oct 9 2026",
-    "url": "https://allafrica.com/stories/202610090344.html",
-    "post_id": "105052697572360_1132408996035218"
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "text",
-    "headline": "Federal forces enter Adwa, Tigray (Amharic)",
-    "source": "Al Jazeera/AFP, Oct 12 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say",
-    "post_id": "105052697572360_1132438912698893"
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "text",
-    "headline": "Ethiopian troops reach Zalambessa on Eritrean border (Amharic)",
-    "source": "Reuters via Arab News, Oct 13 2026",
-    "url": "https://arabnews.pk/world/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears-3004054",
-    "post_id": "105052697572360_1132476986028419"
-  },
-  {
-    "date": "2026-10-13",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "text",
-    "headline": "UN chief gravely concerned by renewed fighting in northern Ethiopia; calls for halt and Pretoria dialogue",
-    "source": "UN News, Oct 2026",
-    "url": "https://news.un.org/en/story/2026/10/1168570",
-    "post_id": "105052697572360_1132483649361086"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "late-13pm-style",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Aid in Tigray nearly stopped: Mekelle cut off 10 days, convoy struck, 3.2M without food aid",
-    "source": "The New Humanitarian, Oct 8 2026",
-    "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger",
-    "post_id": "1044930928558977"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Ethiopia and Eritrea trade accusations at the UN Security Council",
-    "source": "Al Jazeera, Oct 11 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war",
-    "post_id": "5603487396543074"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Addis Standard under pressure: editor abducted, newsroom raided, eviction (press freedom, Addis Ababa)",
-    "source": "RSF, Aug 13 2026",
-    "url": "https://rsf.org/en/ethiopia-rsf-condemns-escalating-pressure-and-intimidation-against-independent-news-site-addis",
-    "post_id": "105052697572360_1133134949295956"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Aid for Ethiopia's children is running dry: UNICEF appeal 22% funded",
-    "source": "UNICEF, Ethiopia Humanitarian Situation Report No. 3 (Mid-Year), Jun 30 2026",
-    "url": "https://www.unicef.org/media/183381/file/Ethiopia-Humanitarian-Situation-Report-No.3(Mid-Year),30-June-2026.pdf.pdf",
-    "post_id": "1413946656937165"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Ethiopian troops reach Zalambessa; Ethiopia and Eritrea send dueling letters to UN Security Council (Amharic)",
-    "source": "Reuters, Oct 13 2026",
-    "url": "https://www.thestar.com.my/news/world/2026/10/14/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears",
-    "post_id": "1128333569612464"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "repost",
-    "lang": "en",
-    "type": "reel",
-    "headline": "REPOST (new design) of: Aid in Tigray nearly stopped. Original reel was converted to a photo post during a cover edit",
-    "source": "The New Humanitarian, Oct 8 2026",
-    "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger",
-    "post_id": "1804388814142678"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "repost",
-    "lang": "am",
-    "type": "reel",
-    "headline": "REPOST (new design) of: Ethiopian troops reach Zalambessa; Ethiopia and Eritrea send dueling letters to UN (Amharic). Original reel lost during a cover edit",
-    "source": "Reuters, Oct 13 2026",
-    "url": "https://www.thestar.com.my/news/world/2026/10/14/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears",
-    "post_id": "1598065164593539"
-  },
-  {
-    "date": "2026-10-14",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "UN Security Council holds second closed meeting on northern Ethiopia in two weeks (US-requested, Oct 13)",
-    "source": "Security Council Report, Oct 12 2026",
-    "url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/horn-of-africa-closed-consultations.php",
-    "post_id": "105052697572360_1133547742588010"
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Ethiopia and Eritrea 'perilously close to all-out war': claims vs verified (ICG warning, militia claim, Eritrea denial)",
-    "source": "AFP via Africanews, Oct 15 2026",
-    "url": "https://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/",
-    "post_id": "1483289207037785"
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "HRW: reports of civilians killed and injured by shelling in southern Tigray; health facilities closing",
-    "source": "AP via WTOP, Oct 15 2026",
-    "url": "https://wtop.com/world/2026/10/rubio-urges-restraint-over-ethiopia-eritrea-tensions-as-rights-group-reports-civilians-killed/",
-    "post_id": "105052697572360_1134113202531464"
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "manual",
-    "lang": "en",
-    "type": "reel",
-    "headline": "139 dead off Djibouti; migrant boat to Yemen capsized, survivors all Ethiopian (IOM)",
-    "source": "AP via PBS NewsHour, Oct 11 2026",
-    "url": "https://www.pbs.org/newshour/world/at-least-139-migrants-dead-dozens-missing-after-boat-capsizes-off-djibouti-coast",
-    "post_id": "2130605931163496"
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "manual-by-MG-2pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "POSTED BY MG MANUALLY ~2:15 PM (do not repeat): US Embassy alert: possible long-range attacks; do not travel to Amhara, Tigray, Afar; beware false reports",
-    "source": "Anadolu Oct 7 2026; Fox News Oct 14 2026",
-    "url": "https://www.aa.com.tr/en/americas/us-embassy-warns-of-possible-long-range-attacks-targeting-ethiopian-military-installations/4081480",
-    "post_id": ""
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "UN releases $8.5M CERF emergency funding for northern Ethiopia; 202,700 people targeted",
-    "source": "Capital Ethiopia, Oct 14 2026",
-    "url": "https://capitalethiopia.com/2026/10/14/un-allocates-8-5-million-emergency-fund-for-northern-ethiopia-amid-escalating-conflict/",
-    "post_id": "2338629513571124"
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "manual-by-MG",
-    "lang": "en",
-    "type": "reel",
-    "headline": "POSTED BY MG MANUALLY (do not repeat): Rubio-Abiy call Oct 14: US urges Ethiopia-Eritrea de-escalation, respect for sovereignty, dialogue under 2018 peace deal",
-    "source": "AP, Oct 15 2026",
-    "url": "https://abcnews.com/International/wireStory/rubio-urges-restraint-ethiopia-eritrea-tensions-rights-group-137280105",
-    "post_id": ""
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Zalambessa residents caught between Ethiopian and Eritrean troops: no power/water, roads blocked, no bread (Amharic)",
-    "source": "AFP via Courthouse News, Oct 15 2026",
-    "url": "https://www.courthousenews.com/between-ethiopia-and-eritrea-a-border-towns-residents-worry/",
-    "post_id": "1762797871649478"
-  },
-  {
-    "date": "2026-10-15",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "EU warns escalation in Ethiopia risks wider Horn of Africa conflict; calls for de-escalation and civilian protection",
-    "source": "Anadolu Agency, Oct 6 2026 (EU statement Oct 5)",
-    "url": "https://aa.com.tr/en/europe/eu-warns-escalating-violence-in-ethiopia-risks-wider-regional-conflict/4079079",
-    "post_id": "105052697572360_1134510259158425"
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Fighting reaches historic Aksum: ACLED documents government and Tigray Peace Force entry; border movements; Zalambessa residents without power/water",
-    "source": "AFP/Anadolu via Al Jazeera, Oct 15 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses",
-    "post_id": "2086036418703169"
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "manual-by-MG",
-    "lang": "en",
-    "type": "reel",
-    "headline": "POSTED BY MG MANUALLY (do not repeat): Mekelle reconnects: Ethiopian Airlines Addis-Mekelle flights resumed Oct 11, buses resumed; Axum/Shire flights still suspended; embassies still advise against travel",
-    "source": "bne IntelliNews Oct 12; DW Oct 14; US Embassy alert Oct 12 (via Mereja)",
-    "url": "https://mereja.com/index/837750",
-    "post_id": ""
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Amhara: fighting reaches Wegeltena; residents report civilians wounded across Wollo and Shewa (DW Amharic)",
-    "source": "DW Amharic, Oct 13 2026 (via Mereja)",
-    "url": "https://www.dw.com/am/%E1%8B%8D%E1%8C%8A%E1%8B%AB-%E1%8A%A8%E1%8B%9B%E1%88%AC-%E1%88%9B%E1%88%AD%E1%8D%88%E1%8C%83%E1%8B%99-%E1%8C%80%E1%88%9D%E1%88%AE-%E1%8C%8B%E1%89%A5-%E1%88%9B%E1%88%88%E1%89%B1%E1%8A%95-%E1%8A%90%E1%8B%8B%E1%88%AA%E1%8B%8E%E1%89%BD-%E1%8A%A0%E1%88%B5%E1%89%B3%E1%8B%8D%E1%89%80%E1%8B%8B%E1%88%8D/a-79654668",
-    "post_id": "105052697572360_1135054492437335"
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "UN OCHA: aid access improving gradually in parts of North Wollo, Wag Hamra, Afar, Tigray; Adwa hospital looted Oct 12; displacement continues; Kobo returns suspended",
-    "source": "UN OCHA Oct 13 2026; UN News Oct 10 2026",
-    "url": "https://www.unocha.org/news/todays-top-news-ethiopia-democratic-republic-congo-occupied-palestinian-territory-yemen",
-    "post_id": "1679806640413493"
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "manual-by-MG",
-    "lang": "en",
-    "type": "reel",
-    "headline": "POSTED BY MG MANUALLY (do not repeat): Abiy names six-month interim/caretaker government for Tigray; five officials incl. Mekelle mayor; elections, rebuilding, IDP return; TPLF no comment yet",
-    "source": "Reuters via CNBC Africa; AFP via Al Jazeera, Oct 16 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
-    "post_id": ""
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Tigray interim administration: six months, five officials incl. Mekelle mayor, federal directives, TPLF no response (Amharic)",
-    "source": "AFP via Al Jazeera, Oct 16 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
-    "post_id": "1104511935674109"
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "Children among the wounded: at least 44 civilians, 33 children, critically injured by shelling in Maychew and Alamata (medical source via AFP)",
-    "source": "AFP via Africanews, Oct 6 2026",
-    "url": "https://www.africanews.com/2026/10/06/renewed-violence-in-ethiopias-tigray-leaves-dozens-of-children-wounded/",
-    "post_id": "105052697572360_1135447972397987"
-  },
-  {
-    "date": "2026-10-17",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Hundreds of ex-fighters register for reintegration (DDR) in Mekelle since Oct 14; follows Oct 16 caretaker administration",
-    "source": "Africanews with AFP, Oct 17 2026",
-    "url": "https://www.africanews.com/2026/10/17/ex-fighters-in-ethiopias-tigray-region-register-for-reintegration-programme/",
-    "post_id": "1827406898682302"
-  },
-  {
-    "date": "2026-10-17",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "EHRC annual report: 'alarming' right to life; detentions incl. children under 'military recruitment' in Oromia, widespread detentions in Amhara (Oromia/Amhara)",
-    "source": "Mereja compiling The Reporter, borkena, DW Amharic, Oct 10 2026",
-    "url": "https://mereja.com/index/837526",
-    "post_id": "105052697572360_1135980025678115"
-  },
-  {
-    "date": "2026-10-17",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "MSF: war-wounded surge at Korem, Alamata, Suhul hospitals; Alamata activities suspended",
-    "source": "MSF, Sept 28 2026",
-    "url": "https://www.msf.org/msf-teams-scale-medical-response-fighting-resumes-ethiopia",
-    "post_id": "1128752002832622"
-  },
-  {
-    "date": "2026-10-17",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Mekelle residents after change of control: offices and schools closed, mixed views (Amharic)",
-    "source": "Christian Science Monitor, Oct 16 2026",
-    "url": "https://csmonitor.com/World/Africa/2026/1016/ethiopia-tigray-mekelle-war-caretaker-administration",
-    "post_id": "1777129283518063"
-  },
-  {
-    "date": "2026-10-17",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "AU Commission urges Ethiopia, Eritrea and Egypt to show 'maximum restraint'; offers to support dialogue",
-    "source": "African Union Commission, Oct 1 2026",
-    "url": "https://au.int/en/pressreleases/20261001/statement-auc-escalating-tensions-between-ethiopia-eritrea-and-egypt",
-    "post_id": "105052697572360_1136379848971466"
-  },
-  {
-    "date": "2026-10-18",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "TPLF rejects Tigray caretaker administration as illegitimate; disputed Mekelle airport warning",
-    "source": "Anadolu Agency, Oct 17 2026; Kulu Media, Oct 17 2026",
-    "url": "https://www.aa.com.tr/en/africa/ethiopias-tplf-rejects-new-tigray-administration-as-illegitimate/4092056",
-    "post_id": "1056778417399353"
-  },
-  {
-    "date": "2026-10-18",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Gambella city: at least 25 killed, 80+ injured in clashes per residents (unverified); indefinite curfew (Gambella)",
-    "source": "Borkena, Oct 16 2026 (also Oct 15 report)",
-    "url": "https://borkena.com/gambella-city-violence-escalates-at-least-25-dead-and-80-injured/",
-    "post_id": "105052697572360_1136924898916961"
-  },
-  {
-    "date": "2026-10-18",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Tigray hospitals reopen (Mekelle, Shire); Oct 14 convoy, WHO 71+ tonnes; fuel/funding/insecurity gaps (OCHA Oct 16)",
-    "source": "The Reporter citing UN OCHA, Oct 17 2026",
-    "url": "https://www.thereporterethiopia.com/53480/",
-    "post_id": "1430733011817292"
-  },
-  {
-    "date": "2026-10-18",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Russia offers to host Ethiopia-Eritrea talks on sidelines of Oct 28-29 Russia-Africa summit in Moscow; no response yet from either side (Amharic)",
-    "source": "Borkena citing BBC Amharic/Izvestia, Oct 17 2026",
-    "url": "https://borkena.com/russia-offers-to-mediate-between-ethiopia-and-eritrea-amid-rising-tensions/",
-    "post_id": "1681637026888315"
-  },
-  {
-    "date": "2026-10-18",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Weekly roundup 'This week across Ethiopia' Oct 12-18: Tigray caretaker admin & TPLF rejection; Mekelle/Shire hospitals reopen, WHO 71+ t; Gambella clashes (unverified); Russia offers Ethiopia-Eritrea talks",
-    "source": "AFP via Al Jazeera Oct 16; Anadolu Oct 17; The Reporter/OCHA Oct 17; Borkena Oct 16-17 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
-    "post_id": "1158770850145568"
-  },
-  {
-    "date": "2026-10-19",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: Adigrat after drone strikes on Eritrean troops (Oct 7, Oct 10); schools closed, shortages, policing breakdown, hunger (AFP residents)",
-    "source": "AFP via Kuwait Times, Oct 18 2026",
-    "url": "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops/",
-    "post_id": "1143347741363221"
-  },
-  {
-    "date": "2026-10-19",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Federal High Court lets four detainees who refused conditional amnesty terms present defence; Wondwosen Assefa hunger strike (Addis Ababa/Amhara detainees)",
-    "source": "Borkena citing Addis Maleda, Oct 16 2026; Borkena Oct 14 2026",
-    "url": "https://borkena.com/high-court-rules-four-defendants-can-present-defense-after-rejecting-amnesty/",
-    "post_id": "105052697572360_1137861388823312"
-  },
-  {
-    "date": "2026-10-19",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Abergele woreda (Wag Himra, Amhara): El Nino drought; 72,000+ of 80,874 need food aid, 90%+ crop failure, 27,717 sheep/goats dead, 1,531 displaced (local officials, unverified)",
-    "source": "Borkena citing Abergele woreda officials, Oct 19 2026",
-    "url": "https://borkena.com/ethiopia-over-72000-residents-in-abergele-woreda-face-severe-drought-and-food-insecurity/",
-    "post_id": "1654541769555903"
-  },
-  {
-    "date": "2026-10-19",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Raya Alamata local elections dispute: Raya Amhara identity committee alleges coercion, pass system, movement limits; Semeret party denies, says restoring civil admin in 14 southern Tigray woredas (Amharic, unverified)",
-    "source": "Borkena, Oct 19 2026",
-    "url": "https://borkena.com/ethiopia-local-elections-in-raya-alamata-trigger-tensions-as-the-amhara-boundary-committee-and-semeret-party-clash-over-governance/",
-    "post_id": "3012963432396458"
-  },
-  {
-    "date": "2026-10-19",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "Abiy warns Eritrea of 'very, very, very severe consequences' if it keeps backing rebels; no Eritrean response reported",
-    "source": "AFP via Yahoo News, Oct 19 2026",
-    "url": "https://www.yahoo.com/news/world/articles/ethiopia-pm-warns-eritrea-severe-195951513.html",
-    "post_id": "105052697572360_1138261132116671"
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Sodo Woreda (East Gurage, Central Ethiopia): at least 11 farmers killed in two weeks (6 on Sept 29 Suten, 5 on Oct 10 Gefersa Giorgis/Joro); kidnapping, displacement; zonal official blames OLF-Shene (unverified)",
-    "source": "Borkena, Oct 19 2026",
-    "url": "https://borkena.com/ethiopia-sodo-woreda-attacks-leave-11-dead-as-residents-plead-for-federal-intervention/",
-    "post_id": "1631375398359784"
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "EPRP's Yisak Wolday, member Abebe Akalu and lawyer Abera Nigus freed without charge after detention since Aug 3 despite Aug 4 bail order (Addis Ababa)",
-    "source": "AFP via Arab News, Oct 17 2026",
-    "url": "https://www.arabnews.com/world/two-ethiopian-opposition-members-lawyer-released-after-months-3006852",
-    "post_id": "105052697572360_1138822212060563"
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Ethiopia hosts 1,023,565 refugees (UNHCR, Aug 31); registration halted for tens of thousands arriving from South Sudan and Eritrea; UNHCR has $3B of $8.5B needed",
-    "source": "UN News, Oct 12 2026; UNHCR data portal, Aug 31 2026",
-    "url": "https://news.un.org/en/story/2026/10/1168575",
-    "post_id": "1734826794290288"
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "East Arsi (Oromia): EOTC East Arsi diocese says at least 6 Orthodox faithful killed, 55 abducted in Sherka and Honkolo Wabe; priest wounded; EPRP says ~50 abducted, calls for independent probe; govt silent (Amharic, unverified)",
-    "source": "Borkena, Oct 20 2026 (also Borkena on EPRP statement)",
-    "url": "https://borkena.com/ethiopia-at-least-6-orthodox-christians-killed-55-abducted-in-arsi-zone/",
-    "post_id": "961665523193942"
-  },
-  {
-    "date": "2026-10-20",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "Rubio: 'the last thing the world needs right now is another war'; troops surging on both sides of Ethiopia-Eritrea border; limited Eritrea sanctions easing to enable mediation; Alliance for Survival rejects 'separatist/terrorist' characterization",
-    "source": "Capital (Ethiopia), Oct 18 2026; Addis Standard via AllAfrica, Oct 19 2026",
-    "url": "https://capitalethiopia.com/2026/10/18/the-world-doesnt-need-another-war-rubio-urges-restraint-amid-ethiopia-eritrea-tensions/",
-    "post_id": "105052697572360_1139218778687573"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: central Tigray clashes near Mirena (Oct 17-18) as federal troops push toward Adet; TPLF official claims 1,511 soldiers killed (unverified, no gov comment); Abiy Oct 19 Tigrinya address urges fighters to lay down arms",
-    "source": "Anadolu Agency, Oct 20 2026; Borkena (citing Addis Maleda), Oct 20 2026",
-    "url": "https://aa.com.tr/en/africa/tigray-rebels-claim-to-have-killed-over-1-500-ethiopian-soldiers-as-abiy-warns-eritrea/4094395",
-    "post_id": "2163074364284331"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Moyale (Borana, Oromia / Somali border): 13-year-old girl Diqqoo Jaataan Aagaa killed Oct 18 amid gunfire between Somali Region forces and Oromia militias over flag raising at new Somali Region office; disputed accounts; protests, transport shut",
-    "source": "Addis Standard via AllAfrica, Oct 20 2026",
-    "url": "https://allafrica.com/stories/202610200685.html",
-    "post_id": "105052697572360_1139768131965971"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Amhara: only 16 of 57 needed mobile health & nutrition teams operating; 10 to close by end of Oct (funding); China camp Debre Birhan 11,976 residents lose aid; food aid planned for ~100,000 in Wag Hamra/North Wollo (OCHA)",
-    "source": "Addis Standard via AllAfrica (citing OCHA), Oct 21 2026",
-    "url": "https://allafrica.com/stories/202610210468.html",
-    "post_id": "2281185812734995"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Finarwa (85 km SW of Mekelle, Tigray): Oct 20 evening drone strike kills 4 incl. 2 children, 5 wounded; goat traders hit (local priest via AFP); operator not stated, unverified (Amharic)",
-    "source": "AFP via APA, Oct 21 2026",
-    "url": "https://en.apa.az/africa/afp-four-people-killed-in-drone-strike-in-ethiopia-531461",
-    "post_id": "1621088016698109"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "manual",
-    "lang": "en",
-    "type": "reel",
-    "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): UN Resident Coordinator Ozonnia Ojielo calls for immediate Tigray ceasefire, aid access, civilian government (Oct 20)",
-    "source": "The Reporter (Ethiopia) via The Rio Times, Oct 21 2026",
-    "url": "",
-    "post_id": "",
-    "id": "2026-10-21_fb_unceasefire_en"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "manual",
-    "lang": "am",
-    "type": "reel",
-    "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): TPF commander says TPLF leaders crossed into Eritrea; Eritrea's info minister calls it lies; TPLF denies (Amharic)",
-    "source": "AFP via The Peninsula, Oct 21 2026",
-    "url": "",
-    "post_id": "",
-    "id": "2026-10-21_fb_eritrea_am"
-  },
-  {
-    "date": "2026-10-21",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "Accountability explainer: HRW World Report 2026 says 'impunity for serious crimes and abuses remained the norm', transitional justice 'effectively stalled'; EU HRC joint statements; Amnesty (Al Jazeera, Aug 6 2026) on expired UN/AU investigative mandates",
-    "source": "Human Rights Watch, World Report 2026 (events of 2025); Al Jazeera/Amnesty, Aug 6 2026",
-    "url": "https://www.hrw.org/world-report/2026/country-chapters/ethiopia",
-    "post_id": "105052697572360_1140147961927988"
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: drone strike reportedly hits Sana Elementary School, Dera district, South Gondar (Amhara) Oct 20 ~10am; at least 6 schoolchildren killed, 27 wounded (Anchor Media/EMS via Borkena); attributed to federal military; pro-gov accounts dispute; no gov comment; unverified",
-    "source": "Borkena (citing Anchor Media, EMS), Oct 21 2026",
-    "url": "https://borkena.com/ethiopia-at-least-six-schoolchildren-killed-in-south-gondar-drone-strike/",
-    "post_id": "1606341204481163"
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Tigray after change of control: shops/banks reopen in Mekelle but ~137,000 civil servants' salaries unpaid since March; students fear lost year, 5,000+ applied for temporary university placements; caretaker admin tasks (Tigray)",
-    "source": "Al Jazeera, Oct 22 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war",
-    "post_id": "105052697572360_1140696931873091"
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Who protects Ethiopia's aid workers? Addis Standard op-ed (Nigussie Tefera, CCRDA): Sept 20 drone strikes reportedly hit truck with ~41 t food for Sheraro IDPs; UN RC (Sept 30): at least 10 aid vehicles seized by armed groups 2025-26, 2 recovered; OCHA 350 aid workers killed worldwide 2025",
-    "source": "Addis Standard via allAfrica, Oct 22 2026",
-    "url": "https://allafrica.com/stories/202610220039.html",
-    "post_id": "1138390928869504"
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Dera school drone strike follow-up (Amharic): Sana Elementary, South Gondar, Oct 20 10-11am; at least 6 children killed, 20+ injured (other accounts 7-10); teacher says 150+ students in morning shift, no armed people nearby, disputes Fano-hideout claims; no military response; unverified",
-    "source": "Addis Standard via allAfrica, Oct 22 2026",
-    "url": "https://allafrica.com/stories/202610220473.html",
-    "post_id": "4158615464435843"
-  },
-  {
-    "date": "2026-10-22",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "US Ambassador Ervin Massinga interview: 'We believe that dialogue is the best path for lasting stability'; civilians must be protected; Pretoria principles guide US policy; aid shifting to government-led delivery; defers on Eritrea/Egypt",
-    "source": "The Reporter (Ethiopia), interview, Oct 19 2026",
-    "url": "https://www.thereporterethiopia.com/53537/",
-    "post_id": "105052697572360_1141096828499768"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: armed raid on Finchaa Sugar Factory, Sulula Finchaa (western Oromia) Oct 21 ~11am; 5 killed (4 militia, 1 civilian), 2 employees abducted, vehicles burned, CBE branch vandalized; attackers unidentified; drone reportedly struck retreating group; no gov statement; unverified",
-    "source": "Borkena (citing DW Amharic), Oct 21 2026",
-    "url": "https://borkena.com/ethiopia-armed-attack-on-finchaa-sugar-factory-leaves-five-dead-and-damages-facilities-in-west-oromia/",
-    "post_id": "28748278628133684"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "WJP Rule of Law Index 2026: Ethiopia 133rd of 143 (down from 132nd); 2025 factors: fundamental rights 138th, constraints on gov 134th; 30th of 34 SSA; IMS: 44+ journalists abducted/detained in 2025 (national/Addis Ababa)",
-    "source": "Addis Standard via allAfrica, Oct 21 2026",
-    "url": "https://allafrica.com/stories/202610220038.html",
-    "post_id": "105052697572360_1141643421778442"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Moyale displacement: Oct 22 Oromia-Somali regional forces clashes spread to Gumi Eldallo, Wachile, Arero (East Borana); Kenya Red Cross emergency response in Moyale, Marsabit, targeting 1,000 households; no casualty figures; 288,000+ displaced by border clashes since mid-2025",
-    "source": "Addis Standard via allAfrica, Oct 22-23 2026",
-    "url": "https://allafrica.com/stories/202610230265.html",
-    "post_id": "1762707318145987"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "manual",
-    "lang": "en",
-    "type": "reel",
-    "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): Explainer: why Assab matters in Ethiopia–Eritrea tensions (Eritrea UN note, Bab el-Mandeb, analysts' war scenario)",
-    "source": "ADF via Eurasia Review, Oct 23; The Rio Times, Oct 15; Al Jazeera, Oct 5 2026",
-    "url": "",
-    "post_id": "",
-    "id": "2026-10-23_fb_assab_en"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Tigray two messages (Amharic): caretaker official Redae Halefom urges fighters to disarm/join DDR ('not the time for settling scores'); Lt. Gen. Fisseha Kidanu vows to reverse setbacks (location undisclosed, TPLF loss claims unverified); Abiy accuses TPLF of arming/forced recruitment; Finarwa drone survivors at Ayder: 4 killed, ~6 wounded (unverified)",
-    "source": "Associated Press, Oct 23 2026",
-    "url": "https://www.boston25news.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/",
-    "post_id": "1818432406163459"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "manual",
-    "lang": "en",
-    "type": "reel",
-    "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): Explainer: Alamein Declaration (Egypt, Eritrea, Somalia, Sudan, Oct 4) and what it means for Ethiopia",
-    "source": "Al Jazeera, Oct 5 2026",
-    "url": "",
-    "post_id": "",
-    "id": "2026-10-23_fb_alamein_en"
-  },
-  {
-    "date": "2026-10-23",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "Two messages to UN diplomats: Eritrea's UN envoy Sophia Tesfamariam tells US envoys Waltz/Bartos no 'crisis' with Ethiopia (Oct 20, X); Getachew Reda tells UN Horn envoy Guang Cong of Eritrea's 'destructive role' (Oct 21, unverified), seeks UN support for Tigray caretaker admin",
-    "source": "Addis Standard via allAfrica, Oct 21 2026; Horn Diplomat, Oct 21 2026",
-    "url": "https://allafrica.com/stories/202610210467.html",
-    "post_id": "105052697572360_1142046655071452"
-  },
-  {
-    "date": "2026-10-24",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: Tigray fronts Oct 20-23: Tigrayan forces reportedly re-enter Rama (Oct 22, ACLED, unverified); Oct 22 fighting halts Istayish-Sanka road west of Woldia (DW); Benishangul Gumuz TV claims TPLF vehicles from Sudan (unverified); WHO 71+ tonnes medical supplies to Tigray, Amhara, Afar",
-    "source": "Critical Threats Project, Oct 23 2026; Capital Ethiopia, Oct 21 2026",
-    "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-23-2026",
-    "post_id": "2694403907658118"
-  },
-  {
-    "date": "2026-10-24",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "EHRCO Oct 22 statement: civilian harm in Gambella (Abol transport attack Sept 18; Gambella town Oct 10; 4 killed Kebele 04 Oct 13; Addis Sefer mother & child injured Oct 11), Benishangul-Gumuz (Red Cross driver Mulugeta Andualem killed Oct 14 Dangur; drivers abducted for ransom Manbuk Oct 16), Sekota, Gida Ayana displaced (Gambella/Benishangul-Gumuz)",
-    "source": "The Reporter Ethiopia, Oct 24 2026",
-    "url": "https://www.thereporterethiopia.com/53661/",
-    "post_id": "105052697572360_1142575185018599"
-  },
-  {
-    "date": "2026-10-24",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "WFP Ethiopia funding gap: $251M needed over 6 months, only 46% funded; 2.1M reached in Sept (1.9M Aug); 60% cereal rations (~9 kg); 762,335 refugees in 30 camps; access/fuel/drought disruptions in Afar, Tigray, Amhara",
-    "source": "The Reporter citing WFP October 2026 country brief, Oct 24 2026",
-    "url": "https://www.thereporterethiopia.com/53635/",
-    "post_id": "2055263695120216"
-  },
-  {
-    "date": "2026-10-24",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Overseas jobs/visa fraud prosecution (Amharic): MoJ charges 13 (incl. ex-ELMIS project manager Berhanu Aleka Asgedom); 64,500 allegedly sent to Jordan/Arab states on forged visas (Capital: 64,091 in charge); 81,236 COC certificates without training; 1.013bn birr via fraudulent accounts; families asked to report lost contact via 991",
-    "source": "Fana citing Ministry of Justice, Oct 24 2026; Capital Ethiopia, Oct 21 2026",
-    "url": "https://www.fanamc.com/english/ethiopias-ministry-of-justice-prosecutes-13-suspects-in-1-013-billion-birr-elmis-corruption-case/",
-    "post_id": "1656636313170714"
-  },
-  {
-    "date": "2026-10-24",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "US Embassy Addis Ababa Oct 23 security alert: fighting in Tigray concentrated outside Mekelle and near Eritrean border; flights suspended at Axum and Shire; some US citizens travelled Shire-Mekelle by road; do not travel to Amhara, Tigray, Afar; 'should leave if it is safe to do so'; beware false social media reports",
-    "source": "U.S. Embassy Addis Ababa, Security Alert, Oct 23 2026",
-    "url": "https://et.usembassy.gov/u-s-embassy-addis-ababa-security-alert-oct-23/",
-    "post_id": "105052697572360_1142969934979124"
-  },
-  {
-    "date": "2026-10-25",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: Shirka Woreda, Arsi (Oromia) night attack, at least 47 Orthodox Christian farmers reportedly killed, homes burned in Birbo/Chole/Sole Guna kebeles, no gov statement, unverified; 5 farmers killed, 200+ livestock looted in Burji/Kore zones (South Ethiopia) on West Guji border",
-    "source": "Borkena, Oct 24 & Oct 23 2026",
-    "url": "https://borkena.com/ethiopia-47-orthodox-christians-killed-and-homes-burned-in-arsi-zone-attack/",
-    "post_id": "1470936671547778"
-  },
-  {
-    "date": "2026-10-25",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Gurage Zone (Central Ethiopia): residents report 20+ civilians abducted in Abeshge Woreda in past week (Nacha town vehicle interceptions); elder abducted near Darge found dead after 4 days; 500,000 birr ransom; zone report: 58 abductions, 23 deaths in 2025/26; officials silent (unverified)",
-    "source": "Borkena, Oct 24 2026",
-    "url": "https://borkena.com/ethiopia-waves-of-abductions-and-fatalities-shake-gurage-zone-as-residents-allege-government-inaction/",
-    "post_id": "105052697572360_1143508558258595"
-  },
-  {
-    "date": "2026-10-25",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Moyale displacement update: 14,000+ Ethiopians fled into Kenya (humanitarian officials); Kenya Red Cross: 10,900+ in six temporary camps in Moyale, Kenya, ~4,000 with host families; at least 9 dead by Friday, fears of more than a dozen; appeal for food, water, sanitation (Malik Adan)",
-    "source": "TRT World citing Anadolu, Oct 24 2026",
-    "url": "https://trtworld.com/article/024cdd9ed7e5",
-    "post_id": "1100146729689367"
-  },
-  {
-    "date": "2026-10-25",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Shirka Woreda, Arsi attack (Amharic): at least 47 Orthodox Christians reportedly killed, homes burned in Birbo/Chole/Sole Guna kebeles from ~10 PM; Gobesa residents' calls for police unanswered (reported); no gov statement; earlier 55 abducted Oct 7 (diocese, Borkena Oct 20); unverified",
-    "source": "Borkena, Oct 24 & Oct 20 2026",
-    "url": "https://borkena.com/ethiopia-47-orthodox-christians-killed-and-homes-burned-in-arsi-zone-attack/",
-    "post_id": "1133573575708170"
-  },
-  {
-    "date": "2026-10-25",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Weekly roundup 'This week across Ethiopia' Oct 19-25: Shirka/Arsi attack, 47 reportedly killed (Borkena, unverified); Sana Elementary drone strike, South Gondar, 6+ children killed; 14,000+ fled Moyale into Kenya; ~137,000 Tigray civil servants unpaid since March",
-    "source": "Borkena Oct 21 & 24; Addis Standard via allAfrica Oct 22; Anadolu via TRT World Oct 24; Al Jazeera Oct 22 2026",
-    "url": "https://trtworld.com/article/024cdd9ed7e5",
-    "post_id": "1274301548209782"
-  },
-  {
-    "date": "2026-10-26",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Moyale displacement update: Marsabit County Commissioner Kamande says ~35,000 Ethiopians crossed into Kenya (~15,000 in camps, ~20,000 with families; up from 2,500 cited Friday, unexplained); 3 suspected measles cases; trade halted at crossing; AFP residents: heavy weapons fired Saturday, no confirmed toll, no federal response",
-    "source": "Kenya News Agency via Zegabi, Oct 25 2026; AFP via Arab News, Oct 24 2026",
-    "url": "https://zegabi.com/articles/179651",
-    "post_id": "976117354991113"
-  },
-  {
-    "date": "2026-10-26",
-    "slot": "10am",
-    "lang": "en",
-    "type": "text",
-    "headline": "Eastern Amhara drone strikes Oct 15-21: at least 15 civilians killed, several injured incl. children, schools damaged (partners via OCHA, locations/perpetrators not named, unverified); Tigray strike hit local NGO humanitarian warehouse (Amhara)",
-    "source": "UN OCHA via APO Group/Zawya, Oct 24 2026",
-    "url": "https://www.zawya.com/en/press-release/africa-press-releases/ethiopia-food-assistance-reaches-tens-of-thousands-affected-by-conflict-el-nino-in-northern-areas-1849685",
-    "post_id": "105052697572360_1144480824828035"
-  },
-  {
-    "date": "2026-10-26",
-    "slot": "1pm",
-    "lang": "en",
-    "type": "reel",
-    "headline": "IFRC drought assessment: El Nino-linked drought affects ~3.5M (3.57M) in 101 woredas, six regions; West Hararghe 8 of 229 ponds hold water, 696,873 need help, 2,896 SAM children; Tigray 250,865 need assistance; North Gondar 318,443 affected, 19,318 displaced; ERCS response covers ~1.4% (50,000)",
-    "source": "The Reporter citing IFRC, Oct 24 2026",
-    "url": "https://www.thereporterethiopia.com/53642/",
-    "post_id": "1150078997596684"
-  },
-  {
-    "date": "2026-10-26",
-    "slot": "4pm",
-    "lang": "am",
-    "type": "reel",
-    "headline": "Moyale displacement (Amharic): Marsabit Commissioner Kamande ~35,000 Ethiopians crossed into Kenya (15,000 camps/20,000 families); Kenya Red Cross 14,000+ (10,900+ in six camps); 3 suspected measles cases; began Oct 18 flag dispute (BBC Amharic); no regional/federal statement (AFP)",
-    "source": "Kenya News Agency via Zegabi, Oct 25 2026",
-    "url": "https://zegabi.com/articles/179651",
-    "post_id": "1112040621826665"
-  },
-  {
-    "date": "2026-10-26",
-    "slot": "7pm",
-    "lang": "en",
-    "type": "card",
-    "headline": "Accountability: 36 civil society groups (incl. Amnesty, HRW, PHR, CIVICUS) urge UN Human Rights Council special session on Ethiopia; ask 3-expert panel to assess violations by all parties since Aug 2026, report before Jan 31 2027; next regular session Feb 2027",
-    "source": "Human Rights Watch (joint letter dated Oct 8), Oct 9 2026",
-    "url": "https://www.hrw.org/news/2026/10/09/ethiopia-call-for-a-special-session-to-prevent-further-atrocities",
-    "post_id": "105052697572360_1144874314788686"
-  },
-  {
-    "date": "2026-10-27",
-    "slot": "7am",
-    "lang": "en",
-    "type": "reel",
-    "headline": "Overnight in Ethiopia: Arsi attacks update, church officials say 60 Orthodox Christians killed (14 in Merti/Gora Silingo Oct 20; 46 in Shirka/Tereta, Chole, Birbo Oct 24); 20+ injured, 20 homes burned; holy synod calls for protection and justice; Oromia gov pledges pursuit; no claim, local official blamed alliance incl OLA, OLA denies",
-    "source": "Al Jazeera / Anadolu, Oct 27 2026",
-    "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region",
-    "post_id": "1526044266058700"
-  }
+ {
+  "date": "2026-10-12",
+  "slot": "first",
+  "lang": "en",
+  "type": "text",
+  "headline": "GCR2P Atrocity Alert No. 497: Alamata, Adwa/Sheraro strikes, Eritrea cutting ties",
+  "source": "GCR2P",
+  "url": "",
+  "post_id": ""
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "text",
+  "headline": "Hunger is rising behind the headlines (FEWS NET IPC 3 outlook, Tigray & Hararghe)",
+  "source": "Addis Standard via AllAfrica, Oct 9 2026",
+  "url": "https://allafrica.com/stories/202610090344.html",
+  "post_id": "105052697572360_1132323066043811"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "extra",
+  "lang": "am",
+  "type": "text",
+  "headline": "Amharic version of the FEWS NET food insecurity story",
+  "source": "Addis Standard via AllAfrica, Oct 9 2026",
+  "url": "https://allafrica.com/stories/202610090344.html",
+  "post_id": "105052697572360_1132408996035218"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "text",
+  "headline": "Federal forces enter Adwa, Tigray (Amharic)",
+  "source": "Al Jazeera/AFP, Oct 12 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/12/ethiopian-troops-capture-adwa-without-a-fight-witnesses-say",
+  "post_id": "105052697572360_1132438912698893"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "text",
+  "headline": "Ethiopian troops reach Zalambessa on Eritrean border (Amharic)",
+  "source": "Reuters via Arab News, Oct 13 2026",
+  "url": "https://arabnews.pk/world/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears-3004054",
+  "post_id": "105052697572360_1132476986028419"
+ },
+ {
+  "date": "2026-10-13",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "text",
+  "headline": "UN chief gravely concerned by renewed fighting in northern Ethiopia; calls for halt and Pretoria dialogue",
+  "source": "UN News, Oct 2026",
+  "url": "https://news.un.org/en/story/2026/10/1168570",
+  "post_id": "105052697572360_1132483649361086"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "late-13pm-style",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Aid in Tigray nearly stopped: Mekelle cut off 10 days, convoy struck, 3.2M without food aid",
+  "source": "The New Humanitarian, Oct 8 2026",
+  "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger",
+  "post_id": "1044930928558977"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Ethiopia and Eritrea trade accusations at the UN Security Council",
+  "source": "Al Jazeera, Oct 11 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war",
+  "post_id": "5603487396543074"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Addis Standard under pressure: editor abducted, newsroom raided, eviction (press freedom, Addis Ababa)",
+  "source": "RSF, Aug 13 2026",
+  "url": "https://rsf.org/en/ethiopia-rsf-condemns-escalating-pressure-and-intimidation-against-independent-news-site-addis",
+  "post_id": "105052697572360_1133134949295956"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Aid for Ethiopia's children is running dry: UNICEF appeal 22% funded",
+  "source": "UNICEF, Ethiopia Humanitarian Situation Report No. 3 (Mid-Year), Jun 30 2026",
+  "url": "https://www.unicef.org/media/183381/file/Ethiopia-Humanitarian-Situation-Report-No.3(Mid-Year),30-June-2026.pdf.pdf",
+  "post_id": "1413946656937165"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Ethiopian troops reach Zalambessa; Ethiopia and Eritrea send dueling letters to UN Security Council (Amharic)",
+  "source": "Reuters, Oct 13 2026",
+  "url": "https://www.thestar.com.my/news/world/2026/10/14/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears",
+  "post_id": "1128333569612464"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "repost",
+  "lang": "en",
+  "type": "reel",
+  "headline": "REPOST (new design) of: Aid in Tigray nearly stopped. Original reel was converted to a photo post during a cover edit",
+  "source": "The New Humanitarian, Oct 8 2026",
+  "url": "https://www.thenewhumanitarian.org/analysis/2026/10/08/tigray-faces-double-catastrophe-war-and-worsening-hunger",
+  "post_id": "1804388814142678"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "repost",
+  "lang": "am",
+  "type": "reel",
+  "headline": "REPOST (new design) of: Ethiopian troops reach Zalambessa; Ethiopia and Eritrea send dueling letters to UN (Amharic). Original reel lost during a cover edit",
+  "source": "Reuters, Oct 13 2026",
+  "url": "https://www.thestar.com.my/news/world/2026/10/14/ethiopian-troops-enter-town-on-border-with-eritrea-stoking-war-fears",
+  "post_id": "1598065164593539"
+ },
+ {
+  "date": "2026-10-14",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "UN Security Council holds second closed meeting on northern Ethiopia in two weeks (US-requested, Oct 13)",
+  "source": "Security Council Report, Oct 12 2026",
+  "url": "https://www.securitycouncilreport.org/whatsinblue/2026/10/horn-of-africa-closed-consultations.php",
+  "post_id": "105052697572360_1133547742588010"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Ethiopia and Eritrea 'perilously close to all-out war': claims vs verified (ICG warning, militia claim, Eritrea denial)",
+  "source": "AFP via Africanews, Oct 15 2026",
+  "url": "https://www.africanews.com/2026/10/15/eritrean-forces-suffer-heavy-losses-in-tigray-ethiopian-militia-says/",
+  "post_id": "1483289207037785"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "HRW: reports of civilians killed and injured by shelling in southern Tigray; health facilities closing",
+  "source": "AP via WTOP, Oct 15 2026",
+  "url": "https://wtop.com/world/2026/10/rubio-urges-restraint-over-ethiopia-eritrea-tensions-as-rights-group-reports-civilians-killed/",
+  "post_id": "105052697572360_1134113202531464"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "139 dead off Djibouti; migrant boat to Yemen capsized, survivors all Ethiopian (IOM)",
+  "source": "AP via PBS NewsHour, Oct 11 2026",
+  "url": "https://www.pbs.org/newshour/world/at-least-139-migrants-dead-dozens-missing-after-boat-capsizes-off-djibouti-coast",
+  "post_id": "2130605931163496"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "manual-by-MG-2pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "POSTED BY MG MANUALLY ~2:15 PM (do not repeat): US Embassy alert: possible long-range attacks; do not travel to Amhara, Tigray, Afar; beware false reports",
+  "source": "Anadolu Oct 7 2026; Fox News Oct 14 2026",
+  "url": "https://www.aa.com.tr/en/americas/us-embassy-warns-of-possible-long-range-attacks-targeting-ethiopian-military-installations/4081480",
+  "post_id": ""
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "UN releases $8.5M CERF emergency funding for northern Ethiopia; 202,700 people targeted",
+  "source": "Capital Ethiopia, Oct 14 2026",
+  "url": "https://capitalethiopia.com/2026/10/14/un-allocates-8-5-million-emergency-fund-for-northern-ethiopia-amid-escalating-conflict/",
+  "post_id": "2338629513571124"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "manual-by-MG",
+  "lang": "en",
+  "type": "reel",
+  "headline": "POSTED BY MG MANUALLY (do not repeat): Rubio-Abiy call Oct 14: US urges Ethiopia-Eritrea de-escalation, respect for sovereignty, dialogue under 2018 peace deal",
+  "source": "AP, Oct 15 2026",
+  "url": "https://abcnews.com/International/wireStory/rubio-urges-restraint-ethiopia-eritrea-tensions-rights-group-137280105",
+  "post_id": ""
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Zalambessa residents caught between Ethiopian and Eritrean troops: no power/water, roads blocked, no bread (Amharic)",
+  "source": "AFP via Courthouse News, Oct 15 2026",
+  "url": "https://www.courthousenews.com/between-ethiopia-and-eritrea-a-border-towns-residents-worry/",
+  "post_id": "1762797871649478"
+ },
+ {
+  "date": "2026-10-15",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "EU warns escalation in Ethiopia risks wider Horn of Africa conflict; calls for de-escalation and civilian protection",
+  "source": "Anadolu Agency, Oct 6 2026 (EU statement Oct 5)",
+  "url": "https://aa.com.tr/en/europe/eu-warns-escalating-violence-in-ethiopia-risks-wider-regional-conflict/4079079",
+  "post_id": "105052697572360_1134510259158425"
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Fighting reaches historic Aksum: ACLED documents government and Tigray Peace Force entry; border movements; Zalambessa residents without power/water",
+  "source": "AFP/Anadolu via Al Jazeera, Oct 15 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/15/ethiopian-forces-expand-control-in-tigray-as-militia-claims-eritrean-losses",
+  "post_id": "2086036418703169"
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "manual-by-MG",
+  "lang": "en",
+  "type": "reel",
+  "headline": "POSTED BY MG MANUALLY (do not repeat): Mekelle reconnects: Ethiopian Airlines Addis-Mekelle flights resumed Oct 11, buses resumed; Axum/Shire flights still suspended; embassies still advise against travel",
+  "source": "bne IntelliNews Oct 12; DW Oct 14; US Embassy alert Oct 12 (via Mereja)",
+  "url": "https://mereja.com/index/837750",
+  "post_id": ""
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Amhara: fighting reaches Wegeltena; residents report civilians wounded across Wollo and Shewa (DW Amharic)",
+  "source": "DW Amharic, Oct 13 2026 (via Mereja)",
+  "url": "https://www.dw.com/am/%E1%8B%8D%E1%8C%8A%E1%8B%AB-%E1%8A%A8%E1%8B%9B%E1%88%AC-%E1%88%9B%E1%88%AD%E1%8D%88%E1%8C%83%E1%8B%99-%E1%8C%80%E1%88%9D%E1%88%AE-%E1%8C%8B%E1%89%A5-%E1%88%9B%E1%88%88%E1%89%B1%E1%8A%95-%E1%8A%90%E1%8B%8B%E1%88%AA%E1%8B%8E%E1%89%BD-%E1%8A%A0%E1%88%B5%E1%89%B3%E1%8B%8D%E1%89%80%E1%8B%8B%E1%88%8D/a-79654668",
+  "post_id": "105052697572360_1135054492437335"
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "UN OCHA: aid access improving gradually in parts of North Wollo, Wag Hamra, Afar, Tigray; Adwa hospital looted Oct 12; displacement continues; Kobo returns suspended",
+  "source": "UN OCHA Oct 13 2026; UN News Oct 10 2026",
+  "url": "https://www.unocha.org/news/todays-top-news-ethiopia-democratic-republic-congo-occupied-palestinian-territory-yemen",
+  "post_id": "1679806640413493"
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "manual-by-MG",
+  "lang": "en",
+  "type": "reel",
+  "headline": "POSTED BY MG MANUALLY (do not repeat): Abiy names six-month interim/caretaker government for Tigray; five officials incl. Mekelle mayor; elections, rebuilding, IDP return; TPLF no comment yet",
+  "source": "Reuters via CNBC Africa; AFP via Al Jazeera, Oct 16 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
+  "post_id": ""
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Tigray interim administration: six months, five officials incl. Mekelle mayor, federal directives, TPLF no response (Amharic)",
+  "source": "AFP via Al Jazeera, Oct 16 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
+  "post_id": "1104511935674109"
+ },
+ {
+  "date": "2026-10-16",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "Children among the wounded: at least 44 civilians, 33 children, critically injured by shelling in Maychew and Alamata (medical source via AFP)",
+  "source": "AFP via Africanews, Oct 6 2026",
+  "url": "https://www.africanews.com/2026/10/06/renewed-violence-in-ethiopias-tigray-leaves-dozens-of-children-wounded/",
+  "post_id": "105052697572360_1135447972397987"
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Hundreds of ex-fighters register for reintegration (DDR) in Mekelle since Oct 14; follows Oct 16 caretaker administration",
+  "source": "Africanews with AFP, Oct 17 2026",
+  "url": "https://www.africanews.com/2026/10/17/ex-fighters-in-ethiopias-tigray-region-register-for-reintegration-programme/",
+  "post_id": "1827406898682302"
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "EHRC annual report: 'alarming' right to life; detentions incl. children under 'military recruitment' in Oromia, widespread detentions in Amhara (Oromia/Amhara)",
+  "source": "Mereja compiling The Reporter, borkena, DW Amharic, Oct 10 2026",
+  "url": "https://mereja.com/index/837526",
+  "post_id": "105052697572360_1135980025678115"
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "MSF: war-wounded surge at Korem, Alamata, Suhul hospitals; Alamata activities suspended",
+  "source": "MSF, Sept 28 2026",
+  "url": "https://www.msf.org/msf-teams-scale-medical-response-fighting-resumes-ethiopia",
+  "post_id": "1128752002832622"
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Mekelle residents after change of control: offices and schools closed, mixed views (Amharic)",
+  "source": "Christian Science Monitor, Oct 16 2026",
+  "url": "https://csmonitor.com/World/Africa/2026/1016/ethiopia-tigray-mekelle-war-caretaker-administration",
+  "post_id": "1777129283518063"
+ },
+ {
+  "date": "2026-10-17",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "AU Commission urges Ethiopia, Eritrea and Egypt to show 'maximum restraint'; offers to support dialogue",
+  "source": "African Union Commission, Oct 1 2026",
+  "url": "https://au.int/en/pressreleases/20261001/statement-auc-escalating-tensions-between-ethiopia-eritrea-and-egypt",
+  "post_id": "105052697572360_1136379848971466"
+ },
+ {
+  "date": "2026-10-18",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "TPLF rejects Tigray caretaker administration as illegitimate; disputed Mekelle airport warning",
+  "source": "Anadolu Agency, Oct 17 2026; Kulu Media, Oct 17 2026",
+  "url": "https://www.aa.com.tr/en/africa/ethiopias-tplf-rejects-new-tigray-administration-as-illegitimate/4092056",
+  "post_id": "1056778417399353"
+ },
+ {
+  "date": "2026-10-18",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Gambella city: at least 25 killed, 80+ injured in clashes per residents (unverified); indefinite curfew (Gambella)",
+  "source": "Borkena, Oct 16 2026 (also Oct 15 report)",
+  "url": "https://borkena.com/gambella-city-violence-escalates-at-least-25-dead-and-80-injured/",
+  "post_id": "105052697572360_1136924898916961"
+ },
+ {
+  "date": "2026-10-18",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Tigray hospitals reopen (Mekelle, Shire); Oct 14 convoy, WHO 71+ tonnes; fuel/funding/insecurity gaps (OCHA Oct 16)",
+  "source": "The Reporter citing UN OCHA, Oct 17 2026",
+  "url": "https://www.thereporterethiopia.com/53480/",
+  "post_id": "1430733011817292"
+ },
+ {
+  "date": "2026-10-18",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Russia offers to host Ethiopia-Eritrea talks on sidelines of Oct 28-29 Russia-Africa summit in Moscow; no response yet from either side (Amharic)",
+  "source": "Borkena citing BBC Amharic/Izvestia, Oct 17 2026",
+  "url": "https://borkena.com/russia-offers-to-mediate-between-ethiopia-and-eritrea-amid-rising-tensions/",
+  "post_id": "1681637026888315"
+ },
+ {
+  "date": "2026-10-18",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Weekly roundup 'This week across Ethiopia' Oct 12-18: Tigray caretaker admin & TPLF rejection; Mekelle/Shire hospitals reopen, WHO 71+ t; Gambella clashes (unverified); Russia offers Ethiopia-Eritrea talks",
+  "source": "AFP via Al Jazeera Oct 16; Anadolu Oct 17; The Reporter/OCHA Oct 17; Borkena Oct 16-17 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray",
+  "post_id": "1158770850145568"
+ },
+ {
+  "date": "2026-10-19",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: Adigrat after drone strikes on Eritrean troops (Oct 7, Oct 10); schools closed, shortages, policing breakdown, hunger (AFP residents)",
+  "source": "AFP via Kuwait Times, Oct 18 2026",
+  "url": "https://kuwaittimes.com/article/51864/world/in-tigray-ethiopians-welcome-departure-of-eritrean-troops/",
+  "post_id": "1143347741363221"
+ },
+ {
+  "date": "2026-10-19",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Federal High Court lets four detainees who refused conditional amnesty terms present defence; Wondwosen Assefa hunger strike (Addis Ababa/Amhara detainees)",
+  "source": "Borkena citing Addis Maleda, Oct 16 2026; Borkena Oct 14 2026",
+  "url": "https://borkena.com/high-court-rules-four-defendants-can-present-defense-after-rejecting-amnesty/",
+  "post_id": "105052697572360_1137861388823312"
+ },
+ {
+  "date": "2026-10-19",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Abergele woreda (Wag Himra, Amhara): El Nino drought; 72,000+ of 80,874 need food aid, 90%+ crop failure, 27,717 sheep/goats dead, 1,531 displaced (local officials, unverified)",
+  "source": "Borkena citing Abergele woreda officials, Oct 19 2026",
+  "url": "https://borkena.com/ethiopia-over-72000-residents-in-abergele-woreda-face-severe-drought-and-food-insecurity/",
+  "post_id": "1654541769555903"
+ },
+ {
+  "date": "2026-10-19",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Raya Alamata local elections dispute: Raya Amhara identity committee alleges coercion, pass system, movement limits; Semeret party denies, says restoring civil admin in 14 southern Tigray woredas (Amharic, unverified)",
+  "source": "Borkena, Oct 19 2026",
+  "url": "https://borkena.com/ethiopia-local-elections-in-raya-alamata-trigger-tensions-as-the-amhara-boundary-committee-and-semeret-party-clash-over-governance/",
+  "post_id": "3012963432396458"
+ },
+ {
+  "date": "2026-10-19",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "Abiy warns Eritrea of 'very, very, very severe consequences' if it keeps backing rebels; no Eritrean response reported",
+  "source": "AFP via Yahoo News, Oct 19 2026",
+  "url": "https://www.yahoo.com/news/world/articles/ethiopia-pm-warns-eritrea-severe-195951513.html",
+  "post_id": "105052697572360_1138261132116671"
+ },
+ {
+  "date": "2026-10-20",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Sodo Woreda (East Gurage, Central Ethiopia): at least 11 farmers killed in two weeks (6 on Sept 29 Suten, 5 on Oct 10 Gefersa Giorgis/Joro); kidnapping, displacement; zonal official blames OLF-Shene (unverified)",
+  "source": "Borkena, Oct 19 2026",
+  "url": "https://borkena.com/ethiopia-sodo-woreda-attacks-leave-11-dead-as-residents-plead-for-federal-intervention/",
+  "post_id": "1631375398359784"
+ },
+ {
+  "date": "2026-10-20",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "EPRP's Yisak Wolday, member Abebe Akalu and lawyer Abera Nigus freed without charge after detention since Aug 3 despite Aug 4 bail order (Addis Ababa)",
+  "source": "AFP via Arab News, Oct 17 2026",
+  "url": "https://www.arabnews.com/world/two-ethiopian-opposition-members-lawyer-released-after-months-3006852",
+  "post_id": "105052697572360_1138822212060563"
+ },
+ {
+  "date": "2026-10-20",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Ethiopia hosts 1,023,565 refugees (UNHCR, Aug 31); registration halted for tens of thousands arriving from South Sudan and Eritrea; UNHCR has $3B of $8.5B needed",
+  "source": "UN News, Oct 12 2026; UNHCR data portal, Aug 31 2026",
+  "url": "https://news.un.org/en/story/2026/10/1168575",
+  "post_id": "1734826794290288"
+ },
+ {
+  "date": "2026-10-20",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "East Arsi (Oromia): EOTC East Arsi diocese says at least 6 Orthodox faithful killed, 55 abducted in Sherka and Honkolo Wabe; priest wounded; EPRP says ~50 abducted, calls for independent probe; govt silent (Amharic, unverified)",
+  "source": "Borkena, Oct 20 2026 (also Borkena on EPRP statement)",
+  "url": "https://borkena.com/ethiopia-at-least-6-orthodox-christians-killed-55-abducted-in-arsi-zone/",
+  "post_id": "961665523193942"
+ },
+ {
+  "date": "2026-10-20",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "Rubio: 'the last thing the world needs right now is another war'; troops surging on both sides of Ethiopia-Eritrea border; limited Eritrea sanctions easing to enable mediation; Alliance for Survival rejects 'separatist/terrorist' characterization",
+  "source": "Capital (Ethiopia), Oct 18 2026; Addis Standard via AllAfrica, Oct 19 2026",
+  "url": "https://capitalethiopia.com/2026/10/18/the-world-doesnt-need-another-war-rubio-urges-restraint-amid-ethiopia-eritrea-tensions/",
+  "post_id": "105052697572360_1139218778687573"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: central Tigray clashes near Mirena (Oct 17-18) as federal troops push toward Adet; TPLF official claims 1,511 soldiers killed (unverified, no gov comment); Abiy Oct 19 Tigrinya address urges fighters to lay down arms",
+  "source": "Anadolu Agency, Oct 20 2026; Borkena (citing Addis Maleda), Oct 20 2026",
+  "url": "https://aa.com.tr/en/africa/tigray-rebels-claim-to-have-killed-over-1-500-ethiopian-soldiers-as-abiy-warns-eritrea/4094395",
+  "post_id": "2163074364284331"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Moyale (Borana, Oromia / Somali border): 13-year-old girl Diqqoo Jaataan Aagaa killed Oct 18 amid gunfire between Somali Region forces and Oromia militias over flag raising at new Somali Region office; disputed accounts; protests, transport shut",
+  "source": "Addis Standard via AllAfrica, Oct 20 2026",
+  "url": "https://allafrica.com/stories/202610200685.html",
+  "post_id": "105052697572360_1139768131965971"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Amhara: only 16 of 57 needed mobile health & nutrition teams operating; 10 to close by end of Oct (funding); China camp Debre Birhan 11,976 residents lose aid; food aid planned for ~100,000 in Wag Hamra/North Wollo (OCHA)",
+  "source": "Addis Standard via AllAfrica (citing OCHA), Oct 21 2026",
+  "url": "https://allafrica.com/stories/202610210468.html",
+  "post_id": "2281185812734995"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Finarwa (85 km SW of Mekelle, Tigray): Oct 20 evening drone strike kills 4 incl. 2 children, 5 wounded; goat traders hit (local priest via AFP); operator not stated, unverified (Amharic)",
+  "source": "AFP via APA, Oct 21 2026",
+  "url": "https://en.apa.az/africa/afp-four-people-killed-in-drone-strike-in-ethiopia-531461",
+  "post_id": "1621088016698109"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): UN Resident Coordinator Ozonnia Ojielo calls for immediate Tigray ceasefire, aid access, civilian government (Oct 20)",
+  "source": "The Reporter (Ethiopia) via The Rio Times, Oct 21 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-21_fb_unceasefire_en"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "manual",
+  "lang": "am",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): TPF commander says TPLF leaders crossed into Eritrea; Eritrea's info minister calls it lies; TPLF denies (Amharic)",
+  "source": "AFP via The Peninsula, Oct 21 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-21_fb_eritrea_am"
+ },
+ {
+  "date": "2026-10-21",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "Accountability explainer: HRW World Report 2026 says 'impunity for serious crimes and abuses remained the norm', transitional justice 'effectively stalled'; EU HRC joint statements; Amnesty (Al Jazeera, Aug 6 2026) on expired UN/AU investigative mandates",
+  "source": "Human Rights Watch, World Report 2026 (events of 2025); Al Jazeera/Amnesty, Aug 6 2026",
+  "url": "https://www.hrw.org/world-report/2026/country-chapters/ethiopia",
+  "post_id": "105052697572360_1140147961927988"
+ },
+ {
+  "date": "2026-10-22",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: drone strike reportedly hits Sana Elementary School, Dera district, South Gondar (Amhara) Oct 20 ~10am; at least 6 schoolchildren killed, 27 wounded (Anchor Media/EMS via Borkena); attributed to federal military; pro-gov accounts dispute; no gov comment; unverified",
+  "source": "Borkena (citing Anchor Media, EMS), Oct 21 2026",
+  "url": "https://borkena.com/ethiopia-at-least-six-schoolchildren-killed-in-south-gondar-drone-strike/",
+  "post_id": "1606341204481163"
+ },
+ {
+  "date": "2026-10-22",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Tigray after change of control: shops/banks reopen in Mekelle but ~137,000 civil servants' salaries unpaid since March; students fear lost year, 5,000+ applied for temporary university placements; caretaker admin tasks (Tigray)",
+  "source": "Al Jazeera, Oct 22 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war",
+  "post_id": "105052697572360_1140696931873091"
+ },
+ {
+  "date": "2026-10-22",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Who protects Ethiopia's aid workers? Addis Standard op-ed (Nigussie Tefera, CCRDA): Sept 20 drone strikes reportedly hit truck with ~41 t food for Sheraro IDPs; UN RC (Sept 30): at least 10 aid vehicles seized by armed groups 2025-26, 2 recovered; OCHA 350 aid workers killed worldwide 2025",
+  "source": "Addis Standard via allAfrica, Oct 22 2026",
+  "url": "https://allafrica.com/stories/202610220039.html",
+  "post_id": "1138390928869504"
+ },
+ {
+  "date": "2026-10-22",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Dera school drone strike follow-up (Amharic): Sana Elementary, South Gondar, Oct 20 10-11am; at least 6 children killed, 20+ injured (other accounts 7-10); teacher says 150+ students in morning shift, no armed people nearby, disputes Fano-hideout claims; no military response; unverified",
+  "source": "Addis Standard via allAfrica, Oct 22 2026",
+  "url": "https://allafrica.com/stories/202610220473.html",
+  "post_id": "4158615464435843"
+ },
+ {
+  "date": "2026-10-22",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "US Ambassador Ervin Massinga interview: 'We believe that dialogue is the best path for lasting stability'; civilians must be protected; Pretoria principles guide US policy; aid shifting to government-led delivery; defers on Eritrea/Egypt",
+  "source": "The Reporter (Ethiopia), interview, Oct 19 2026",
+  "url": "https://www.thereporterethiopia.com/53537/",
+  "post_id": "105052697572360_1141096828499768"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: armed raid on Finchaa Sugar Factory, Sulula Finchaa (western Oromia) Oct 21 ~11am; 5 killed (4 militia, 1 civilian), 2 employees abducted, vehicles burned, CBE branch vandalized; attackers unidentified; drone reportedly struck retreating group; no gov statement; unverified",
+  "source": "Borkena (citing DW Amharic), Oct 21 2026",
+  "url": "https://borkena.com/ethiopia-armed-attack-on-finchaa-sugar-factory-leaves-five-dead-and-damages-facilities-in-west-oromia/",
+  "post_id": "28748278628133684"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "WJP Rule of Law Index 2026: Ethiopia 133rd of 143 (down from 132nd); 2025 factors: fundamental rights 138th, constraints on gov 134th; 30th of 34 SSA; IMS: 44+ journalists abducted/detained in 2025 (national/Addis Ababa)",
+  "source": "Addis Standard via allAfrica, Oct 21 2026",
+  "url": "https://allafrica.com/stories/202610220038.html",
+  "post_id": "105052697572360_1141643421778442"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Moyale displacement: Oct 22 Oromia-Somali regional forces clashes spread to Gumi Eldallo, Wachile, Arero (East Borana); Kenya Red Cross emergency response in Moyale, Marsabit, targeting 1,000 households; no casualty figures; 288,000+ displaced by border clashes since mid-2025",
+  "source": "Addis Standard via allAfrica, Oct 22-23 2026",
+  "url": "https://allafrica.com/stories/202610230265.html",
+  "post_id": "1762707318145987"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): Explainer: why Assab matters in Ethiopia–Eritrea tensions (Eritrea UN note, Bab el-Mandeb, analysts' war scenario)",
+  "source": "ADF via Eurasia Review, Oct 23; The Rio Times, Oct 15; Al Jazeera, Oct 5 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-23_fb_assab_en"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Tigray two messages (Amharic): caretaker official Redae Halefom urges fighters to disarm/join DDR ('not the time for settling scores'); Lt. Gen. Fisseha Kidanu vows to reverse setbacks (location undisclosed, TPLF loss claims unverified); Abiy accuses TPLF of arming/forced recruitment; Finarwa drone survivors at Ayder: 4 killed, ~6 wounded (unverified)",
+  "source": "Associated Press, Oct 23 2026",
+  "url": "https://www.boston25news.com/news/world/ethiopias-tigray/7H6LNK3WLE7O3NQZ4P6GRA3KFM/",
+  "post_id": "1818432406163459"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "manual",
+  "lang": "en",
+  "type": "reel",
+  "headline": "SENT TO MG FOR MANUAL POSTING (do not repeat): Explainer: Alamein Declaration (Egypt, Eritrea, Somalia, Sudan, Oct 4) and what it means for Ethiopia",
+  "source": "Al Jazeera, Oct 5 2026",
+  "url": "",
+  "post_id": "",
+  "id": "2026-10-23_fb_alamein_en"
+ },
+ {
+  "date": "2026-10-23",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "Two messages to UN diplomats: Eritrea's UN envoy Sophia Tesfamariam tells US envoys Waltz/Bartos no 'crisis' with Ethiopia (Oct 20, X); Getachew Reda tells UN Horn envoy Guang Cong of Eritrea's 'destructive role' (Oct 21, unverified), seeks UN support for Tigray caretaker admin",
+  "source": "Addis Standard via allAfrica, Oct 21 2026; Horn Diplomat, Oct 21 2026",
+  "url": "https://allafrica.com/stories/202610210467.html",
+  "post_id": "105052697572360_1142046655071452"
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: Tigray fronts Oct 20-23: Tigrayan forces reportedly re-enter Rama (Oct 22, ACLED, unverified); Oct 22 fighting halts Istayish-Sanka road west of Woldia (DW); Benishangul Gumuz TV claims TPLF vehicles from Sudan (unverified); WHO 71+ tonnes medical supplies to Tigray, Amhara, Afar",
+  "source": "Critical Threats Project, Oct 23 2026; Capital Ethiopia, Oct 21 2026",
+  "url": "https://www.criticalthreats.org/briefs/ethiopia-war-security-review/october-23-2026",
+  "post_id": "2694403907658118"
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "EHRCO Oct 22 statement: civilian harm in Gambella (Abol transport attack Sept 18; Gambella town Oct 10; 4 killed Kebele 04 Oct 13; Addis Sefer mother & child injured Oct 11), Benishangul-Gumuz (Red Cross driver Mulugeta Andualem killed Oct 14 Dangur; drivers abducted for ransom Manbuk Oct 16), Sekota, Gida Ayana displaced (Gambella/Benishangul-Gumuz)",
+  "source": "The Reporter Ethiopia, Oct 24 2026",
+  "url": "https://www.thereporterethiopia.com/53661/",
+  "post_id": "105052697572360_1142575185018599"
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "WFP Ethiopia funding gap: $251M needed over 6 months, only 46% funded; 2.1M reached in Sept (1.9M Aug); 60% cereal rations (~9 kg); 762,335 refugees in 30 camps; access/fuel/drought disruptions in Afar, Tigray, Amhara",
+  "source": "The Reporter citing WFP October 2026 country brief, Oct 24 2026",
+  "url": "https://www.thereporterethiopia.com/53635/",
+  "post_id": "2055263695120216"
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Overseas jobs/visa fraud prosecution (Amharic): MoJ charges 13 (incl. ex-ELMIS project manager Berhanu Aleka Asgedom); 64,500 allegedly sent to Jordan/Arab states on forged visas (Capital: 64,091 in charge); 81,236 COC certificates without training; 1.013bn birr via fraudulent accounts; families asked to report lost contact via 991",
+  "source": "Fana citing Ministry of Justice, Oct 24 2026; Capital Ethiopia, Oct 21 2026",
+  "url": "https://www.fanamc.com/english/ethiopias-ministry-of-justice-prosecutes-13-suspects-in-1-013-billion-birr-elmis-corruption-case/",
+  "post_id": "1656636313170714"
+ },
+ {
+  "date": "2026-10-24",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "US Embassy Addis Ababa Oct 23 security alert: fighting in Tigray concentrated outside Mekelle and near Eritrean border; flights suspended at Axum and Shire; some US citizens travelled Shire-Mekelle by road; do not travel to Amhara, Tigray, Afar; 'should leave if it is safe to do so'; beware false social media reports",
+  "source": "U.S. Embassy Addis Ababa, Security Alert, Oct 23 2026",
+  "url": "https://et.usembassy.gov/u-s-embassy-addis-ababa-security-alert-oct-23/",
+  "post_id": "105052697572360_1142969934979124"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: Shirka Woreda, Arsi (Oromia) night attack, at least 47 Orthodox Christian farmers reportedly killed, homes burned in Birbo/Chole/Sole Guna kebeles, no gov statement, unverified; 5 farmers killed, 200+ livestock looted in Burji/Kore zones (South Ethiopia) on West Guji border",
+  "source": "Borkena, Oct 24 & Oct 23 2026",
+  "url": "https://borkena.com/ethiopia-47-orthodox-christians-killed-and-homes-burned-in-arsi-zone-attack/",
+  "post_id": "1470936671547778"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Gurage Zone (Central Ethiopia): residents report 20+ civilians abducted in Abeshge Woreda in past week (Nacha town vehicle interceptions); elder abducted near Darge found dead after 4 days; 500,000 birr ransom; zone report: 58 abductions, 23 deaths in 2025/26; officials silent (unverified)",
+  "source": "Borkena, Oct 24 2026",
+  "url": "https://borkena.com/ethiopia-waves-of-abductions-and-fatalities-shake-gurage-zone-as-residents-allege-government-inaction/",
+  "post_id": "105052697572360_1143508558258595"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Moyale displacement update: 14,000+ Ethiopians fled into Kenya (humanitarian officials); Kenya Red Cross: 10,900+ in six temporary camps in Moyale, Kenya, ~4,000 with host families; at least 9 dead by Friday, fears of more than a dozen; appeal for food, water, sanitation (Malik Adan)",
+  "source": "TRT World citing Anadolu, Oct 24 2026",
+  "url": "https://trtworld.com/article/024cdd9ed7e5",
+  "post_id": "1100146729689367"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Shirka Woreda, Arsi attack (Amharic): at least 47 Orthodox Christians reportedly killed, homes burned in Birbo/Chole/Sole Guna kebeles from ~10 PM; Gobesa residents' calls for police unanswered (reported); no gov statement; earlier 55 abducted Oct 7 (diocese, Borkena Oct 20); unverified",
+  "source": "Borkena, Oct 24 & Oct 20 2026",
+  "url": "https://borkena.com/ethiopia-47-orthodox-christians-killed-and-homes-burned-in-arsi-zone-attack/",
+  "post_id": "1133573575708170"
+ },
+ {
+  "date": "2026-10-25",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Weekly roundup 'This week across Ethiopia' Oct 19-25: Shirka/Arsi attack, 47 reportedly killed (Borkena, unverified); Sana Elementary drone strike, South Gondar, 6+ children killed; 14,000+ fled Moyale into Kenya; ~137,000 Tigray civil servants unpaid since March",
+  "source": "Borkena Oct 21 & 24; Addis Standard via allAfrica Oct 22; Anadolu via TRT World Oct 24; Al Jazeera Oct 22 2026",
+  "url": "https://trtworld.com/article/024cdd9ed7e5",
+  "post_id": "1274301548209782"
+ },
+ {
+  "date": "2026-10-26",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Moyale displacement update: Marsabit County Commissioner Kamande says ~35,000 Ethiopians crossed into Kenya (~15,000 in camps, ~20,000 with families; up from 2,500 cited Friday, unexplained); 3 suspected measles cases; trade halted at crossing; AFP residents: heavy weapons fired Saturday, no confirmed toll, no federal response",
+  "source": "Kenya News Agency via Zegabi, Oct 25 2026; AFP via Arab News, Oct 24 2026",
+  "url": "https://zegabi.com/articles/179651",
+  "post_id": "976117354991113"
+ },
+ {
+  "date": "2026-10-26",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Eastern Amhara drone strikes Oct 15-21: at least 15 civilians killed, several injured incl. children, schools damaged (partners via OCHA, locations/perpetrators not named, unverified); Tigray strike hit local NGO humanitarian warehouse (Amhara)",
+  "source": "UN OCHA via APO Group/Zawya, Oct 24 2026",
+  "url": "https://www.zawya.com/en/press-release/africa-press-releases/ethiopia-food-assistance-reaches-tens-of-thousands-affected-by-conflict-el-nino-in-northern-areas-1849685",
+  "post_id": "105052697572360_1144480824828035"
+ },
+ {
+  "date": "2026-10-26",
+  "slot": "1pm",
+  "lang": "en",
+  "type": "reel",
+  "headline": "IFRC drought assessment: El Nino-linked drought affects ~3.5M (3.57M) in 101 woredas, six regions; West Hararghe 8 of 229 ponds hold water, 696,873 need help, 2,896 SAM children; Tigray 250,865 need assistance; North Gondar 318,443 affected, 19,318 displaced; ERCS response covers ~1.4% (50,000)",
+  "source": "The Reporter citing IFRC, Oct 24 2026",
+  "url": "https://www.thereporterethiopia.com/53642/",
+  "post_id": "1150078997596684"
+ },
+ {
+  "date": "2026-10-26",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "Moyale displacement (Amharic): Marsabit Commissioner Kamande ~35,000 Ethiopians crossed into Kenya (15,000 camps/20,000 families); Kenya Red Cross 14,000+ (10,900+ in six camps); 3 suspected measles cases; began Oct 18 flag dispute (BBC Amharic); no regional/federal statement (AFP)",
+  "source": "Kenya News Agency via Zegabi, Oct 25 2026",
+  "url": "https://zegabi.com/articles/179651",
+  "post_id": "1112040621826665"
+ },
+ {
+  "date": "2026-10-26",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "Accountability: 36 civil society groups (incl. Amnesty, HRW, PHR, CIVICUS) urge UN Human Rights Council special session on Ethiopia; ask 3-expert panel to assess violations by all parties since Aug 2026, report before Jan 31 2027; next regular session Feb 2027",
+  "source": "Human Rights Watch (joint letter dated Oct 8), Oct 9 2026",
+  "url": "https://www.hrw.org/news/2026/10/09/ethiopia-call-for-a-special-session-to-prevent-further-atrocities",
+  "post_id": "105052697572360_1144874314788686"
+ },
+ {
+  "date": "2026-10-27",
+  "slot": "7am",
+  "lang": "en",
+  "type": "reel",
+  "headline": "Overnight in Ethiopia: Arsi attacks update, church officials say 60 Orthodox Christians killed (14 in Merti/Gora Silingo Oct 20; 46 in Shirka/Tereta, Chole, Birbo Oct 24); 20+ injured, 20 homes burned; holy synod calls for protection and justice; Oromia gov pledges pursuit; no claim, local official blamed alliance incl OLA, OLA denies",
+  "source": "Al Jazeera / Anadolu, Oct 27 2026",
+  "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region",
+  "post_id": "1526044266058700"
+ },
+ {
+  "date": "2026-10-27",
+  "slot": "10am",
+  "lang": "en",
+  "type": "text",
+  "headline": "Addis Ababa arbitrary detentions: IDN report (Oct 12) says police detained dozens of Tigrayans without charge Sept 21; 32-yr-old held 5 days at Gelan Condominium station, freed after 20,000 birr to broker; ~120 held in 3 rooms; no official response (unverified)",
+  "source": "IDN-InDepthNews, Oct 12 2026",
+  "url": "https://indepthnews.net/is-being-tigrayan-a-curse-in-ethiopia-arbitrary-arrests-in-addis-abeba-amid-renewed-war/",
+  "post_id": "105052697572360_1145426578066793"
+ }
 ]
