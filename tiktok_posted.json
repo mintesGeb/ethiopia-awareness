@@ -649,8 +649,17 @@
   "headline": "Moyale: UNHCR says 36,000 from Ethiopia have crossed into Kenya, mostly women and children; Marsabit County leaders say influx could overwhelm host communities short of food/water, appeal for support; Kenya Red Cross says more food reaching camps; KNCHR counts ~40,000, figures differ, unverified (AP; Addis Standard, Oct 27). New development (UN figure, host-community appeal), not a translation of earlier Moyale videos",
   "hook": "headline",
   "slot": "6am",
-  "status": "prepped for MG",
+  "status": "deleted by MG (too similar to Oct 27 Moyale video)",
   "caption": "Moyale Kenya Ethiopia: UN says 36,000 people from Ethiopia are now in Moyale, Kenya.\nThe UN refugee agency (UNHCR) says most arrivals are women and children, staying with relatives or in camps and shelters. Local leaders in Marsabit County say the influx could overwhelm host communities already short of food and water, and appeal for support. Kenya Red Cross says more food is reaching the camps. Kenya's rights commission counts about 40,000; figures differ and are not independently verified.\nSource: AP; Addis Standard, Oct 27, 2026.\n#Ethiopia #Moyale #Kenya #Marsabit #Displacement",
   "note": "MG: too similar to Oct 27 Moyale video (same template, only number changed); see TIKTOK.md near-duplicate rule"
+ },
+ {
+  "date": "2026-10-28",
+  "id": "2026-10-28_tt_abiyputin_q_en",
+  "headline": "Abiy meets Putin in Moscow (Russia–Africa summit, Oct 28): Rosatom and Ethiopian Nuclear Energy Commission drafting intergovernmental agreement on nuclear plant, no signing date; Ethiopian Airlines 6 weekly Addis–Moscow flights, more flights and easier visas under discussion, no timeline (Addis Standard, Oct 27); Putin meets Eritrea leadership separately Oct 30 (TASS, Oct 26); no Ethiopia–Eritrea talks announced. Replacement for deleted 6am Moyale video; new angle, not the Oct 26 trade or Oct 27 Amharic schedule video",
+  "hook": "question",
+  "slot": "6am",
+  "status": "prepped for MG",
+  "caption": "Ethiopia Russia news: Abiy meets Putin in Moscow. What's on the table?\nRussia's Rosatom and Ethiopia's Nuclear Energy Commission are working on a draft agreement for a nuclear power plant; no signing date has been given. The two sides are also discussing more Addis Ababa–Moscow flights and easier visas for tourists and business travellers. A Kremlin aide said Putin meets Eritrea's leadership separately on Oct 30; no Ethiopia–Eritrea talks have been announced.\nSource: Addis Standard, Oct 27; TASS, Oct 26, 2026.\n#Ethiopia #Russia #RussiaAfricaSummit #Moscow #AddisAbaba"
  }
 ]

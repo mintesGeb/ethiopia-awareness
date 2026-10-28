@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-28_tt_abiyputin_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "ENERGY & TRAVEL · ETHIOPIA & RUSSIA",
+ "places": ["addis_ababa"],
+ "place_label": "ETHIOPIA · RUSSIA–AFRICA SUMMIT, MOSCOW",
+ "slides": [
+  {"title": "Abiy meets Putin in Moscow: what's on the table?"},
+  {"title": "A nuclear power plant", "body": "Russia's Rosatom and Ethiopia's Nuclear Energy Commission are working on a draft intergovernmental agreement. Signing would start design work. No date has been given."},
+  {"title": "More flights, easier visas", "body": "Ethiopian Airlines flies Addis Ababa–Moscow six times a week. Both sides are discussing more flights and easier visas for tourists and business travellers. No timeline yet."},
+  {"title": "What to watch", "body": "A Kremlin aide said Putin meets Abiy on Oct 28 and Eritrea's leadership on Oct 30, separately (TASS). Russia has offered to host Ethiopia–Eritrea talks; none has been announced."},
+  {"title": "Support peaceful dialogue in the region.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard, Oct 27; TASS, Oct 26, 2026"
+}
