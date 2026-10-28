@@ -113,3 +113,14 @@ name or a big number on slide 1, and keep abstract policy for slow news days.
   Slide 1 should use the same words. Hashtags: #Ethiopia + each place (#Moyale #Kenya #Tigray ...) + topic.
 - Retention is the weak point: average watch 6.3 s of 22 s, half of viewers gone by 0:03, 3% watch to the end.
   Put the single most important fact on slide 1 in plain words; keep to 4 slides.
+
+### No near-duplicate follow-ups (MG, Oct 28, 2026)
+- The 6am Oct 28 Moyale video (UN: 36,000) looked the same as the Oct 27 one (About 40,000): same map, kicker
+  and slide-1 template, only the number changed. It reads as milking the story, and a lower number next to a
+  higher one looks like a contradiction.
+- A new count of the same thing (displaced, arrivals, aid) from a different agency is NOT a new story. Fold it
+  into the next real update instead.
+- Follow up a story already on TikTok in the last 3 days only for a real new development (new event, new place,
+  official decision or response, aid arriving, returns). The new video must look different: a different angle
+  and slide-1 wording, and when the first was a headline, use a question or explainer.
+- At most one video per story every 2 days. When the freshest news is a re-count, pick another story.
