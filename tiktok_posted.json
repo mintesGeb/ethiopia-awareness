@@ -642,5 +642,14 @@
   "stats_2026-10-28_0029": {
    "views": 125
   }
+ },
+ {
+  "date": "2026-10-28",
+  "id": "2026-10-28_tt_moyaleunhcr_en",
+  "headline": "Moyale: UNHCR says 36,000 from Ethiopia have crossed into Kenya, mostly women and children; Marsabit County leaders say influx could overwhelm host communities short of food/water, appeal for support; Kenya Red Cross says more food reaching camps; KNCHR counts ~40,000, figures differ, unverified (AP; Addis Standard, Oct 27). New development (UN figure, host-community appeal), not a translation of earlier Moyale videos",
+  "hook": "headline",
+  "slot": "6am",
+  "status": "prepped for MG",
+  "caption": "Moyale Kenya Ethiopia: UN says 36,000 people from Ethiopia are now in Moyale, Kenya.\nThe UN refugee agency (UNHCR) says most arrivals are women and children, staying with relatives or in camps and shelters. Local leaders in Marsabit County say the influx could overwhelm host communities already short of food and water, and appeal for support. Kenya Red Cross says more food is reaching the camps. Kenya's rights commission counts about 40,000; figures differ and are not independently verified.\nSource: AP; Addis Standard, Oct 27, 2026.\n#Ethiopia #Moyale #Kenya #Marsabit #Displacement"
  }
 ]
