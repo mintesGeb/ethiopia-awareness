@@ -594,6 +594,26 @@
   },
   "stats_2026-10-28_0029": {
    "views": 908
+  },
+  "analytics_2026-10-28_0032": {
+   "views": 908,
+   "likes": 16,
+   "comments": 0,
+   "shares": 1,
+   "saves": 2,
+   "total_play": "1h49m52s",
+   "avg_watch_s": 6.3,
+   "length_s": 22.21,
+   "watched_full_pct": 3.23,
+   "avg_pct_watched": 28,
+   "retention_at_3s_pct": 49,
+   "new_followers": 2,
+   "traffic": {
+    "search": 65.0,
+    "for_you": 33.8,
+    "other": 0.9,
+    "profile": 0.3
+   }
   }
  },
  {

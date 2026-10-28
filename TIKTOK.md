@@ -105,3 +105,11 @@ name or a big number on slide 1, and keep abstract policy for slow news days.
   Ethiopia now in Moyale, Kenya" 634). Hot news told through its civilian angle works (Arsi: "what are church
   leaders asking for?" 445, no flag). Geopolitics tied to Ethiopia works (Russia–Africa summit 415).
   Weakest: farming/agriculture data (Raya Azebo 209, drought 196) and abstract policy (transitional justice 237).
+
+### Search matters (analytics of the 908-view Moyale video, Oct 28, 2026)
+- 65% of its views came from TikTok SEARCH, 34% from For You. People look up news by place and topic.
+- So the caption's first line must contain the key search words people would type: place names (town, region,
+  country), the topic and "Ethiopia" (e.g. "Moyale Kenya Ethiopia: about 40,000 people now in Moyale, Kenya").
+  Slide 1 should use the same words. Hashtags: #Ethiopia + each place (#Moyale #Kenya #Tigray ...) + topic.
+- Retention is the weak point: average watch 6.3 s of 22 s, half of viewers gone by 0:03, 3% watch to the end.
+  Put the single most important fact on slide 1 in plain words; keep to 4 slides.
