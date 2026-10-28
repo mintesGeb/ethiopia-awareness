@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-28_tt_aidtrucks_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "AID · TIGRAY, AMHARA & AFAR",
+ "places": ["shire"],
+ "slides": [
+  {"stat": "45", "title": "trucks of food aid reach Shire, Tigray"},
+  {"title": "Tigray", "body": "45 trucks carrying food from World Vision arrived in Shire town on Monday, Oct 26, the UN humanitarian office (OCHA) said."},
+  {"stat": "428 tonnes", "body": "of WFP food being distributed in North Gondar and Wag Hemra zones, Amhara, to people hit by conflict, food insecurity and El Niño."},
+  {"title": "Needs outpace aid", "body": "In Afar, partners give water, sanitation supplies and emergency cash. OCHA says needs are outpacing relief and again calls for urgent extra funding. Relayed by Xinhua (Chinese state media)."},
+  {"title": "Safe, unhindered aid access for civilians.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UN OCHA via Xinhua · Oct 27, 2026"
+}
