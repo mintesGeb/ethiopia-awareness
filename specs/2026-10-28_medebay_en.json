@@ -1,0 +1,40 @@
+{
+ "id": "2026-10-28_medebay_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · NORTHWESTERN TIGRAY",
+ "places": ["shire"],
+ "place_label": "TAHTAY KORARO, NW TIGRAY",
+ "slides": [
+  {
+   "title": "Two drone strikes, one Tigray village",
+   "body": "Medebay Terer, Tahtay Koraro woreda. Addis Standard, Oct 27, 2026"
+  },
+  {
+   "stat": "7",
+   "title": "civilians killed in two strikes, residents say",
+   "body": "On Oct 9 and Oct 21 in Medebay Terer. Six more were injured and taken to hospital in Shire."
+  },
+  {
+   "title": "Oct 9: a clinic was hit",
+   "body": "Residents said a couple who brought their daughter in labor to the clinic were killed. Four others were injured, including the new mother."
+  },
+  {
+   "stat": "5",
+   "title": "killed in a home on Oct 21",
+   "body": "Around 9 p.m., residents said: a father and his four children, including an eight-year-old girl. Two others were injured."
+  },
+  {
+   "title": "Not independently verified",
+   "body": "The accounts come from residents. The report does not say who operated the drones, and no official response was reported."
+  },
+  {
+   "title": "Protect civilians. Investigate independently.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard via allAfrica, Oct 27, 2026 (residents)",
+ "card": {
+  "title": "Tigray village: 7 killed in two drone strikes, residents say",
+  "body": "Addis Standard, Oct 27, 2026"
+ }
+}
