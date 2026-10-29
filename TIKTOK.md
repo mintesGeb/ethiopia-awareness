@@ -124,3 +124,16 @@ name or a big number on slide 1, and keep abstract policy for slow news days.
   official decision or response, aid arriving, returns). The new video must look different: a different angle
   and slide-1 wording, and when the first was a headline, use a question or explainer.
 - At most one video per story every 2 days. When the freshest news is a re-count, pick another story.
+
+## Topic scope (MG, Oct 29, 2026) — stay on theme
+- Be-Aware is about Ethiopia's POLITICAL, HUMAN-RIGHTS and HUMANITARIAN situation. Every TikTok must fit one of:
+  human rights (arrests, detentions, press freedom, rights reports), civilians affected by conflict (told through
+  displacement, aid, services, investigations), humanitarian needs, governance and politics (elections, dialogue,
+  transitional justice, regional administrations), Ethiopia's relations with neighbours and big powers as they
+  affect peace and civilians, travel/security alerts for Ethiopians.
+- Do NOT make business, finance, banking-product, investment, trade, corporate, tech, sports or culture videos
+  (the Kacha–Mastercard fintech video and the foreign-investment-award video were off theme). Economy stories
+  only when they hit civilians in crisis (e.g. salaries unpaid in Tigray, banking/communications blackouts,
+  food prices in a conflict area).
+- "Careful language" means telling hot political/human-rights news safely, NOT swapping it for safe off-topic
+  news. On a slow day use a background explainer on a political/humanitarian topic, never a business story.
