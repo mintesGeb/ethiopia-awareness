@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-29_tt_icrchospitals_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "HEALTH · TIGRAY & AMHARA",
+ "places": ["tigray", "amhara"],
+ "slides": [
+  {"title": "Red Cross backs hospitals in Tigray and Amhara", "body": "ICRC says shortages of health care, water and food are a pressing concern."},
+  {"stat": "33 + 32", "body": "health facilities supported by the ICRC in Tigray (33) and Amhara (32)."},
+  {"title": "Supplies sent to hospitals", "body": "Oct 13–16: supplies reached hospitals in Shire, Maychew, Mehoni, Alamata and Mekelle. Relief kits are pre-positioned: 6,000 in Tigray, 2,000 in Amhara, 2,400 in Afar."},
+  {"stat": "161", "body": "people were evacuated from Mekelle to Semera on Sept 28, with the ICRC as a neutral intermediary. It says safe passage needs agreement from all parties."},
+  {"title": "Protect civilians and health workers; keep aid routes open.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: ICRC · Oct 20, 2026"
+}
