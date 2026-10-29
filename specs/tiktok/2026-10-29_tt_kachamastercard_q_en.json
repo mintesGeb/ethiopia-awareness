@@ -1,0 +1,18 @@
+{
+ "id": "2026-10-29_tt_kachamastercard_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "BUSINESS · ETHIOPIA",
+ "places": [],
+ "place_label": "ETHIOPIA",
+ "slides": [
+  {"title": "Kacha and Mastercard: what is in the new deal?"},
+  {"title": "A five-year agreement", "body": "Kacha Digital Financial Service will issue payment cards directly to its own customers, The Reporter reports."},
+  {"title": "Open to other institutions", "body": "Kacha also plans card-issuing services for eligible banks, microfinance institutions and fintechs, subject to regulatory approvals."},
+  {"title": "Not yet stated", "body": "Fees, launch date and which institutions have signed were not given. Awash Bank and Commercial Bank of Ethiopia already offer Mastercard-linked cards."},
+  {"title": "More choice in payments, with clear rules and fees.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Reporter Ethiopia, Oct 27, 2026"
+}
