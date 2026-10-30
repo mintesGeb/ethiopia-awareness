@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-30_tt_pretoria_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "EXPLAINER · TIGRAY & NORTHERN ETHIOPIA",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "What is the Pretoria Agreement?"},
+  {"title": "A 2022 peace accord", "body": "UN News describes the 2022 Pretoria Agreement as the accord that ended the civil war in Tigray."},
+  {"title": "What the UN chief asked", "body": "Secretary-General Guterres urged all parties to stop hostilities and the signatories to return to dialogue under the agreement's framework."},
+  {"title": "Why it matters for civilians", "body": "The UN says teams are working to get food and health care through, but hostilities are displacing people in Tigray. Verified figures are not yet available."},
+  {"title": "Protect civilians. Keep aid routes open. Return to dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UN News · Oct 10, 2026"
+}

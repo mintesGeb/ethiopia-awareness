@@ -760,5 +760,14 @@
   "slot": "6am",
   "status": "made in chat (scheduled 5:28 run failed: usage limit)",
   "caption": "Ethiopia food prices: rising in Sekota, Tigray and Hararghe. White sorghum in Sekota cost 50% more in August than a year earlier, FEWS NET says. Many crops in Tigray were still flowering in late September, and East and West Hararghe face estimated crop losses of 40% or more. Source: FEWS NET Ethiopia Key Message Update, Sept 2026. #Ethiopia #FoodSecurity #Tigray #Amhara #Hararghe"
+ },
+ {
+  "date": "2026-10-30",
+  "id": "2026-10-30_tt_pretoria_q_en",
+  "headline": "Background explainer: What is the Pretoria Agreement? (UN News Oct 10: 2022 accord; Guterres urges cessation of hostilities and return to dialogue; aid access; displacement, no verified figures). Fallback explainer: no fresh clean non-repeated story found.",
+  "hook": "question",
+  "slot": "10am",
+  "status": "prepped for MG",
+  "caption": "Pretoria Agreement Ethiopia Tigray: what is it, and why does it matter now?\nUN News describes the 2022 Pretoria Agreement as the accord that ended the civil war in Tigray. On Oct 10, UN Secretary-General Guterres urged all parties to stop hostilities and the signatories to return to dialogue under its framework. The UN says teams are working to get food and health care through, but hostilities are displacing people in Tigray, and verified figures are not yet available.\nSource: UN News, Oct 10, 2026.\n#Ethiopia #Tigray #PretoriaAgreement #HumanitarianAid #EthiopiaNews"
  }
 ]
