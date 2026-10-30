@@ -1,0 +1,49 @@
+{
+ "id": "2026-10-30_icrcnorth_en",
+ "lang": "en",
+ "kicker": "HEALTH CARE · TIGRAY & AMHARA",
+ "places": [
+  "tigray",
+  "amhara"
+ ],
+ "place_label": "Northern Ethiopia",
+ "slides": [
+  {
+   "title": "Keeping clinics running as fighting returns",
+   "body": "An ICRC update from northern Ethiopia"
+  },
+  {
+   "stat": "33",
+   "title": "health facilities supported in Tigray",
+   "body": "Plus 32 in Amhara, according to the International Committee of the Red Cross (ICRC)."
+  },
+  {
+   "title": "Medicines reached Tigray hospitals",
+   "body": "Equipment and medicines were delivered Oct 13-16, including to Suhul-Shire, Ayder Referral, Alamata and Mehoni."
+  },
+  {
+   "stat": "161",
+   "title": "people moved from Mekelle to Semera",
+   "body": "On Sept 28, with the ICRC acting as a neutral intermediary."
+  },
+  {
+   "stat": "6,000",
+   "title": "household kits pre-positioned in Tigray",
+   "body": "Plus 2,000 in Amhara and 2,400 for recently displaced civilians in Afar."
+  },
+  {
+   "title": "Water restored in Lalibela",
+   "body": "Emergency repairs to the town's water supply system brought back access to water, the ICRC says."
+  },
+  {
+   "title": "Respect the laws of war. Protect health care.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: ICRC · Oct 20, 2026",
+ "card": {
+  "stat": "33",
+  "title": "health facilities in Tigray supported by the ICRC, plus 32 in Amhara",
+  "body": "ICRC, Oct 20, 2026."
+ }
+}
