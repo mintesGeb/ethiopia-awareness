@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-30_tt_tigrayneeds_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "FOOD AID · TIGRAY",
+ "places": ["mekelle"],
+ "slides": [
+  {"stat": "3.9 million", "title": "people in Tigray need emergency food"},
+  {"title": "Where the figure comes from", "body": "A commentary in Addis Standard cites a September assessment by the Tigray Disaster Risk Management Commission. Not independently verified."},
+  {"title": "Displaced families in Mekelle", "body": "One woman displaced from Humera told the author food rations were often late and the last distribution at her centre was in June. Single account."},
+  {"title": "Health and access", "body": "The ICRC says it delivered medical supplies across Tigray, but insecurity threatens civilians' access to treatment, food and clean water."},
+  {"title": "Protect civilians. Keep aid access open.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard (commentary) via allAfrica · Oct 30, 2026"
+}
