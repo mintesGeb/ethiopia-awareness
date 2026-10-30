@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-30_hayiqcamp_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · AMHARA",
+ "places": ["dessie"],
+ "place_label": "HAYIQ, AMHARA",
+ "slides": [
+  {
+   "title": "Drone strike hits a displacement camp",
+   "body": "Hayiq Jari 2 IDP camp, Amhara. Addis Standard, Oct 30, 2026"
+  },
+  {
+   "stat": "16",
+   "title": "civilians killed, camp residents say",
+   "body": "Including children, women and elderly people. Residents said 22 more were injured on Oct 29."
+  },
+  {
+   "stat": "5",
+   "title": "strikes, about 15 minutes apart",
+   "body": "A witness said the camp was hit at least five times from around 11 a.m. while people were in their shelters."
+  },
+  {
+   "stat": "1,800+",
+   "title": "displaced people live in the camp",
+   "body": "Many fled Wollega and West Shewa in Oromia, some in 2022. Residents said aid had largely stopped."
+  },
+  {
+   "title": "Not independently verified",
+   "body": "The accounts come from residents. The report does not say who carried out the strike, and no official response was reported."
+  },
+  {
+   "title": "Protect displaced civilians. Investigate independently.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard via allAfrica, Oct 30, 2026 (camp residents)",
+ "card": {
+  "title": "Amhara IDP camp: 16 killed in drone strike, residents say",
+  "body": "Addis Standard, Oct 30, 2026"
+ }
+}
