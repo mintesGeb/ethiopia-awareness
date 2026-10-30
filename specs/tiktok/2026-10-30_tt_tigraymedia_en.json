@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-30_tt_tigraymedia_en",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "MEDIA · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray media agency gets a new licence", "body": "Ethiopia's Media Authority renamed it Tigray Broadcasting Corporation."},
+  {"title": "What the authority says", "body": "It granted the licence after a request from Tigray's interim administration, reviewing it under the media proclamation."},
+  {"title": "Why it had been suspended", "body": "The authority says earlier content violated the media proclamation and endangered public security. Not independently verified."},
+  {"title": "What is still unknown", "body": "No response from the broadcaster or press groups was reported. Report is by state-affiliated Fana."},
+  {"title": "Press freedom and open information matter.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Fana Media Corporation (state-affiliated) · Oct 29, 2026",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG"
+}
