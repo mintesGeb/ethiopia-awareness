@@ -799,11 +799,11 @@
  },
  {
   "date": "2026-10-30",
-  "id": "2026-10-30_tt_moscowoffer_en",
-  "headline": "Russia (Dep. FM Alimov via Izvestia, reported by FTL Somalia Oct 24) offers to host Ethiopia-Eritrea contacts; no acceptance reported; single secondary source, unverified",
-  "hook": "headline",
+  "id": "2026-10-30_tt_refugeereg_q_en",
+  "headline": "UNHCR chief Salih (Reuters, Oct 12): refugee registration suspended for tens of thousands of South Sudanese and Eritrean refugees in Ethiopia; UNHCR has 35% of $8.5bn for 2026",
+  "hook": "question",
   "slot": "11pm",
   "status": "prepped for MG",
-  "caption": "Russia Ethiopia Eritrea talks: Russia says it can host contacts between Ethiopia and Eritrea.\nDeputy Foreign Minister Alexander Alimov told Izvestia Moscow is \"ready to provide a platform\" to \"find compromise solutions\". No acceptance by either government was reported, and it is not known whether any meeting took place. This comes from a single secondary report and is not independently verified. Dialogue and restraint protect civilians.\nSource: FTL Somalia, citing Izvestia, Oct 24, 2026.\n#Ethiopia #Eritrea #Russia #HornOfAfrica #EthiopiaNews"
+  "caption": "Ethiopia refugee registration suspended: UNHCR chief Barham Salih told the agency's executive committee in Geneva that registration has been suspended for tens of thousands of refugees from South Sudan and Eritrea in Ethiopia, Reuters reports.\nHe said UNHCR has secured only $3 billion, about 35% of the $8.5 billion it needs for 2026. No figures per country or start date were given. Protecting refugees and keeping registration and aid access open matters.\nSource: Reuters, Oct 12, 2026.\n#Ethiopia #Refugees #UNHCR #HumanitarianAid #EthiopiaNews"
  }
 ]
