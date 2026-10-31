@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-31_tt_pressfreedom_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "PRESS FREEDOM · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "What is happening to Addis Standard?"},
+  {"title": "February: registration revoked", "body": "The Ethiopian Media Authority revoked its online registration on Feb 24, 2026, saying it spread reports that compromise media ethics. The editor says it got no formal notice."},
+  {"title": "August: editor held, office searched", "body": "The publisher says editor-in-chief Yonas Kedir was held about 24 hours on Aug 1 and equipment was seized from its Addis Ababa office on Aug 2."},
+  {"title": "What is still unknown", "body": "CPJ says the Justice Ministry and Government Communication Service did not immediately respond. The publisher's account is not independently verified."},
+  {"title": "Press freedom and fair legal process matter.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: CPJ · Feb 24 and Aug 6, 2026"
+}
