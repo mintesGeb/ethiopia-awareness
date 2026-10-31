@@ -1,0 +1,36 @@
+{
+ "id": "2026-10-31_rama_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · TIGRAY",
+ "places": ["adwa"],
+ "place_label": "RAMA, CENTRAL TIGRAY",
+ "slides": [
+  {
+   "title": "Drone strikes hit a grain truck in Tigray",
+   "body": "Rama town, Central Tigray. AFP, Oct 30, 2026"
+  },
+  {
+   "title": "First strike: a vehicle carrying sorghum",
+   "body": "A private vehicle was hit in the centre of Rama around 9 p.m. on Thursday, Oct 29, AFP reported."
+  },
+  {
+   "stat": "13",
+   "title": "killed in a second strike, a resident says",
+   "body": "On Friday morning, a drone hit people gathering the scattered grain, a resident told AFP."
+  },
+  {
+   "stat": "11",
+   "title": "deaths confirmed by a hospital source",
+   "body": "The medical source said they had heard of two more victims. The army did not respond to AFP. Not independently verified."
+  },
+  {
+   "title": "Protect civilians. Investigate independently.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: AFP via Arab News, Oct 30, 2026 (resident, medical source)",
+ "card": {
+  "title": "Tigray: drone strikes on grain truck kill 11+, sources say",
+  "body": "AFP, Oct 30, 2026"
+ }
+}
