@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-31_tt_amharahealth_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "HEALTH AID · AMHARA",
+ "places": ["amhara"],
+ "slides": [
+  {"stat": "16 of 57", "title": "mobile health teams running in Amhara"},
+  {"title": "What the UN office says", "body": "OCHA says only 16 of the 57 mobile health and nutrition teams needed in Amhara are working. Ten of those 16 may stop by the end of October because of funding."},
+  {"title": "Displaced residents report cuts", "body": "Displaced residents told Addis Standard that several groups providing food, nutrition and health care have ended or are preparing to end work."},
+  {"title": "Aid continues, with limits", "body": "OCHA says partners still deliver aid in Tigray, Amhara and Afar despite insecurity. It says needs exceed resources. Single report, not independently verified."},
+  {"title": "Keep health aid funded and open to all.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard (OCHA) via allAfrica · Oct 21, 2026"
+}
