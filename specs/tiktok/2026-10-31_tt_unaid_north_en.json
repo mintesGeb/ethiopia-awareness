@@ -1,0 +1,17 @@
+{
+ "id": "2026-10-31_tt_unaid_north_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "HUMANITARIAN AID · TIGRAY, AMHARA, AFAR",
+ "places": ["tigray", "amhara"],
+ "slides": [
+  {"title": "UN moves more aid to northern Ethiopia", "body": "Tigray, Amhara and Afar: needs are outpacing relief, OCHA says."},
+  {"title": "What OCHA says", "body": "UN humanitarians say they are mobilizing extra resources, including by reprioritizing existing funding. OCHA again called for urgent new funding."},
+  {"title": "What is being delivered", "body": "Amhara: 428+ tonnes of WFP food in North Gondar and Wag Hemra. Tigray: 45 World Vision food trucks reached Shire on Oct 26. Afar: water, hygiene supplies and cash aid."},
+  {"title": "Access depends on talks", "body": "The UN coordinator is engaging federal and regional authorities for safe access. No funding target was given."},
+  {"title": "Safe, open access for all aid.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Xinhua (UN OCHA briefing) · Oct 28, 2026"
+}
