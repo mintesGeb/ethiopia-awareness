@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-02_tt_whohealth_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "HEALTH · TIGRAY & AMHARA",
+ "places": ["tigray", "amhara"],
+ "slides": [
+  {"title": "WHO: northern Ethiopia's health system near collapse", "body": "Tedros warned on Monday."},
+  {"title": "What WHO says", "body": "Hospitals face shortages of health workers, medicines and equipment. Ambulance services are severely limited."},
+  {"title": "Aid access", "body": "Insecurity is obstructing delivery of life-saving supplies to some areas. WHO and UN partners are working to send more."},
+  {"title": "What is not known", "body": "Lives were reported lost in recent days. No overall toll was given and no one was named as responsible."},
+  {"title": "Protect civilians and let health aid through.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera (Reuters, AP) · Nov 2, 2026"
+}
