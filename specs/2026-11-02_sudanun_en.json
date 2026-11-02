@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-02_sudanun_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · SUDAN BORDER",
+ "places": ["benishangul", "bahir_dar"],
+ "place_label": "ASOSA & BAHIR DAR (NAMED BY SUDAN)",
+ "slides": [
+  {
+   "title": "Sudan takes drone complaint against Ethiopia to the UN",
+   "body": "Al Jazeera, Nov 2, 2026"
+  },
+  {
+   "title": "Complaints filed at the UN and African Union",
+   "body": "Sudan's foreign ministry said late Sunday it had complained to the UN Security Council and the AU Peace and Security Council."
+  },
+  {
+   "stat": "484",
+   "title": "civilians killed or wounded, Sudan's army-led council says",
+   "body": "Its report counts 70 attacks with 187 drones, Feb 15 to Oct 27, 2026. Claims not independently verified."
+  },
+  {
+   "title": "Sites named: Asosa, Kurmuk-Gizen border area, Bahir Dar",
+   "body": "Sudan says drones used by the RSF took off from Ethiopian soil. In May, Ethiopia called such accusations \"baseless.\""
+  },
+  {
+   "stat": "30",
+   "title": "civilians killed at Wad el-Mahi, Sudan says",
+   "body": "26 women and four children were reported killed in an Oct 9 attack on displaced families near the Ethiopian border."
+  },
+  {
+   "title": "Protect civilians. Investigate independently.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Al Jazeera, Nov 2, 2026; Radio Tamazuj, May 6, 2026",
+ "card": {
+  "title": "Sudan files UN complaint over drones it says came from Ethiopia",
+  "body": "Al Jazeera, Nov 2, 2026"
+ }
+}
