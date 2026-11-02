@@ -137,3 +137,19 @@ name or a big number on slide 1, and keep abstract policy for slow news days.
   food prices in a conflict area).
 - "Careful language" means telling hot political/human-rights news safely, NOT swapping it for safe off-topic
   news. On a slow day use a background explainer on a political/humanitarian topic, never a business story.
+
+## HOT-NEWS TEST (agreed with MG, Nov 2, 2026) — overrides older "calm topics" guidance where they conflict
+Why: MG uploads only in the TikTok app now (most earlier flags happened on web Studio uploads), and the calm
+aid/policy videos settled at ~200 views. The hot videos (Aksum 669, Moyale 908) grew the account.
+- 3 of the 5 daily slots (6 AM, 2 PM, 11 PM) = the HOTTEST Ethiopia story of the last 24 h: who did what, where,
+  in plain words. Federal/regional forces, Tigray, Eritrea tensions, Fano/OLA areas, Moyale, Arsi, Sudan claims
+  are all allowed as subjects again. The other 2 slots (10 AM, 6 PM Amharic) stay on human-rights/humanitarian.
+- Raw and fast: 3 fact slides + the follow slide, very short lines (max ~12 words per slide body), so the video is
+  ~12 s. Slide 1 = the raw news in 6-9 words with a place name ("Federal forces enter Adwa, Tigray",
+  "Eritrea calls Ethiopia's claims lies", "Thousands flee Moyale overnight"). No soft "explainer" openers.
+- Still banned on TikTok (slides and caption): war, killed/dead/death toll numbers, massacre, drone strike,
+  bomb, attack, slaughter, burned, bodies, blood, children harmed, and any graphic detail. Say "lives were
+  reported lost" at most once, in a middle slide. Never quote an armed group's call to fight.
+- Neutral and sourced as always: attribute every claim, "not independently verified" where single-source.
+- Caption first line = search words (place + topic + Ethiopia). Record "hot": true in tiktok_posted.json.
+- MG reports any "Not eligible" notice; after one flag, the next run picks a calmer angle on that topic type.
