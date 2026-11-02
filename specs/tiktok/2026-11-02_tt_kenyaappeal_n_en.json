@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-02_tt_kenyaappeal_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "DISPLACEMENT · MOYALE, BORANA",
+ "places": ["borana"],
+ "slides": [
+  {"stat": "$8.9 million", "title": "UN appeal for people who fled to Kenya"},
+  {"title": "Who is asking", "body": "UNHCR, IOM, UNICEF and WFP launched an appeal for $8.9 million to help up to 50,000 displaced people over three months."},
+  {"title": "Who has crossed", "body": "UNHCR says thousands crossed into Kenya via Moyale since Oct 22. Local authorities estimate up to 50,000. Many are women and children, sheltering in schools, churches or with host families."},
+  {"title": "What is still unknown", "body": "Registration and verification are ongoing, so figures are estimates. IOM says partners are preparing for more arrivals. Single report, not independently verified."},
+  {"title": "Fund and open safe access to aid.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Reporter (UNHCR, IOM, UNICEF, WFP) · Oct 31, 2026"
+}
