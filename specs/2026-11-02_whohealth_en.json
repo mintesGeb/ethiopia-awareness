@@ -1,0 +1,43 @@
+{
+ "id": "2026-11-02_whohealth_en",
+ "lang": "en",
+ "kicker": "HEALTH CARE · AMHARA & TIGRAY",
+ "places": ["amhara", "tigray"],
+ "place_label": "Northern Ethiopia",
+ "slides": [
+  {
+   "title": "WHO: a health system near collapse",
+   "body": "The WHO chief's warning on northern Ethiopia"
+  },
+  {
+   "title": "A newborn among the dead",
+   "body": "WHO head Tedros Adhanom Ghebreyesus says children, including a newborn, were reportedly killed at the Jaari 2 displacement camp in Amhara."
+  },
+  {
+   "stat": "15+",
+   "title": "people killed in drone strikes on the camp",
+   "body": "Several of them children, rescue sources told Reuters, as reported by Al Jazeera."
+  },
+  {
+   "title": "Killed while seeking food",
+   "body": "In Rama, Tigray, several people were reportedly killed while trying to get food, Tedros said. He named no perpetrators."
+  },
+  {
+   "title": "Hospitals running short",
+   "body": "Too few health workers, medicines and equipment. Ambulances are severely limited and insecurity is blocking supplies, WHO says."
+  },
+  {
+   "title": "What is at risk next",
+   "body": "WHO warns more people may lose emergency care, maternal and child health services and disease treatment."
+  },
+  {
+   "title": "Protect civilians. Let health care through.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: WHO via UN News, AP, Al Jazeera · Nov 2, 2026",
+ "card": {
+  "title": "WHO: violence is pushing northern Ethiopia's health system toward collapse",
+  "body": "UN News, Nov 2, 2026."
+ }
+}
