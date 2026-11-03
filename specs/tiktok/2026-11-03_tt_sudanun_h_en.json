@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-03_tt_sudanun_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DIPLOMACY · SUDAN & ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Why did Sudan take Ethiopia to the UN?"},
+  {"title": "What Sudan says", "body": "Its foreign ministry says RSF used Ethiopian territory to launch drones at power stations."},
+  {"title": "Ethiopia's position", "body": "No immediate response, per Anadolu. Ethiopia has denied backing RSF before."},
+  {"title": "Not verified", "body": "Claims come from Sudan's side only. No independent confirmation yet."},
+  {"title": "Dialogue and independent investigation.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera (AFP), Anadolu · Nov 2, 2026"
+}
