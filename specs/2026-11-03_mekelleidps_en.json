@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-03_mekelleidps_en",
+ "lang": "en",
+ "kicker": "FOOD & DISPLACEMENT · TIGRAY",
+ "places": ["mekelle"],
+ "place_label": "MEKELLE, TIGRAY",
+ "slides": [
+  {
+   "title": "Displaced in Mekelle, waiting months for food",
+   "body": "Addis Standard, Oct 30, 2026"
+  },
+  {
+   "stat": "3.9 million",
+   "title": "people in Tigray need emergency food aid",
+   "body": "Estimate from a September 2026 assessment by Tigray's Disaster Risk Management Commission, cited by Addis Standard."
+  },
+  {
+   "title": "Last food distribution: June",
+   "body": "A woman displaced from Humera told the writer that her displacement centre in Mekelle last received food in June 2026."
+  },
+  {
+   "stat": "15 kg",
+   "title": "food ration families were due, often delayed",
+   "body": "She said clothing, cooking oil and medicine have become unaffordable for many displaced families."
+  },
+  {
+   "title": "Hundreds of thousands still cannot go home",
+   "body": "People displaced from Western Tigray remain unable to return, the article says, while fighting since late September adds new needs."
+  },
+  {
+   "title": "Protect civilians. Let aid reach every displaced family.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard via allAfrica, Oct 30, 2026",
+ "card": {
+  "title": "Displaced in Mekelle, waiting months for food",
+  "body": "Addis Standard, Oct 30, 2026"
+ }
+}
