@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-03_tt_reportersuspended_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "PRESS FREEDOM · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"stat": "148 of 180", "title": "Ethiopia's press freedom rank (RSF)"},
+  {"title": "The Reporter suspended", "body": "Ethiopia's Media Authority suspended The Reporter indefinitely from Nov 2, AFP and Addis Standard report."},
+  {"title": "The stated reasons", "body": "The Authority cites content it says contradicts national interests and \"unbalanced and biased\" reports."},
+  {"title": "What is still unknown", "body": "Addis Standard says no examples were given. No response from The Reporter in these reports."},
+  {"title": "Protect press freedom and fair process.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: AFP via Africanews; Addis Standard via allAfrica · Nov 2-3, 2026"
+}
