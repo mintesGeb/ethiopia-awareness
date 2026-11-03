@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-03_moyalekenya_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {
+   "title": "Moyale fighting is now hitting the Kenyan side",
+   "body": "The Star (Kenya), Nov 3, 2026"
+  },
+  {
+   "stat": "65",
+   "title": "year-old woman killed by a suspected stray bullet",
+   "body": "Police say Amina Guchi was hit Monday at county offices in Moyale, Kenya. Preliminary reports link the bullet to fighting in Ethiopia."
+  },
+  {
+   "stat": "3",
+   "title": "RPGs that reportedly landed from Ethiopia were destroyed",
+   "body": "Police and Kenyan army experts detonated them on Nov 1, including one at Sessi Primary School. No injuries were reported."
+  },
+  {
+   "stat": "50,000",
+   "title": "people have fled into Kenya, UNHCR estimates",
+   "body": "Many are women and children, sheltering with relatives, in schools and churches. Food is the most urgent need."
+  },
+  {
+   "stat": "$8.9M",
+   "title": "sought by UN agencies for three months of aid",
+   "body": "UNHCR, UNICEF, IOM and WFP appeal for food, shelter, water, sanitation and child protection."
+  },
+  {
+   "title": "Protect civilians on both sides of the border.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: The Star (Kenya), Nov 3, 2026",
+ "card": {
+  "title": "Moyale fighting is now hitting the Kenyan side",
+  "body": "The Star (Kenya), Nov 3, 2026"
+ }
+}
