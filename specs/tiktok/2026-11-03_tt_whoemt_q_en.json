@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-03_tt_whoemt_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "HEALTH · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "Why is Addis Ababa hosting a WHO emergency meeting?"},
+  {"title": "A first for Africa", "body": "Ethiopia hosts the 7th WHO Emergency Medical Teams Global Meeting, Prensa Latina reports."},
+  {"title": "Who is organizing", "body": "Ethiopia's Health Ministry, the Ethiopian Public Health Institute and WHO. It runs to Nov 5."},
+  {"title": "What officials say", "body": "An EPHI director says it is a chance to share lessons on responding to health emergencies."},
+  {"title": "Protect health care and keep aid access open.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Prensa Latina · Nov 3, 2026 (single source)"
+}
