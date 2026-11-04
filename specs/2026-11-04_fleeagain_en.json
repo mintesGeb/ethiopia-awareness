@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-04_fleeagain_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · TIGRAY & AMHARA",
+ "places": ["shire", "amhara"],
+ "place_label": "NW TIGRAY & AMHARA",
+ "slides": [
+  {
+   "title": "They went home. Now they fled again.",
+   "body": "Addis Standard, citing the UN, Nov 4, 2026"
+  },
+  {
+   "title": "Returnees uprooted in NW Tigray",
+   "body": "The UN says families who had recently returned to Tahtay Adiyabo district have been forced to flee again amid renewed fighting."
+  },
+  {
+   "stat": "62,707",
+   "title": "people had returned to six Tigray woredas",
+   "body": "12,155 households, incl. Tahtay Adiyabo, as reported by Addis Standard in October 2025."
+  },
+  {
+   "title": "Thousands displaced in Shire and Debre Birhan",
+   "body": "Debre Birhan in Amhara already hosts people displaced from West Shewa, East Wollega and West Wollega in Oromia."
+  },
+  {
+   "title": "Roads restricted, aid disrupted",
+   "body": "Insecurity limits movement on roads linking Gonder with Debark and Metema, the UN says. It has not given a breakdown of the newly displaced."
+  },
+  {
+   "title": "Protect civilians. Keep aid routes open.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard via allAfrica, Nov 4, 2026",
+ "card": {
+  "title": "They went home. Now they fled again.",
+  "body": "Addis Standard, citing the UN, Nov 4, 2026"
+ }
+}
