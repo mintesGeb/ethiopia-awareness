@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-04_tt_moyalekenyaspill_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "BORDER · MOYALE, ETHIOPIA & KENYA",
+ "places": ["borana"],
+ "place_label": "MOYALE, BORANA (OROMIA)",
+ "slides": [
+  {"title": "Moyale tensions spill into Kenya's border town", "body": "Kenyan media report stray fire landing on the Kenyan side."},
+  {"title": "Kenyan side affected", "body": "Residents reported gunfire. Civilians were reported harmed, per Kenyan media. Not independently verified."},
+  {"title": "Schools disrupted", "body": "Exam candidates were moved from schools near the border. Unexploded ordnance was safely detonated."},
+  {"title": "Displacement continues", "body": "The UN estimates over 50,000 Ethiopians have crossed into Kenya, mainly Marsabit County."},
+  {"title": "Protect civilians and keep aid and dialogue open.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via allAfrica · Nov 4, 2026"
+}
