@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-04_tt_sudandiplomats_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "DIPLOMACY · ETHIOPIA & SUDAN",
+ "places": ["benishangul"],
+ "slides": [
+  {"title": "Ethiopia orders 6 Sudanese diplomats to leave Assosa", "body": "Reported Nov 4."},
+  {"title": "What was reported", "body": "A senior Ethiopian official told Reuters: leave within 48 hours."},
+  {"title": "Reason not given", "body": "The official gave no reason. The PM's office had not responded."},
+  {"title": "Sudan's view", "body": "An adviser says Sudan wants to avoid open confrontation with Ethiopia. Both sides deny the other's claims."},
+  {"title": "Dialogue, not escalation.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Reuters via Addis Standard · Nov 4, 2026"
+}
