@@ -1152,5 +1152,15 @@
   "source": "Africanews/AFP, Nov 3 2026",
   "url": "https://www.africanews.com/2026/11/03/ethiopia-suspends-leading-independent-newspaper-the-reporter/",
   "post_id": "1709296707435426"
+ },
+ {
+  "date": "2026-11-03",
+  "slot": "7pm",
+  "lang": "en",
+  "type": "card",
+  "headline": "What we're watching (international response): Sudan's Nov 1 complaints to UNSC/AU PSC over drones from Ethiopian territory, no meeting date reported (Al Jazeera Nov 2); AU PSC-EU PSC joint meetings in Addis Nov 5-6, Ethiopia not on programme (Amani Africa); Amnesty (Oct 2) AU emergency session call and 36 groups (Oct 8) HRC special session call, not yet announced",
+  "source": "Al Jazeera, Nov 2 2026; Amani Africa; Amnesty Oct 2; HRW Oct 9 2026",
+  "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree",
+  "post_id": "105052697572360_1152814777327973"
  }
 ]
