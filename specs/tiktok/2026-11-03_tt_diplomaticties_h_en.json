@@ -1,0 +1,34 @@
+{
+ "id": "2026-11-03_tt_diplomaticties_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "DIPLOMACY \u00b7 ETHIOPIA & ERITREA",
+ "places": [
+  "addis_ababa"
+ ],
+ "slides": [
+  {
+   "title": "Ethiopia-Eritrea ties cut: what each side says",
+   "body": "Background, since Oct 1."
+  },
+  {
+   "title": "Ethiopia's step",
+   "body": "Closed its Asmara embassy and gave 10 Eritrean diplomats 48 hours to leave, citing \"hostility\"."
+  },
+  {
+   "title": "Eritrea's reply",
+   "body": "Said it would \"reciprocate in kind\" and called Ethiopia's claims \"astounding\"."
+  },
+  {
+   "title": "Three weeks on",
+   "body": "Eritrea's UN envoy said Oct 20 there is no \"crisis\" and urged respect for its sovereignty."
+  },
+  {
+   "title": "Dialogue, not escalation.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Al Jazeera (AFP, AP) Oct 1 \u00b7 Addis Standard Oct 21, 2026"
+}
