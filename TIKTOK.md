@@ -153,3 +153,7 @@ aid/policy videos settled at ~200 views. The hot videos (Aksum 669, Moyale 908) 
 - Neutral and sourced as always: attribute every claim, "not independently verified" where single-source.
 - Caption first line = search words (place + topic + Ethiopia). Record "hot": true in tiktok_posted.json.
 - MG reports any "Not eligible" notice; after one flag, the next run picks a calmer angle on that topic type.
+- Nov 3: the 11 PM "Ethiopia-Eritrea ties cut" video had 0 views after 34 min. Its content was clean, but it was
+  month-old background in a HOT slot, and it reused the same Eritrea UN envoy "no crisis" quote and framing as the
+  flagged "war of words" video. Rules: a hot slot must carry news from the last 24-48 h, never background; never
+  reuse quotes, facts or framing from a video that was flagged "Not eligible".
