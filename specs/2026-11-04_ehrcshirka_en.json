@@ -1,0 +1,37 @@
+{
+ "id": "2026-11-04_ehrcshirka_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · SHIRKA, OROMIA",
+ "places": ["oromia"],
+ "place_label": "SHIRKA WOREDA, SOUTHEAST OROMIA",
+ "slides": [
+  {
+   "title": "Rights commission confirms 48 killed in Shirka",
+   "body": "Update from Addis Standard, Nov 4, 2026"
+  },
+  {
+   "stat": "48",
+   "title": "people killed on Oct 24, the EHRC confirms",
+   "body": "23 local security personnel, 5 militia members and 13 civilians, plus 7 civilians killed by informal armed individuals."
+  },
+  {
+   "stat": "247",
+   "title": "families displaced, the commission says",
+   "body": "It also counted 20 people injured and 21 homes burned in Birbona Chole kebele."
+  },
+  {
+   "stat": "73",
+   "title": "people detained, Oromia's government says",
+   "body": "EHRC says the attackers identified as the OLA. Residents say some detainees had no role; this is unverified."
+  },
+  {
+   "title": "Independent investigation. Protection for every civilian.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard via allAfrica, Nov 4, 2026",
+ "card": {
+  "title": "Rights commission confirms 48 killed in Shirka",
+  "body": "Addis Standard, Nov 4, 2026"
+ }
+}
