@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-05_tt_hrwreporter_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "PRESS FREEDOM · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "What does HRW say about The Reporter?"},
+  {"title": "Rights group urges reversal", "body": "Human Rights Watch says the government should lift the suspension, Nov 3."},
+  {"title": "Authority's stated reasons", "body": "Media Authority cites content against \"national interests\" and \"distorted content\" harming investment and diplomacy."},
+  {"title": "HRW's concern", "body": "It calls this part of an ongoing assault on media and civic space. No government response reported."},
+  {"title": "Free press and fair process.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Human Rights Watch (Laetitia Bader) · Nov 3, 2026"
+}
