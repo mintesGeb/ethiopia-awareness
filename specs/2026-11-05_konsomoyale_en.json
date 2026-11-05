@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-05_konsomoyale_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · KONSO & MOYALE",
+ "places": ["south", "borana"],
+ "place_label": "KONSO ZONE & MOYALE, SOUTHERN ETHIOPIA",
+ "slides": [
+  {
+   "title": "Two deadly flashpoints in southern Ethiopia",
+   "body": "Konso Zone and Moyale, reported Nov 4-5, 2026"
+  },
+  {
+   "stat": "4",
+   "title": "farmers killed on their way to the fields",
+   "body": "Borkena, citing local police: gunmen ambushed them in Arba Klala village, Kolme Woreda, Konso Zone, and abducted a fifth person."
+  },
+  {
+   "stat": "9",
+   "title": "killed in a similar attack about a month earlier",
+   "body": "Residents say the attackers came from neighbouring Alle Zone. Alle Zone officials were not available for comment."
+  },
+  {
+   "stat": "7",
+   "title": "districts now hit by clashes around Moyale",
+   "body": "Fighting on the Oromia-Somali border began Oct 18. A security official told Addis Standard it has intensified at night."
+  },
+  {
+   "title": "Two mediation attempts ended without agreement",
+   "body": "Borana and Somali elders each told Addis Standard they will not give up land they consider theirs. Claims unverified."
+  },
+  {
+   "title": "Protect civilians. Support peaceful dialogue.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Sources: Borkena, Nov 4; Addis Standard via allAfrica, Nov 4, 2026",
+ "card": {
+  "title": "Two deadly flashpoints in southern Ethiopia",
+  "body": "Borkena; Addis Standard, Nov 4, 2026"
+ }
+}
