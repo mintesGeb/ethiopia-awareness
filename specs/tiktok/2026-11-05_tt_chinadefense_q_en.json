@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-05_tt_chinadefense_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DIPLOMACY · ETHIOPIA & CHINA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "What did Ethiopia and China agree on?"},
+  {"title": "Defense minister met China's ambassador", "body": "Talks in Addis Ababa, Nov 3, per Ethiopian state media."},
+  {"title": "What both sides pledged", "body": "More defense-industry cooperation, technology transfer and training."},
+  {"title": "Ethiopia's position", "body": "Defense Minister Mohamed Idris asked China to keep standing with Ethiopia."},
+  {"title": "Dialogue, not escalation.", "body": "Single state-media source, not independently verified. Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Ethiopian News Agency (state media) via allAfrica · Nov 3-4, 2026"
+}
