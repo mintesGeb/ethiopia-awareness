@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-04_tt_usembassyalert_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "TRAVEL ALERT · TIGRAY, AMHARA & AFAR",
+ "places": ["tigray", "amhara"],
+ "place_label": "TIGRAY, AMHARA & AFAR",
+ "slides": [
+  {"title": "US Embassy: do not travel to Tigray, Amhara or Afar", "body": "Security alert dated Nov 4."},
+  {"title": "What the alert says", "body": "Citizens in those areas should leave if it is safe to do so."},
+  {"title": "Flights", "body": "Flights remain suspended at Axum and Shire airports."},
+  {"title": "Also", "body": "The embassy warns of false and misleading social media reports. Verify with several sources."},
+  {"title": "Stay informed. Protect civilians.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: U.S. Embassy Addis Ababa security alert · Nov 4, 2026"
+}
