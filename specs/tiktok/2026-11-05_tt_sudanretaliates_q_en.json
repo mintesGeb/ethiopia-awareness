@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-05_tt_sudanretaliates_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DIPLOMACY · ETHIOPIA & SUDAN",
+ "places": ["benishangul"],
+ "slides": [
+  {"title": "How did Sudan answer Ethiopia's consulate closure?"},
+  {"title": "Sudan closes Ethiopia's consulate", "body": "In Gedaref. Two Sudanese officials told Reuters."},
+  {"title": "Ethiopia acted first", "body": "It closed Sudan's Assosa consulate and gave six staff 48 hours."},
+  {"title": "Accusations on both sides", "body": "Sudan says RSF used Ethiopian land. Ethiopia denies it, and says Sudan backs Tigray rebels. Sudan denies."},
+  {"title": "Dialogue, not escalation.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via allAfrica, Al Jazeera (AP/Reuters) · Nov 4-5, 2026"
+}
