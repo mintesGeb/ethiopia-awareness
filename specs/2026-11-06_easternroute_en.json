@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-06_easternroute_en",
+ "lang": "en",
+ "kicker": "MIGRATION · EASTERN ROUTE",
+ "places": ["afar"],
+ "place_label": "ETHIOPIA → DJIBOUTI → YEMEN",
+ "slides": [
+  {
+   "title": "Leaving Ethiopia by sea: the Eastern Route",
+   "body": "Explainer: IOM data via UN News, Oct 2026"
+  },
+  {
+   "stat": "20,000+",
+   "title": "journeys from Ethiopia into Djibouti",
+   "body": "Recorded by IOM from Sept 10 to early October 2026, with migrants heading for Yemen."
+  },
+  {
+   "stat": "3,000+",
+   "title": "migrants seen stranded in Djibouti",
+   "body": "Along migration routes, Sept 20-30, IOM said. It also received reports of deaths in the desert near the Ethiopian border."
+  },
+  {
+   "stat": "70,200",
+   "title": "arrivals in Yemen, Jan-Apr 2026",
+   "body": "On the Horn of Africa Eastern Route, up 9 per cent, according to IOM data."
+  },
+  {
+   "stat": "139",
+   "title": "dead in one shipwreck off Obock",
+   "body": "305 people were aboard when the boat sank on Oct 9. IOM said 84 remained missing."
+  },
+  {
+   "title": "Safe options and protection for migrants save lives.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: IOM via UN News, Oct 6 & 11, 2026; IOM, Aug 12, 2026",
+ "card": {
+  "title": "Leaving Ethiopia by sea: the Eastern Route",
+  "body": "IOM via UN News, Oct 2026"
+ }
+}
