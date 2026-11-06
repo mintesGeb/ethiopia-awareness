@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-05_tt_partiessummit_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "POLITICS · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"stat": "3 days", "title": "African party summit opens in Addis Ababa"},
+  {"title": "Party leaders gather", "body": "Ethiopian state media says party leaders and heads of state are attending."},
+  {"title": "Hosted by Prosperity Party", "body": "Ethiopia's ruling party hosts it with the African Governance Center, to Nov 7."},
+  {"title": "What is planned", "body": "Talks on jobs and trade. An \"Addis Ababa Declaration\" is to be adopted. Single state-media source."},
+  {"title": "Open dialogue for every citizen.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: ENA (state media) via allAfrica · Nov 5, 2026"
+}
