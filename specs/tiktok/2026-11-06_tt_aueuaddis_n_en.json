@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-06_tt_aueuaddis_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "hot": false,
+ "kicker": "DIPLOMACY · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"stat": "9th", "title": "AU–EU security retreat opens in Addis Ababa"},
+  {"title": "Who is meeting", "body": "The African Union Peace and Security Council and the EU Political and Security Committee."},
+  {"title": "Four priorities", "body": "Maritime security, counter-terrorism, AI governance, and women, peace and security."},
+  {"title": "No outcomes reported yet", "body": "Capital FM reports no decisions on Ethiopia or the Horn of Africa. Single outlet."},
+  {"title": "Dialogue that protects civilians", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Capital FM via allAfrica · Nov 6, 2026"
+}
