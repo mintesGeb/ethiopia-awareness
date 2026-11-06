@@ -168,3 +168,23 @@ aid/policy videos settled at ~200 views. The hot videos (Aksum 669, Moyale 908) 
   Eritrea, WHO) or press freedom.
 - Weakest: Sudan angles (consulate 55, UN complaint 223, diplomats 239), African parties summit 182, navy port 216.
 - Follow conversion is low (44 profile views/week from 10K views).
+
+## Changes agreed with MG, Nov 6, 2026
+### 11 PM slot = daily series "Ethiopia today in 15 seconds"
+- Every 11 PM video is the recap: slide 1 title "Ethiopia today in 15 seconds", body = the date (e.g. "Nov 6, 2026").
+  Then exactly 3 slides, one headline each (max ~10 words title + one short attributed line), then the follow slide
+  with title "Back tomorrow at 11 PM." and body "Follow for sourced updates from across Ethiopia."
+- The 3 headlines = the day's 3 most important Ethiopia stories (last 24 h). At least one must not have been in a
+  TikTok earlier that day. Same careful-language rules; no death counts; one attributed source per headline.
+- kicker "DAILY RECAP · ETHIOPIA", places [] , source line lists the outlets. id: <date>_tt_today15_en, hook "series".
+- Caption first line: "Ethiopia news today, <Month Day>: <the 3 topics in a few words>". Hashtags #Ethiopia
+  #EthiopiaNews #EthiopiaToday + 2 topic/place tags.
+### Story choice for the other slots
+- Skip stories whose main angle is Sudan (Sudan-only angles average far below the rest). Sudan may appear only when
+  the story is mainly about Ethiopia.
+- Prefer stories with a named big player acting on Ethiopia (US, China, Russia, EU, UN agencies, Eritrea, Egypt) and
+  press-freedom / human-rights actions, which perform best.
+### Voice line for MG (all English videos)
+- After the caption, in the push notification and in the final chat reply, add one line:
+  "Voice line: <slide-1 text, max ~12 words>" so MG can add TikTok text-to-speech. For Amharic videos write
+  "Voice line: none (Amharic)".
