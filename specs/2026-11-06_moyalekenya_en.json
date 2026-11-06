@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-06_moyalekenya_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {
+   "title": "Moyale clashes: Kenya sends more police",
+   "body": "Reported Nov 5-6, 2026"
+  },
+  {
+   "title": "Kenya's police chief visits the border",
+   "body": "Inspector General Douglas Kanja ordered more officers to Moyale during a visit on Thursday, Nov 5, Nairobi News and KNA reported."
+  },
+  {
+   "stat": "50,000+",
+   "title": "people now affected, up from about 36,000",
+   "body": "Kenya Red Cross figure, counting displaced Ethiopians and Kenyan host communities. Food, shelter and medical aid are urgent."
+  },
+  {
+   "title": "Stray bullets and power cuts in Kenyan Moyale",
+   "body": "A local leader said stray bullets forced some Kenyan families from their homes. The area relies on power from Ethiopia, now disrupted."
+  },
+  {
+   "title": "Protect civilians. Reach host families with aid.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Sources: KNA via KBC; Nairobi News, Nov 6, 2026",
+ "card": {
+  "title": "Moyale clashes: Kenya sends more police",
+  "body": "KNA via KBC; Nairobi News, Nov 6, 2026"
+ }
+}
