@@ -157,3 +157,14 @@ aid/policy videos settled at ~200 views. The hot videos (Aksum 669, Moyale 908) 
   month-old background in a HOT slot, and it reused the same Eritrea UN envoy "no crisis" quote and framing as the
   flagged "war of words" video. Rules: a hot slot must carry news from the last 24-48 h, never background; never
   reuse quotes, facts or framing from a video that was flagged "Not eligible".
+
+### Snapshot Nov 6, 2026 (MG's Studio screenshots)
+- Account: 43 followers; last 7 days 10K views (-14% vs prior week), 114 likes, 27 comments, 107 shares (+55%);
+  last 28 days 26.1K views. Daily views ~1-1.7K since Oct 31 (peak ~3K on Oct 27, the 908-view Moyale video).
+- Nov 2-6: no flags, no dead videos; typical 200-435 views. The 11 PM Eritrea-ties video that sat at 0 for 34 min
+  reached 384 (slow start, not a flag).
+- Best: WHO emergency medical teams 435, Eritrea ties 384, ex-US contractor plea 361, Reporter newspaper suspended
+  359, US Embassy Tigray travel alert 345, Ethiopia-China defense 313. Pattern: a named outside actor (US, China,
+  Eritrea, WHO) or press freedom.
+- Weakest: Sudan angles (consulate 55, UN complaint 223, diplomats 239), African parties summit 182, navy port 216.
+- Follow conversion is low (44 profile views/week from 10K views).
