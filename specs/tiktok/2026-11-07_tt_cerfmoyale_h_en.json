@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-07_tt_cerfmoyale_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "HUMANITARIAN \u00b7 MOYALE, ETHIOPIA-KENYA",
+ "places": [
+  "borana"
+ ],
+ "place_label": "Moyale, Ethiopia-Kenya border",
+ "slides": [
+  {
+   "title": "UN releases $3M for people who fled Moyale",
+   "body": "Nearly 50,000 are now in Kenya, UN aid chief says."
+  },
+  {
+   "title": "Emergency fund approved",
+   "body": "UN relief chief Tom Fletcher says $3M from CERF will fund food, water, shelter and health."
+  },
+  {
+   "title": "Where they are",
+   "body": "Mostly with host families in Moyale Sub-County, Kenya. Most new arrivals are women and children, per Kenyans.co.ke."
+  },
+  {
+   "title": "Wider appeal",
+   "body": "UN agencies asked Nov 5 for $8.9M to help up to 50,000 people for three months."
+  },
+  {
+   "title": "Aid access and protection for civilians",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Kenyans.co.ke (quoting UN's Tom Fletcher) \u00b7 Nov 7, 2026"
+}
