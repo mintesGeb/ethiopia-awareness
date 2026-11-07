@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-07_tt_arsidetained_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "HUMAN RIGHTS · ARSI, OROMIA",
+ "places": ["oromia"],
+ "place_label": "Arsi Zone, Oromia",
+ "slides": [
+  {"stat": "73", "title": "people in custody, Oromia says, in Arsi Zone"},
+  {"title": "Officials: 73 held and under investigation", "body": "Oromia government communications head Hailu Adugna, via state media."},
+  {"title": "Residents describe other arrests", "body": "They say people who helped the wounded or attended funerals were detained. Unverified."},
+  {"title": "Still unknown", "body": "Whether the 73 include those residents mention, and whether anyone has been charged."},
+  {"title": "Fair process and protection for civilians", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via allAfrica · Nov 2, 2026"
+}
