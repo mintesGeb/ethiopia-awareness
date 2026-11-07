@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-07_idpnumbers_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · NATIONWIDE",
+ "places": [],
+ "slides": [
+  {
+   "title": "Ethiopia's displaced, in numbers",
+   "body": "Explainer: UNHCR data reported by The Rio Times, Nov 6, 2026"
+  },
+  {
+   "stat": "1,919,993",
+   "title": "people displaced inside Ethiopia",
+   "body": "As of Aug 31, 2026, per a UNHCR data sheet. It predates the latest fighting since October."
+  },
+  {
+   "stat": "82%",
+   "title": "displaced by conflict",
+   "body": "Social tension 9%, drought 4%, other causes 5%, the UNHCR sheet shows."
+  },
+  {
+   "stat": "761,284",
+   "title": "displaced people in Tigray",
+   "body": "Oromia: 749,534. Amhara: 166,353. Afar: 123,767."
+  },
+  {
+   "stat": "1,023,565",
+   "title": "refugees and asylum seekers hosted",
+   "body": "Mostly from South Sudan, Somalia, Eritrea and Sudan. 53% are children."
+  },
+  {
+   "title": "Every one of them needs protection and aid access.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: UNHCR data (Aug 31, 2026) via The Rio Times, Nov 6, 2026",
+ "card": {
+  "stat": "1.9M",
+  "title": "people displaced inside Ethiopia",
+  "body": "UNHCR data, Aug 31, 2026"
+ }
+}
