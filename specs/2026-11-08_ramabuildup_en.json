@@ -1,0 +1,36 @@
+{
+ "id": "2026-11-08_ramabuildup_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · CENTRAL TIGRAY",
+ "places": ["adwa"],
+ "place_label": "ADWA TO RAMA, TIGRAY",
+ "slides": [
+  {
+   "title": "Troops move toward Rama, Tigray",
+   "body": "ACLED alert, Nov 6, 2026"
+  },
+  {
+   "title": "A buildup from Adwa",
+   "body": "ACLED says large numbers of federal troops and equipment were seen moving from Adwa toward Rama on Nov 5 and 6. Local sources placed Tigray forces (TDF) in and around the town."
+  },
+  {
+   "stat": "7 km",
+   "title": "from the Mereb River border",
+   "body": "Rama sits near Eritrea. Per ACLED, it has changed hands since federal forces took it on Oct 14."
+  },
+  {
+   "stat": "12",
+   "title": "civilians reportedly killed on Oct 30",
+   "body": "ACLED says a drone strike believed to be by the ENDF hit a civilian truck in Rama town."
+  },
+  {
+   "title": "Protect civilians in Rama and across Tigray.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: ACLED Ethiopia alerts, Nov 6, 2026",
+ "card": {
+  "title": "Troops move toward Rama, Tigray",
+  "body": "ACLED, Nov 6, 2026"
+ }
+}
