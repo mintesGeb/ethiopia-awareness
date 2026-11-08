@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-08_tt_addisdeclaration_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "POLITICS · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "African parties summit ends in Addis Ababa", "body": "Declaration adopted Nov 7, state media says."},
+  {"title": "Hosted by Ethiopia", "body": "Ethiopia's government and ruling Prosperity Party hosted the Nov 5-7 summit in Addis Ababa."},
+  {"title": "What it says", "body": "Declaration \"rejects unconstitutional changes of government\" and backs rule of law and pluralism. Single state-media source."},
+  {"title": "What is still unknown", "body": "The report gives no attendance figures or full text. No independent reaction reported."},
+  {"title": "Peaceful dialogue and political rights for all.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: ENA (state media) · Nov 7, 2026"
+}
