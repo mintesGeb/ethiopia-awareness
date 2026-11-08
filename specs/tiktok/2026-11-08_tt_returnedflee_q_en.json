@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-08_tt_returnedflee_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DISPLACEMENT · TIGRAY & AMHARA",
+ "places": ["shire"],
+ "place_label": "Shire, northwest Tigray",
+ "slides": [
+  {"title": "Where are Tigray's returned families now?"},
+  {"title": "Some have fled again", "body": "UN says families who returned to Tahtay Adiyabo, northwest Tigray, had to leave amid renewed hostilities."},
+  {"title": "Thousands displaced", "body": "UN: thousands are in Debre Birhan, Amhara, and Shire, Tigray. No location breakdown given."},
+  {"title": "Aid is being scaled up", "body": "UN says insecurity and movement limits are disrupting delivery. Not independently verified."},
+  {"title": "Aid access and protection for civilians", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via allAfrica, citing the UN · Nov 4, 2026"
+}
