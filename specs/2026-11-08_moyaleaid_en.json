@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-08_moyaleaid_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {
+   "title": "UN releases emergency funds for Moyale displaced",
+   "body": "Update, Nov 6-7, 2026"
+  },
+  {
+   "stat": "$3M",
+   "title": "from the UN's emergency fund, CERF",
+   "body": "UN relief chief Tom Fletcher announced the allocation on Nov 6 for aid operations in northern Kenya."
+  },
+  {
+   "stat": "~50,000",
+   "title": "people fled southern Ethiopia into Kenya",
+   "body": "Most are in Moyale Sub-County, Marsabit, staying with host communities. Women and children are the majority."
+  },
+  {
+   "stat": "$8.9M",
+   "title": "sought by four UN agencies",
+   "body": "UNHCR, UNICEF, IOM and WFP appealed on Nov 5 to help up to 50,000 people for three months."
+  },
+  {
+   "title": "Ethiopian side remains volatile",
+   "body": "OCHA says security on the Ethiopian side of Moyale is still volatile. New arrivals describe widespread destruction of homes."
+  },
+  {
+   "title": "Protect civilians. Fund aid for displaced families.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Kenyans.co.ke citing UN/OCHA, Nov 7, 2026",
+ "card": {
+  "stat": "$3M",
+  "title": "UN emergency funds for people fleeing Moyale",
+  "body": "Kenyans.co.ke citing UN/OCHA, Nov 7, 2026"
+ }
+}
