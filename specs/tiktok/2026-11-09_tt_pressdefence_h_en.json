@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-09_tt_pressdefence_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "PRESS FREEDOM · ETHIOPIA",
+ "places": ["addis_ababa"],
+ "place_label": "Addis Ababa, Ethiopia",
+ "slides": [
+  {"title": "Ethiopian official defends media restrictions", "body": "Ambassador Redwan Hussein: outlets must follow the law."},
+  {"title": "No outlet is above the law", "body": "He said money, owners or foreign ties give no immunity, per Borkena."},
+  {"title": "Warnings before action", "body": "He said some outlets were advised up to 15 times before enforcement."},
+  {"title": "Rights group disagrees", "body": "Human Rights Watch calls the indefinite ban on The Reporter part of a civic-space crackdown."},
+  {"title": "Press freedom and open dialogue", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena (not independently verified) · Nov 6, 2026"
+}
