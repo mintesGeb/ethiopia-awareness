@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-09_tt_usalert_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "TRAVEL ALERT · TIGRAY, AMHARA & AFAR",
+ "places": ["tigray"],
+ "place_label": "Tigray, northern Ethiopia",
+ "slides": [
+  {"title": "Which parts of Ethiopia does the US say to avoid?"},
+  {"title": "Do not travel to three regions", "body": "US Embassy: Amhara (including Lalibela), Tigray and Afar. Leave if it is safe."},
+  {"title": "Flights to Axum and Shire suspended", "body": "The Embassy says the situation in Central Tigray and near the Eritrea border may change at any time."},
+  {"title": "Check several reliable sources", "body": "The Embassy warns some social media accounts post false or misleading reports."},
+  {"title": "Safety and access for civilians", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: U.S. Embassy Addis Ababa security alert · Nov 6, 2026"
+}
