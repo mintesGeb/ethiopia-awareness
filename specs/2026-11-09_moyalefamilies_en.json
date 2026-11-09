@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-09_moyalefamilies_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {"title": "Moyale's displaced: no camp, no food stocks", "body": "Al Jazeera, Nov 9, 2026"},
+  {"stat": "50,000+", "title": "people displaced, Kenya Red Cross says", "body": "Up from an estimated 36,000, including families staying with relatives and host communities. The total has not been independently confirmed."},
+  {"stat": "6", "title": "sites hosting Ethiopians in Kenya", "body": "Families arrived with little food, no cooking utensils or bedding. Diarrhoea is spreading and families fear malaria, Al Jazeera reports."},
+  {"title": "No refugee camp yet", "body": "Kenya's acting refugee commissioner said there are no contingency food stocks for this crisis, and a camp cannot be set up until security improves."},
+  {"stat": "30M birr", "title": "Ethiopian Red Cross aid inside Ethiopia", "body": "Shelter and household items (about $183,000) for 1,000 displaced households in and around Moyale town."},
+  {"stat": "~20%", "title": "price rises reported by traders", "body": "Trucks moving goods between Mombasa and Addis Ababa have been stranded near the border for almost two weeks, a local peace committee said."},
+  {"title": "Protect civilians. Let aid reach displaced families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera, Nov 9, 2026",
+ "card": {"stat": "50,000+", "title": "displaced by Moyale border clashes", "body": "Kenya Red Cross via Al Jazeera, Nov 9, 2026"}
+}
