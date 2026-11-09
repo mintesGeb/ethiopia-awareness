@@ -1,0 +1,19 @@
+{
+ "id": "2026-11-09_tt_waterminister_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": true,
+ "kicker": "ETHIOPIA · EGYPT · ABAY & RED SEA",
+ "places": ["addis_ababa"],
+ "place_label": "Addis Ababa, Ethiopia",
+ "slides": [
+  {"title": "Ethiopia's water minister speaks on Egypt, Abay and Red Sea", "body": "Interview with state media, Nov 8."},
+  {"title": "Minister: Egypt's efforts \"no longer effective\"", "body": "Habtamu Itefa says Cairo tried to block Abay projects and sea access."},
+  {"title": "GERD flows \"remained steady\"", "body": "He says water still reaches Egypt and Sudan downstream."},
+  {"title": "Egypt's response not reported", "body": "Single state-media source. Not independently verified."},
+  {"title": "Dialogue, not escalation", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: ENA (state media) via allAfrica · Nov 8, 2026"
+}
