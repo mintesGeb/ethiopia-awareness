@@ -1228,5 +1228,15 @@
   "slot": "10am",
   "status": "prepped for MG",
   "caption": "Merti Arsi Oromia Ethiopia news: 21 of 23 local areas in Merti Woreda are emptied of residents, community representatives say.\nHundreds of families remain without permanent shelter or steady aid, some displaced for up to three years. They rely on rented rooms or host families, residents report. The woreda administrator says daily relief is active but insufficient. Single source, not independently verified.\nSource: Borkena, Nov 9, 2026.\n#Ethiopia #Arsi #Oromia #Displacement #EthiopiaNews"
+ },
+ {
+  "date": "2026-11-10",
+  "id": "2026-11-10_tt_moyaleneeds_q_en",
+  "headline": "Moyale (Kenya) displaced Ethiopians' needs: rapid assessment of 758 households - 71% lack enough food, 44% lack enough drinking water; ~50,000 crossed since late Oct; IOM urges funding (UN News / IOM via allAfrica, Nov 9)",
+  "hook": "question",
+  "slot": "2pm",
+  "status": "prepped for MG",
+  "caption": "Moyale Kenya Ethiopia news: what do Ethiopians who fled to Moyale, Kenya need most?\nA rapid assessment of 758 households found 71% do not have enough to eat, and 44% lack enough drinking water. About 50,000 people have crossed the border since late October, the UN and IOM say. Most are staying with host families, though some sleep outdoors. IOM is calling for urgent funding.\nSource: UN News / IOM via allAfrica, Nov 9, 2026.\n#Ethiopia #Moyale #Kenya #EthiopiaNews #Humanitarian",
+  "hot": true
  }
 ]

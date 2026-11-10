@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-10_tt_moyaleneeds_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DISPLACEMENT · MOYALE, KENYA",
+ "places": ["moyale"],
+ "slides": [
+  {"title": "What do Ethiopians in Moyale, Kenya need?"},
+  {"title": "Food is the top need", "body": "71% do not have enough to eat, a rapid assessment of 758 households found."},
+  {"title": "Water and shelter are short", "body": "44% lack enough drinking water. Some sleep outdoors, IOM says."},
+  {"title": "About 50,000 have crossed", "body": "IOM: most stay with host families. It urges urgent funding."},
+  {"title": "Protect civilians, fund aid access", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UN News / IOM via allAfrica · Nov 9, 2026"
+}
