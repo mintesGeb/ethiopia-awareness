@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-10_tt_mertidisplaced_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "DISPLACEMENT · ARSI, OROMIA",
+ "places": ["oromia"],
+ "place_label": "Merti Woreda, Arsi Zone, Oromia",
+ "slides": [
+  {"stat": "21 of 23", "title": "Merti, Oromia: local areas emptied of residents"},
+  {"title": "Hundreds of families stranded", "body": "Community representatives say 21 of 23 local kebeles are emptied; families lack steady aid."},
+  {"title": "Displaced for up to 3 years", "body": "Many rely on rented rooms or host families, residents report."},
+  {"title": "Officials: aid not enough", "body": "The woreda administrator says daily relief is active but insufficient."},
+  {"title": "Protect civilians, open aid access", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena (single source, not independently verified) · Nov 9, 2026"
+}

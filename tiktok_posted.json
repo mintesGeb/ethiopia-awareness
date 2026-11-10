@@ -1219,5 +1219,14 @@
   "hot": true,
   "status": "prepped for MG",
   "caption": "Benishangul-Gumuz Ethiopia news: why are regional lawmakers seeking an emergency security session?\nA regional council committee wants regional and federal security commands to answer questions after an armed incident on Nov 5 in Buldigu Woreda, Assosa Zone. Officials say lives were reported lost and the final toll is still being verified; some suspects were detained. Single source, not independently verified.\nSource: Borkena, citing Addis Maleda, Nov 9, 2026.\n#Ethiopia #BenishangulGumuz #Assosa #EthiopiaNews #Accountability"
+ },
+ {
+  "date": "2026-11-10",
+  "id": "2026-11-10_tt_mertidisplaced_n_en",
+  "headline": "Merti Woreda (Arsi, Oromia): community representatives say 21 of 23 kebeles emptied of residents; hundreds of families without permanent shelter or steady aid; woreda administrator says relief active but insufficient (Borkena, Nov 9; single source, not independently verified)",
+  "hook": "number",
+  "slot": "10am",
+  "status": "prepped for MG",
+  "caption": "Merti Arsi Oromia Ethiopia news: 21 of 23 local areas in Merti Woreda are emptied of residents, community representatives say.\nHundreds of families remain without permanent shelter or steady aid, some displaced for up to three years. They rely on rented rooms or host families, residents report. The woreda administrator says daily relief is active but insufficient. Single source, not independently verified.\nSource: Borkena, Nov 9, 2026.\n#Ethiopia #Arsi #Oromia #Displacement #EthiopiaNews"
  }
 ]
