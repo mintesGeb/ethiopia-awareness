@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-10_moyaletalks_en",
+ "lang": "en",
+ "kicker": "CONFLICT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {"title": "Kenya presses Ethiopia over Moyale", "body": "The Star (Kenya) & Wazema Radio, Nov 9-10, 2026"},
+  {"title": "A call to Addis Ababa", "body": "Kenya's Musalia Mudavadi says he spoke with Ethiopian Foreign Minister Gedion Timotheos and urged him to calm the situation so people can return home."},
+  {"stat": "40,000", "title": "people evacuated to Kenya", "body": "Mudavadi's figure for people sheltering in Moyale. Other estimates are higher."},
+  {"title": "Clashes continue", "body": "Wazema Radio reports fighting between Oromia and Somali regional forces continued this week. Residents said federal forces had not deployed as of Monday."},
+  {"title": "Stray fire across the border", "body": "The Star cites reports of suspected stray bullets and unexploded explosives landing on the Kenyan side. Kenya sent extra police on Nov 5."},
+  {"title": "Protect civilians on both sides of the border.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Star (Kenya), Nov 9; Wazema Radio, Nov 10, 2026",
+ "card": {"title": "Kenya presses Ethiopia over Moyale", "body": "The Star (Kenya), Nov 9, 2026"}
+}
