@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-10_tt_benishangulsession_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "SECURITY OVERSIGHT · BENISHANGUL-GUMUZ",
+ "places": ["benishangul"],
+ "place_label": "Assosa Zone, Benishangul-Gumuz",
+ "slides": [
+  {"title": "Why are Benishangul-Gumuz lawmakers seeking an emergency session?"},
+  {"title": "Armed incident on Nov 5", "body": "Regional officials describe it in Buldigu Woreda, Assosa Zone, per Borkena."},
+  {"title": "Lives were reported lost", "body": "Officials say the final toll is still being verified. Some suspects were detained."},
+  {"title": "Council asks for oversight", "body": "A regional committee wants regional and federal security commands to answer questions."},
+  {"title": "Protect civilians, ensure accountability", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena, citing Addis Maleda (not independently verified) · Nov 9, 2026"
+}
