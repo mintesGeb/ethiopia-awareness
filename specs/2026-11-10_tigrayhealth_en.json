@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-10_tigrayhealth_en",
+ "lang": "en",
+ "kicker": "HEALTH CARE · TIGRAY",
+ "places": ["mekelle"],
+ "slides": [
+  {"title": "Tigray's hospitals: 'no place to step'", "body": "NPR, Nov 10, 2026"},
+  {"title": "An ER flooded for 7-8 days", "body": "A Mekelle surgeon told NPR that after fighting began in late September, war trauma patients filled the floors, with no phone network and no electricity."},
+  {"title": "Doctors unpaid for months", "body": "After the federal government cut funds to Tigray's regional administration, including its hospitals, doctors have not been paid in months, the surgeon said."},
+  {"stat": "100+", "title": "women died in childbirth in the past year", "body": "A Tigray health worker's count, citing lack of medicine, staff and fuel for ambulances. Not independently verified."},
+  {"stat": "63%", "title": "of health workers reported attacks on ambulances", "body": "PHR and OJAH survey of 600+ health workers in northern Ethiopia, covering 2020-2024. 57% saw an armed takeover of a clinic or hospital."},
+  {"title": "Abuses by more than one side", "body": "Researchers confirmed targeted attacks on health workers by both Tigrayan and government forces, NPR reports. Ethiopia's government did not respond to NPR."},
+  {"title": "Protect health workers. Let medicine through.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: NPR, Nov 10, 2026",
+ "card": {"stat": "63%", "title": "of surveyed health workers reported attacks on ambulances", "body": "PHR/OJAH survey via NPR, Nov 10, 2026"}
+}
