@@ -1,0 +1,16 @@
+{
+ "id": "2026-11-11_badme_en",
+ "lang": "en",
+ "kicker": "CONFLICT · TIGRAY-ERITREA BORDER",
+ "places": ["shire", "adwa"],
+ "place_label": "BADME & RAMA, TIGRAY-ERITREA BORDER",
+ "slides": [
+  {"title": "Fighting reported at Badme", "body": "Wazema Radio, Nov 11, 2026"},
+  {"title": "Clashes in the disputed town", "body": "Residents told Wazema federal troops fought TPLF forces in Badme last week, with Eritrean troops also reportedly involved."},
+  {"title": "Fresh fighting near Rama", "body": "Residents say federal forces clashed on Monday with a reported joint armed force in Rama and Gemahalo. Wazema could not verify the force's make-up."},
+  {"stat": "140,000", "title": "public employees in Tigray", "body": "Federal adviser Getachew Reda's figure. Salary arrears are due to start Nov 11, only for staff who reported to work."},
+  {"title": "Protect civilians along the border.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio, Nov 11, 2026",
+ "card": {"title": "Fighting reported at Badme", "body": "Wazema Radio, Nov 11, 2026"}
+}
