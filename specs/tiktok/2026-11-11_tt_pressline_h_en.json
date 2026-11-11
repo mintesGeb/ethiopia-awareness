@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-11_tt_pressline_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "PRESS FREEDOM · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia media restrictions: a timeline", "body": "What CPJ has recorded since Oct 2025."},
+  {"title": "Oct 2025: Deutsche Welle licences", "body": "All nine correspondents suspended; seven have resumed work, CPJ says."},
+  {"title": "Jan-Feb 2026: licence and accreditation", "body": "Wazema Radio's licence revoked. Reuters accreditation revoked Feb 14; restored Aug 28, per Reuters."},
+  {"title": "Nov 2026: The Reporter suspended", "body": "CPJ reports the Media Authority suspended the newspaper indefinitely."},
+  {"title": "Protect journalists, restore licences", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: CPJ · Feb 16 (updated Sep 15) and Nov 2026"
+}
