@@ -1,0 +1,19 @@
+{
+ "id": "2026-11-11_tt_abbayforum_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "hot": true,
+ "kicker": "ETHIOPIA · ABAY & RED SEA",
+ "places": ["addis_ababa"],
+ "place_label": "Addis Ababa, Ethiopia",
+ "slides": [
+  {"title": "What is Ethiopia's new Abbay and Red Sea Forum?"},
+  {"title": "Launched in Addis Ababa", "body": "Civil society leaders and experts start a forum on Nile and Red Sea issues."},
+  {"title": "Water minister: sea access a \"strategic priority\"", "body": "Habtamu Itefa spoke at the launch, Borkena reports."},
+  {"title": "Egypt, Somalia, Djibouti met in Tripoli", "body": "Egypt's delegation said Red Sea security is for coastal states."},
+  {"title": "Dialogue, not escalation", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena · Nov 9, 2026 (single source, not independently verified)"
+}
