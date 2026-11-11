@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-10_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 10, 2026"},
+  {"title": "Moyale, Kenya: 71% of displaced families lack enough food", "body": "IOM assessment of 758 households, via UN News."},
+  {"title": "Mekelle: night vehicle ban and home searches announced", "body": "Borkena, citing military officials. TPLF calls the reason a pretext. Not independently verified."},
+  {"title": "Benishangul-Gumuz lawmakers seek emergency security session", "body": "Borkena, citing Addis Maleda. Not independently verified."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: UN News/IOM, Borkena · Nov 6-10, 2026"
+}
