@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-11_tt_tigraysalaries_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "PUBLIC SERVICES · TIGRAY",
+ "places": ["tigray"],
+ "place_label": "Tigray",
+ "slides": [
+  {"stat": "140,000", "title": "Tigray public employees: pay to resume"},
+  {"title": "Salary payments to begin", "body": "Getachew Reda, federal adviser, said on X the interim authorities will pay civil servants."},
+  {"title": "Arrears for about 140,000 staff", "body": "Wazema Radio: only staff who reported to work will be paid."},
+  {"title": "Pay had been withheld", "body": "Reported disputes over federal budget transfers delayed salaries."},
+  {"title": "Pay workers, keep services open", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio (Nov 11); Critical Threats (Nov 10) · not independently verified"
+}
