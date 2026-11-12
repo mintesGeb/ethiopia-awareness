@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-12_moyalesurvey_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {"title": "What Moyale's displaced families told aid assessors", "body": "UN News / IOM, Nov 9, 2026"},
+  {"stat": "758", "title": "households surveyed in Moyale, Kenya", "body": "A rapid assessment by Kenyan authorities with IOM, UN agencies and NGOs, after roughly 50,000 people crossed from Ethiopia since late October."},
+  {"stat": "71%", "title": "do not have enough to eat", "body": "And 80% named food as their most urgent need."},
+  {"stat": "44%", "title": "lack enough drinking water", "body": "More than three-quarters have no handwashing facility."},
+  {"stat": "96%", "title": "fled mainly from Oromia and Somali regions", "body": "Nine in 10 people said their entire village had fled."},
+  {"title": "More than half are children", "body": "Many are under five, IOM says. More than half of households report difficulty getting health care, mainly due to costs and medicine shortages."},
+  {"title": "Protect civilians. Let aid reach displaced families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UN News (IOM), Nov 9, 2026",
+ "card": {"stat": "71%", "title": "of surveyed displaced households in Moyale lack enough to eat", "body": "IOM rapid assessment via UN News, Nov 9, 2026"}
+}
