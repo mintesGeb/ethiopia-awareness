@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-12_tt_jimmaprotests_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "hot": true,
+ "kicker": "CIVIC UNREST · OROMIA",
+ "places": ["jimma"],
+ "slides": [
+  {"stat": "50+", "title": "Reported detained after Jimma protests"},
+  {"title": "Residents protested this week", "body": "Jimma residents told Addis Standard anger centres on forced recruitment and extortion."},
+  {"title": "One resident's account", "body": "A resident says young men are taken and families are not told where. Unverified."},
+  {"title": "Lives reported lost; no verification", "body": "Addis Standard could not verify the toll or arrests. No official comment reported."},
+  {"title": "Protect civilians, allow independent inquiry", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard (Nov 12) · single source, not independently verified"
+}
