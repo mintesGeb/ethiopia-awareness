@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-11_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 11, 2026"},
+  {"title": "G7 ministers urge restraint and safe aid access on Ethiopia-Eritrea", "body": "G7 foreign ministers' joint declaration, Paris, published Nov 11."},
+  {"title": "Tigray: salaries due for about 140,000 public employees", "body": "Wazema Radio, citing Getachew Reda. Not independently verified."},
+  {"title": "Egypt and Sudan form a committee on the GERD dam", "body": "Wazema Radio. Ethiopia has its own Nile committee. Single source."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: G7 declaration (GOV.UK), Wazema Radio · Nov 10-11, 2026"
+}
