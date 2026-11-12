@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-12_tt_abiadishelter_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "DISPLACEMENT · TIGRAY",
+ "places": ["tigray"],
+ "place_label": "ABI ADI, TIGRAY",
+ "slides": [
+  {"title": "Who is still sheltering in Abi Adi, Tigray?"},
+  {"title": "A school turned shelter", "body": "Al Jazeera: families from Western Tigray share classrooms in Abi Adi."},
+  {"title": "Years away from home", "body": "One father says they expected to stay only months before returning."},
+  {"title": "Medicine shortages reported", "body": "A mother and Mekelle hospital doctors say needed medicines are scarce."},
+  {"title": "Protect civilians, ensure aid access", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera (Nov 11, 2026) · accounts of displaced families, not independently verified"
+}
