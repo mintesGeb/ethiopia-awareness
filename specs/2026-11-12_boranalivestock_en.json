@@ -1,0 +1,16 @@
+{
+ "id": "2026-11-12_boranalivestock_en",
+ "lang": "en",
+ "kicker": "LIVELIHOODS · BORANA, OROMIA",
+ "places": ["borana"],
+ "slides": [
+  {"title": "Borana's cattle markets have gone quiet", "body": "Fighting that began in Moyale has spread into parts of Borana, now in its third week, Addis Standard reports."},
+  {"stat": "~40 → 3", "title": "cattle trucks at Haroo Bakkee's Sunday market", "body": "A resident said about 40 trucks used to come. Now three or fewer arrive."},
+  {"stat": "70,000–90,000 Birr", "title": "for a young bull that sold for 120,000–150,000", "body": "A Yabello District resident told Addis Standard prices have collapsed."},
+  {"title": "Buyers from Kenya have stopped coming", "body": "Traders from Marsabit, Moyale and Sololo have left. Only local butchers buy, at low prices, a Dubuluq resident said."},
+  {"stat": "90%+", "title": "drop in market activity, an economist estimates", "body": "A Borana University economist warned that selling breeding stock now could leave families in long-term poverty."},
+  {"title": "Protect civilians. Get food aid to herding families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard, Nov 11, 2026",
+ "card": {"stat": "~40 → 3", "title": "cattle trucks at a Borana market since fighting spread, a resident says", "body": "Addis Standard, Nov 11, 2026"}
+}
