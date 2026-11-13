@@ -1,0 +1,44 @@
+{
+ "id": "2026-11-13_fewsnetnorth_en",
+ "lang": "en",
+ "kicker": "FOOD SECURITY · TIGRAY, AMHARA & AFAR",
+ "places": [
+  "tigray",
+  "amhara"
+ ],
+ "place_label": "Tigray, Amhara, Afar",
+ "slides": [
+  {
+   "title": "Northern Ethiopia faces emergency hunger risk",
+   "body": "FEWS NET warns drought and fighting are colliding."
+  },
+  {
+   "title": "Emergency (IPC Phase 4) possible from February 2027",
+   "body": "In the worst drought-hit parts of Tigray, Amhara and Afar, FEWS NET projects."
+  },
+  {
+   "title": "Fighting has disrupted farming and trade",
+   "body": "FEWS NET says conflict intensified in late September in eastern, central and northwestern Tigray and in eastern and northern Amhara."
+  },
+  {
+   "stat": "73%",
+   "title": "drop in people reached with food aid from August to September",
+   "body": "Just over 700,000 got food aid in September. Coverage may be higher, as some data was missing."
+  },
+  {
+   "stat": "40%+",
+   "title": "crop losses in the East and West Hararghe lowlands",
+   "body": "Some of the most vulnerable households there could also face Emergency outcomes, FEWS NET says."
+  },
+  {
+   "title": "Protect civilians. Let food aid reach every area.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: FEWS NET via Addis Standard, Nov 12, 2026",
+ "card": {
+  "stat": "73%",
+  "title": "drop in people reached with food aid, Aug to Sept 2026",
+  "body": "FEWS NET via Addis Standard, Nov 12, 2026"
+ }
+}
