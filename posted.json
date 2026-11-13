@@ -1642,5 +1642,15 @@
   "source": "Al Jazeera, Nov 11 2026; AFP via Arab News, Mar 23 2026",
   "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade",
   "post_id": "2032943800713739"
+ },
+ {
+  "date": "2026-11-13",
+  "slot": "4pm",
+  "lang": "am",
+  "type": "reel",
+  "headline": "FEWS NET northern Ethiopia hunger outlook (Amharic; repeat of 7am English story): Emergency (IPC 4) possible from Feb 2027 in worst drought-hit Tigray/Amhara and northern Afar; kiremt rain <=50% of average; >700,000 got food aid in Sept, 73% drop from Aug; fighting intensified late Sept in Tigray/Amhara; Hararghe lowland crop losses >40%",
+  "source": "FEWS NET via Addis Standard/allAfrica, Nov 12 2026",
+  "url": "https://allafrica.com/stories/202611120598.html",
+  "post_id": "4496904680624700"
  }
 ]
