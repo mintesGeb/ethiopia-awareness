@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-13_tt_caretakermandate_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "GOVERNANCE · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray's caretaker government: what is its job?"},
+  {"title": "Six months, five appointed officials", "body": "Announced Oct 16; they follow federal directives."},
+  {"title": "Mandate: services and returns", "body": "Repair infrastructure, restore health and schools, support voluntary IDP returns."},
+  {"title": "Goal: free and fair elections", "body": "Per Capital Ethiopia; PM Abiy pledged free elections, AFP reported."},
+  {"title": "Dialogue, aid access, safe returns", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Capital Ethiopia, AFP via Al Jazeera (Oct 16, 2026)"
+}
