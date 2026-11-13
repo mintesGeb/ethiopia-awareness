@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-13_tt_fewsnet_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": false,
+ "kicker": "FOOD SECURITY · TIGRAY & AMHARA",
+ "places": ["tigray", "amhara"],
+ "slides": [
+  {"title": "Hunger warning for northern Ethiopia", "body": "FEWS NET outlook, published Nov 10."},
+  {"title": "Emergency level possible from Feb 2027", "body": "Drought-hit parts of Tigray, Amhara and Afar, FEWS NET says."},
+  {"title": "Food aid reached fewer people", "body": "About 700,000 reached in September, 73% below August, as reported. Coverage may be higher."},
+  {"title": "Access and aid are key", "body": "Reports are secondary and not independently verified."},
+  {"title": "Protect civilians, keep aid access open", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: FEWS NET via Addis Standard / allAfrica (Nov 12) · not independently verified"
+}
