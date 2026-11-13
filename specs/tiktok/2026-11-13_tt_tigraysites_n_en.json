@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-13_tt_tigraysites_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "DISPLACEMENT · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"stat": "78", "title": "Tigray displacement sites assessed for aid gaps"},
+  {"title": "Food: 95% of sites say aid is not enough", "body": "Aid cluster survey, July 2026."},
+  {"title": "45 of 78 sites have no protection services", "body": "Another 33 say services are insufficient."},
+  {"title": "The cluster's conclusion", "body": "Response scale \"remains inadequate\". Background report; not independently verified."},
+  {"title": "Aid access and protection for displaced families", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Eastleigh Voice, on SLSC Cluster assessment (July 2026)"
+}
