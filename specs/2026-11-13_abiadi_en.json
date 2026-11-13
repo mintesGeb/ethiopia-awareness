@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-13_abiadi_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · CENTRAL TIGRAY",
+ "places": ["tigray"],
+ "place_label": "Abi Adi, Tigray",
+ "slides": [
+  {"title": "Displaced since 2020, still living in classrooms", "body": "Families from Western Tigray shelter in a former high school in Abi Adi."},
+  {"title": "Short of food, clean water and medicine", "body": "Families at the site told Al Jazeera. Crowding is hardest on children, older people and the chronically ill."},
+  {"title": "Clinics often lack the medicines children need", "body": "A mother of two from Humera says families are told to buy them at private pharmacies they cannot afford."},
+  {"title": "Shortages reach Tigray's main referral hospital", "body": "Doctors at Ayder Hospital in Mekelle, speaking anonymously, say patients must buy prescriptions privately."},
+  {"stat": "1,309", "title": "deaths from hunger and lack of medicine in Tigray displacement camps over three years", "body": "A Tigray regional official told AFP in March 2026. Not independently verified."},
+  {"title": "Renewed fighting since September deepens their fear", "body": "Return to Western Tigray remains one of the most disputed issues since the 2022 Pretoria deal, Al Jazeera notes."},
+  {"title": "Protect civilians. Let aid and medicine reach the displaced.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera, Nov 11, 2026; AFP, Mar 23, 2026",
+ "card": {"stat": "1,309", "title": "deaths from hunger and lack of medicine in Tigray displacement camps over 3 years", "body": "Tigray regional official to AFP, Mar 2026"}
+}
