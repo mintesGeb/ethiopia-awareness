@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-14_tigraysurvey_en",
+ "lang": "en",
+ "kicker": "HUMANITARIAN · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray survey: families going to bed hungry", "body": "A new Refugees International brief, Nov 13, 2026"},
+  {"stat": "6 in 10", "title": "displaced households had someone sleep hungry in the past month", "body": "Survey of 452 households, Aug-Sep 2026. In host communities: 4 in 10."},
+  {"stat": "4%", "title": "of displaced households surveyed received food assistance", "body": "95% got some cash assistance, the brief says."},
+  {"stat": "23%", "title": "of children surveyed in displacement sites were acutely malnourished", "body": "32% among children surveyed in host communities."},
+  {"stat": "250+", "title": "ambulances grounded for lack of fuel, officials told researchers", "body": "Federal officials denied cutting Tigray's fuel supply in February (The Reporter)."},
+  {"stat": "97%", "title": "of displaced households surveyed live in temporary shelter", "body": "80% have no electricity."},
+  {"title": "Let aid, fuel for clinics and medicine reach civilians.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Refugees International, Tigray Humanitarian Snapshot, Nov 13, 2026",
+ "card": {"stat": "6 in 10", "title": "displaced households in Tigray had someone sleep hungry in the past month", "body": "Refugees International survey, Nov 2026"}
+}
