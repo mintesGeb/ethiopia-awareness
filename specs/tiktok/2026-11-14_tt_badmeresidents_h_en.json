@@ -1,0 +1,35 @@
+{
+ "id": "2026-11-14_tt_badmeresidents_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "kicker": "ETHIOPIA-ERITREA BORDER · BADME",
+ "places": [
+  "tigray"
+ ],
+ "place_label": "BADME, TIGRAY BORDER",
+ "slides": [
+  {
+   "title": "Families leave Badme, Ethiopia-Eritrea border",
+   "body": "Residents report night explosions."
+  },
+  {
+   "title": "What residents say",
+   "body": "Explosions at night, shops shut, more federal forces nearby (Addis Standard)."
+  },
+  {
+   "title": "Control of the town is unclear",
+   "body": "ACLED, Nov 13: neither side controlled Badme. Diplomats' claims not independently verified."
+  },
+  {
+   "title": "G7 urges maximum restraint",
+   "body": "No government reply reported."
+  },
+  {
+   "title": "Protect civilians. Choose dialogue.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Source: Addis Standard via Anadolu (UA.NEWS), ACLED (Nov 14, 2026)"
+}
