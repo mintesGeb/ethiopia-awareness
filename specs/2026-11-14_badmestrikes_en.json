@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-14_badmestrikes_en",
+ "lang": "en",
+ "kicker": "CONFLICT · ETHIOPIA-ERITREA BORDER",
+ "places": ["shire"],
+ "place_label": "BADME AREA, ETHIOPIA-ERITREA BORDER",
+ "slides": [
+  {"title": "Drones and artillery reported near Badme", "body": "Update · Nov 14, 2026"},
+  {"title": "Fighting has intensified", "body": "Two diplomatic sources told Addis Standard clashes near Badme are heavier than earlier low-level fighting."},
+  {"title": "Both sides reportedly firing", "body": "The diplomats said Ethiopian forces used drones and Eritrean troops used heavy artillery. Neither government has commented."},
+  {"title": "Residents leaving", "body": "Residents described explosions at night, closed businesses and families fleeing their homes."},
+  {"title": "Who controls the town?", "body": "ACLED (Nov 13): neither side. A resident told Addis Standard federal troops have been there since Nov 12."},
+  {"title": "Protect civilians. Exercise restraint.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via Anadolu Agency, Nov 14, 2026",
+ "card": {"title": "Drones and artillery reported near Badme", "body": "Addis Standard via Anadolu, Nov 14, 2026"}
+}
