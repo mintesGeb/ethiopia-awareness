@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-13_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 13, 2026"},
+  {"title": "US Embassy: do not travel to Tigray, Amhara, Afar", "body": "Alert also says flights to Axum and Shire are suspended."},
+  {"title": "Residents describe forced conscription in Oromia", "body": "Addis Standard, Globe and Mail, via Critical Threats. Unverified."},
+  {"title": "Eritrea rejects Ethiopia's accusations", "body": "Its information ministry replied Nov 12, per Critical Threats. Unverified."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: US Embassy Ethiopia, Addis Standard, Critical Threats · Nov 12-13, 2026"
+}
