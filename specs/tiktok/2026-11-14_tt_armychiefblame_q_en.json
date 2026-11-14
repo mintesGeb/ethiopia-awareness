@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-14_tt_armychiefblame_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "kicker": "TIGRAY · ETHIOPIA-ERITREA TENSIONS",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Who does Ethiopia blame in Tigray?"},
+  {"title": "Army chief's claim", "body": "Ethiopia says Eritrea led a military push in Tigray with the TPLF (Al Jazeera)."},
+  {"title": "Egypt is named too", "body": "Ethiopia says Egypt gave logistical support. Not independently verified."},
+  {"title": "Replies so far", "body": "Al Jazeera reports no Egypt or Eritrea comment. Eritrea rejected earlier accusations on Nov 12."},
+  {"title": "Protect civilians. Choose dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera (Nov 14, 2026), Critical Threats (Nov 13)"
+}
