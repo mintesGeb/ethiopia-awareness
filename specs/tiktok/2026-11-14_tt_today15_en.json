@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-14_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 14, 2026"},
+  {"title": "ACLED: neither side holds Badme town", "body": "Reported Nov 13. Accounts conflict. Unverified."},
+  {"title": "G7 urges maximum restraint on Ethiopia-Eritrea", "body": "Foreign ministers voiced great concern Nov 11."},
+  {"title": "Tigray interim government faces internal disputes", "body": "Over appointments and civil servants' pay, per Critical Threats."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: ACLED, Critical Threats Project · Nov 11-13, 2026"
+}
