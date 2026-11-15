@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-15_waghemra_en",
+ "lang": "en",
+ "kicker": "HUNGER · WAG HEMRA, AMHARA",
+ "places": ["amhara"],
+ "place_label": "WAG HEMRA, AMHARA",
+ "slides": [
+  {"title": "Drought and war bring hunger to Wag Hemra", "body": "DW Amharic report, via Borkena, Nov 12, 2026"},
+  {"stat": "66,000+", "title": "residents of Sahla Seyemt woreda directly hit by drought", "body": "Local officials say rains failed for consecutive seasons."},
+  {"stat": "5", "title": "drought-related deaths in official records in that woreda", "body": "Per the local early warning team head. Not independently verified."},
+  {"title": "Families are leaving home", "body": "Church officials say new arrivals sleep outdoors near a church in Sekota, then move on toward Raya."},
+  {"stat": "11,000", "title": "quintals of grain allocated to the zone, the Amhara commission says", "body": "Food distributions target 66,000+ people in five woredas."},
+  {"title": "Not enough, residents say", "body": "Locals warn rations fall short after total crop failure, and call for more food and medical aid."},
+  {"title": "Scale up food and medical aid for drought-hit families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena citing DW Amharic, Nov 12, 2026",
+ "card": {"stat": "66,000+", "title": "people targeted for emergency food aid in Wag Hemra, Amhara", "body": "Amhara disaster commission via DW Amharic, Nov 2026"}
+}
