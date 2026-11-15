@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-15_tt_uspolicy_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": false,
+ "kicker": "US POLICY · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "US policy on Ethiopia: key points", "body": "US Congress research brief, Nov 6."},
+  {"title": "State Dept urges dialogue", "body": "Ethiopia and Eritrea should respect each other's sovereignty and return to dialogue, per CRS."},
+  {"title": "Lawmakers urge de-escalation", "body": "Several Senate and House Democrats asked for restraint, CRS reports."},
+  {"title": "Aid is shrinking", "body": "CRS says the US has reduced foreign aid to Ethiopia, including humanitarian aid."},
+  {"title": "Protect civilians, keep aid access open", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Congressional Research Service, In Focus IF13344 (Nov 6, 2026)"
+}
