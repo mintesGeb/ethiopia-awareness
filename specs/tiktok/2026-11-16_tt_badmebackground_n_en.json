@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-16_tt_badmebackground_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "hot": false,
+ "kicker": "BORDER · ETHIOPIA & ERITREA",
+ "places": ["tigray"],
+ "slides": [
+  {"stat": "2002", "title": "Year Badme was awarded to Eritrea", "body": "Why Badme is in the news."},
+  {"text": "Daily News Egypt reports Badme was a flashpoint of the **1998-2000 border conflict**, then awarded to **Eritrea in 2002** by a boundary commission."},
+  {"text": "Per the same report, **Ethiopia kept control** of Badme until the **2018 peace deal** between the two countries."},
+  {"text": "Residents told **BBC Amharic** on Nov 14 that families are leaving villages near Badme. **No casualty figures** have been published."},
+  {"text": "**Protect civilians, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Daily News Egypt, Nov 14, 2026"
+}
