@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-16_tigrayfuel_en",
+ "lang": "en",
+ "kicker": "HEALTH · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray's ambulances have run out of fuel", "body": "Refugees International brief, Nov 13, 2026"},
+  {"stat": "250+", "title": "ambulances unable to operate by September", "body": "Tigray health officials told Refugees International. 740 outreach vehicles were also grounded."},
+  {"stat": "130,000", "title": "liters of fuel the health sector needs each month", "body": "Officials said none of it had arrived by the time of the survey."},
+  {"stat": "45%", "title": "of essential medicines still available, officials said", "body": "They also reported no cholera kits in the region."},
+  {"title": "Health workers unpaid", "body": "Officials said nearly all health workers went unpaid in August after federal salary transfers stopped."},
+  {"title": "Federal side disputes cutoff", "body": "In February, Ethiopia's Petroleum and Energy Authority called fuel cutoff claims false (The Reporter)."},
+  {"title": "Let fuel and medicine reach Tigray's clinics.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Refugees International, Nov 13, 2026",
+ "card": {"stat": "250+", "title": "ambulances grounded in Tigray for lack of fuel", "body": "Refugees International, Nov 13, 2026"}
+}
