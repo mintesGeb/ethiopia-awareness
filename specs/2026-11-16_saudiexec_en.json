@@ -1,0 +1,15 @@
+{
+ "id": "2026-11-16_saudiexec_en",
+ "lang": "en",
+ "kicker": "MIGRANT RIGHTS · TIGRAY & SAUDI ARABIA",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray families fear executions abroad", "body": "Ethiopians on death row in Saudi Arabia"},
+  {"stat": "520", "body": "Ethiopians sentenced to death in Saudi Arabia for drug trafficking, most from Tigray, a Tigray youth official said. Not independently verified."},
+  {"stat": "34", "body": "Ethiopians executed in Saudi Arabia so far in 2026, according to an AFP tally of official statements."},
+  {"title": "Trials without lawyers, official says", "body": "The official said most were tried without a lawyer or interpreter, some after being deceived by brokers. Families fear more executions."},
+  {"title": "Fair trials. Protect migrants.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard, Nov 16, 2026; AFP, Nov 12, 2026",
+ "card": {"title": "Tigray families fear executions abroad", "body": "Addis Standard, Nov 16, 2026"}
+}
