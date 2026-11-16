@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-16_tt_moyaleaidgap_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": false,
+ "kicker": "AID · MOYALE, KENYA",
+ "places": ["moyale"],
+ "slides": [
+  {"title": "Aid struggles to reach 50,000 Ethiopians in Kenya", "body": "Al Jazeera reports from Moyale, Nov 15."},
+  {"title": "No emergency food stock", "body": "Kenya's refugee affairs official says none was held for this sudden arrival."},
+  {"title": "Needs are wide", "body": "Food, shelter, bedding and healthcare, per Al Jazeera, Nov 9."},
+  {"title": "Aid agencies seek $8.9 million", "body": "UNHCR, UNICEF and WFP appeal, reported by Africanews, Nov 10."},
+  {"title": "Fund aid access, protect civilians", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera, Nov 9 and 15, 2026; Africanews, Nov 10"
+}
