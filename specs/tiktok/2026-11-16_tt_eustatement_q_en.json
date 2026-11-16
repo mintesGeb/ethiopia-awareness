@@ -8,11 +8,21 @@
  "kicker": "DIPLOMACY · ETHIOPIA & ERITREA",
  "places": [],
  "slides": [
-  {"title": "What does the EU ask of Ethiopia and Eritrea?"},
-  {"title": "Immediate de-escalation", "body": "The EU calls for it on all fronts, and for restraint in actions and rhetoric."},
-  {"title": "Back to the AU framework", "body": "Parties to the Cessation of Hostilities Agreement should recommit to it, the EU says."},
-  {"title": "Civilians and aid access", "body": "The EU says civilians must be protected and humanitarian access unhindered."},
-  {"title": "Protect civilians, choose dialogue", "body": "Follow for sourced updates from across Ethiopia."}
+  {
+   "title": "What does the EU ask of Ethiopia and Eritrea?"
+  },
+  {
+   "text": "In a statement dated **Oct 5**, the EU calls for **immediate de-escalation on all fronts** and restraint in actions and rhetoric."
+  },
+  {
+   "text": "It asks the parties to the **Cessation of Hostilities Agreement** to recommit to it within the **African Union** framework."
+  },
+  {
+   "text": "The EU says **civilians must be protected** and **humanitarian access** must be unhindered."
+  },
+  {
+   "text": "**Protect civilians, choose dialogue.** Follow for sourced updates from across Ethiopia."
+  }
  ],
  "source": "Source: EU High Representative statement, Oct 5, 2026"
 }

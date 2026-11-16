@@ -188,3 +188,16 @@ aid/policy videos settled at ~200 views. The hot videos (Aksum 669, Moyale 908) 
 - After the caption, in the push notification and in the final chat reply, add one line:
   "Voice line: <slide-1 text, max ~12 words>" so MG can add TikTok text-to-speech. For Amharic videos write
   "Voice line: none (Amharic)".
+
+## Slide format change (MG, Nov 16, 2026) — one complete sentence per slide
+- MG: a bold title plus a separate lighter line often did not make full sense on its own. Keep slide 1 exactly as
+  before (the hook: question / number / headline title; MG likes these, they are the main part).
+- Slides 2 to the second-last: NO title+body pairs. Use ONE complete, self-contained sentence per slide:
+  {"text": "In a statement dated **Oct 5**, the EU calls for **immediate de-escalation on all fronts**."}
+  Wrap the key facts (numbers, place names, who/what) in **double asterisks** (bold, bright); the rest renders
+  lighter. Each sentence must make sense alone and carry who + what + where/when, with attribution
+  ("Al Jazeera reports...", "the UN says..."). Max ~22 words, 2-3 bolded phrases, not the whole sentence.
+- Last slide: {"text": "**Protect civilians, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+  (Amharic: same pattern in Amharic). Hot-news slide-length rule (~12 words) still applies where it is stricter.
+- Renderer: tools/render_media.py supports the "text" key (works for en and am). 11 PM recap slides may keep
+  title + one line, but write each headline as a full sentence with bold key facts too.

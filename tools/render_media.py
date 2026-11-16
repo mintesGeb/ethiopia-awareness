@@ -12,6 +12,7 @@ spec.json:
   "brand": "Be-Aware",                     # page name shown small at the top (optional)
   "kicker": "FOOD SECURITY · TIGRAY & OROMIA",
   "slides": [                               # 4-6 slides; first = hook, last = call to action
+    # NEW (Nov 16): {"text": "One full sentence with **bold key facts**, places and numbers."} (no title/body)
     {"title": "Hunger is rising behind the headlines", "body": "optional smaller text"},
     {"stat": "40%+", "body": "estimated crop losses in East & West Hararghe"},
     ...
@@ -140,6 +141,45 @@ def draw_locator(d, spec, x, y, w):
     return int(mh + 70)
 
 
+RICH_REG = (196, 203, 215)
+
+
+def rich_tokens(text):
+    """'**Moyale** has 50,000 people' -> [(word, bold)]; ** may span several words."""
+    out, bold, prev_space = [], False, True
+    for part in text.split("**"):
+        for k, w in enumerate(part.split()):
+            # glue = no space before this word (e.g. "." directly after bold text)
+            glue = k == 0 and bool(out) and not part[:1].isspace() and not prev_space
+            out.append((w, bold, glue))
+        if part:
+            prev_space = part[-1].isspace()
+        bold = not bold
+    return out
+
+
+def rich_fit(draw, text, lang, maxw, maxh, size=78, lh=1.3, minsize=44):
+    """One complete sentence, regular weight with **bold** key facts. Returns (fonts, lines, size, height)."""
+    toks = rich_tokens(text)
+    while True:
+        fr, fb = font(lang, "reg", size), font(lang, "black" if lang == "am" else "bold", size)
+        space = draw.textlength(" ", font=fr)
+        lines, cur, curw = [], [], 0
+        for w, b, g in toks:
+            ww = draw.textlength(w, font=fb if b else fr)
+            add = ww + (space if cur and not g else 0)
+            if cur and curw + add > maxw and not g:
+                lines.append(cur); cur, curw = [(w, b, False)], ww
+            else:
+                cur.append((w, b, g)); curw += add
+        if cur:
+            lines.append(cur)
+        h = int(len(lines) * size * lh)
+        if h <= maxh or size <= minsize:
+            return (fr, fb, space), lines, size, h
+        size -= 4
+
+
 def text_layer(slide, spec, w, h, idx, total, card=False):
     """Transparent RGBA layer with all text for one slide."""
     lang = spec.get("lang", "en")
@@ -187,12 +227,26 @@ def text_layer(slide, spec, w, h, idx, total, card=False):
         room = max(120, zone_bot - zone_top - used)   # body gets whatever space is left, so nothing overflows
         f, lines, s, bh = fit(d, slide["body"], lang, "reg", 58, maxw, min(room, 680), lh=1.3, minsize=32)
         blocks.append((f, lines, s, bh, INK if not slide.get("title") else MUTED, 1.3))
+    if slide.get("text"):
+        used = sum(int(len(b[1]) * b[2] * b[5]) for b in blocks) + 44 * len(blocks)
+        room = max(200, zone_bot - zone_top - used)
+        fs, lines, s_, bh = rich_fit(d, slide["text"], lang, maxw, min(room, 900))
+        blocks.append((fs, lines, s_, bh, None, 1.3))
     gap = 44
     total_h = sum(int(len(b[1]) * b[2] * b[5]) for b in blocks) + gap * (len(blocks) - 1)
     y = zone_top + max(0, (zone_bot - zone_top - total_h) // 2)
     for f, lines, s, bh, col, lh in blocks:
         for ln in lines:
-            d.text((mx, y), ln, font=f, fill=col)
+            if col is None:          # rich sentence: list of (word, bold)
+                fr, fb, space = f
+                x = mx
+                for k, (wd, bd, gl) in enumerate(ln):
+                    if k and not gl:
+                        x += space
+                    d.text((x, y), wd, font=fb if bd else fr, fill=INK if bd else RICH_REG)
+                    x += d.textlength(wd, font=fb if bd else fr)
+            else:
+                d.text((mx, y), ln, font=f, fill=col)
             y += int(s * lh)
         y += gap
     # Reels, last slide only: a small "Follow for more" arrow pointing left at Facebook's
@@ -289,7 +343,7 @@ def render_video(spec, out_dir):
     n = len(slides)
     durs = []
     for s in slides:
-        words = len((s.get("title", "") + " " + s.get("body", "") + " " + s.get("stat", "")).split())
+        words = len((s.get("title", "") + " " + s.get("body", "") + " " + s.get("stat", "") + " " + s.get("text", "").replace("**", "")).split())
         if spec.get("platform") == "tiktok":
             durs.append(min(4.6, max(2.8, 1.2 + words * 0.21)))     # TikTok: quicker pacing
         else:
