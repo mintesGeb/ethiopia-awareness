@@ -1,0 +1,19 @@
+{
+ "id": "2026-11-17_tt_moyaledispute_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "hot": false,
+ "kicker": "BORDER DISPUTE · MOYALE, BORANA",
+ "places": ["borana"],
+ "place_label": "MOYALE, BORANA",
+ "slides": [
+  {"title": "Why is Moyale's border dispute still unresolved?"},
+  {"text": "Al Jazeera reports the Oromia–Somali regional dispute has disrupted **trade, transport and daily life** around **Moyale** since October."},
+  {"text": "An unnamed security official told Al Jazeera that **mediation failed** and **federal involvement** is needed. Not independently verified."},
+  {"text": "Al Jazeera notes a **2004 referendum** covered **463 border communities**, but the **Moyale case** was left unresolved."},
+  {"text": "**Protect civilians, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera, Nov 17, 2026"
+}
