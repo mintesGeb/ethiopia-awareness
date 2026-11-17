@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-17_tt_addisstandardcourt_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": true,
+ "kicker": "PRESS FREEDOM · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "Court lets Addis Standard's case go ahead", "body": "Federal High Court, Addis Ababa"},
+  {"text": "Addis Standard reports the **Federal High Court** rejected the **Media Authority's** objection and has **jurisdiction** over the case."},
+  {"text": "The outlet's online registration was **revoked in February**; its publisher says it got **no warning** and no reports were named."},
+  {"text": "The ruling does **not decide** whether the revocation was lawful. The next hearing is set for **Dec 9**."},
+  {"text": "**Protect press freedom, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via allAfrica, Nov 16, 2026"
+}
