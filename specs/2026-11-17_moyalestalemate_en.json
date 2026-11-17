@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-17_moyalestalemate_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT IN ETHIOPIA · OROMIA-SOMALI BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, BORANA ZONE",
+ "slides": [
+  {"title": "A month on, Moyale clashes continue", "body": "Overnight in Ethiopia, Nov 17"},
+  {"title": "Talks have failed, official says", "body": "A security official told Al Jazeera clashes between forces linked to the Oromia and Somali regions are continuing and mediation attempts have failed."},
+  {"title": "Gunfire at night, closed shops", "body": "A resident said people remain fearful. Movement is restricted, and businesses, herders and transport operators are hit."},
+  {"stat": "50,000", "body": "people crossed into Kenya since Oct 22, local authorities estimated, per UNHCR (Oct 28). Figure is provisional."},
+  {"stat": "463", "body": "border communities were covered by a 2004 referendum. Al Jazeera notes the Moyale case was never resolved."},
+  {"title": "Protect civilians. Pursue dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Al Jazeera, Nov 17, 2026; UNHCR, Oct 28, 2026",
+ "card": {"title": "A month on, Moyale clashes continue", "body": "Al Jazeera, Nov 17, 2026"}
+}
