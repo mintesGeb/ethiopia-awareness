@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-17_tt_tigraypay_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "hot": false,
+ "kicker": "CIVIL SERVICE · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"stat": "Over 90%", "title": "of Tigray civil servants back at work, officials say"},
+  {"text": "Borkena reports Tigray's interim administration says **salary payments** were delayed by **incomplete payroll paperwork**."},
+  {"text": "Chief executive **Dr. Teodros Aregay** says checks are done and staff with **cleared paperwork** will be paid. Not independently verified."},
+  {"text": "He also says the federal energy authority approved **fuel transport into Tigray**, with tankers reportedly loaded in **Djibouti**."},
+  {"text": "**Protect civilians, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena, Nov 10, 2026"
+}
