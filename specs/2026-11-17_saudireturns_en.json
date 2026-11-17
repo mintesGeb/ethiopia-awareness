@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-17_saudireturns_en",
+ "lang": "en",
+ "kicker": "MIGRATION · RETURNEES FROM SAUDI ARABIA",
+ "places": ["addis_ababa"],
+ "place_label": "RETURNS ARRIVE IN ADDIS ABABA",
+ "slides": [
+  {"title": "2,086 people sent home in one week", "body": "Ethiopians returned from Saudi Arabia, week to Nov 16, 2026"},
+  {"stat": "2,086", "title": "Ethiopians returned from Saudi Arabia in one week", "body": "1,664 men, 387 women and 35 children, the Ministry of Women and Social Affairs said (Fana, Nov 16)."},
+  {"stat": "116,000+", "title": "returned since the operation began on Sept 15, 2025", "body": "Ministry figures reported by Fana Media Corporation."},
+  {"stat": "26,400", "title": "deported Jan-Mar 2026, up 106% from a year earlier", "body": "IOM figures reported by The Reporter (Aug 2026). 92% were men; at least 679 were minors."},
+  {"title": "Most come from conflict-hit regions", "body": "IOM: 36% returned to Tigray, 31% to Amhara and 29% to Oromia, per The Reporter."},
+  {"title": "Reception centres are stretched", "body": "IOM cited limited capacity at reception centres in Ethiopia and protection risks on the migration route."},
+  {"title": "Returnees need safety, support and dignity.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Fana (MoWSA), Nov 16, 2026; The Reporter (IOM), Aug 2026",
+ "card": {"stat": "2,086", "title": "Ethiopians returned from Saudi Arabia in one week", "body": "Fana (MoWSA), Nov 16, 2026"}
+}
