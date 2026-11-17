@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-16_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 16, 2026"},
+  {"text": "AP reports **Ethiopia and Sudan** each accuse the other of **backing armed groups**; both deny it. **Unverified.**"},
+  {"text": "Al Jazeera reports aid agencies struggle to reach **50,000+ Ethiopians** who crossed into **Moyale, Kenya**."},
+  {"text": "Ethiopian state media says Ethiopia will host the **COP32 climate summit** in **Addis Ababa** in **Nov 2027**."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: AP via Daily Sabah, Al Jazeera, ENA (state media) · Nov 15-16, 2026"
+}
