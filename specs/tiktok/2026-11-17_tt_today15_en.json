@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-17_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 17, 2026"},
+  {"text": "UNHCR and Oxford University say funding cuts raise exploitation risks for **refugee children** in **Ethiopia**."},
+  {"text": "Ethiopian state media says a programme helps **former combatants** in **Tigray** return to civilian life."},
+  {"text": "A federal court rejected the media authority's objection in **Addis Standard's** registration case; next hearing **Dec 9**."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: UN News via allAfrica, ENA (state media), Addis Standard · Nov 12-17, 2026"
+}
