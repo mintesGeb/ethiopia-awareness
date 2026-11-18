@@ -1,0 +1,19 @@
+{
+ "id": "2026-11-18_tt_wfpmoyale_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": false,
+ "kicker": "FOOD AID · MOYALE, KENYA BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, BORANA",
+ "slides": [
+  {"title": "WFP starts food aid for families from Moyale", "body": "Families are now in Moyale, Kenya"},
+  {"text": "UN News reports the **World Food Programme** began **emergency food aid on Nov 11** for families who left **Moyale, Ethiopia**."},
+  {"text": "WFP says about **30,000 people** crossed into **Kenya** after clashes in October, staying with **relatives, host families and schools**."},
+  {"text": "Host families get **dry rations**; communal centres get **hot meals**. WFP says it will need **more funding** if displacement grows."},
+  {"text": "**Protect civilians, keep aid access open.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UN News, Nov 17, 2026"
+}
