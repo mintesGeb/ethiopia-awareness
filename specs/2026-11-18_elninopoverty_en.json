@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-18_elninopoverty_en",
+ "lang": "en",
+ "kicker": "FOOD SECURITY · NATIONWIDE",
+ "places": [],
+ "place_label": "NATIONWIDE PROJECTION FOR 2027",
+ "slides": [
+  {"title": "Two shocks could deepen hunger in 2027", "body": "A new IFPRI analysis looks at El Niño and higher fuel prices"},
+  {"stat": "2.8 million", "title": "more Ethiopians could become undernourished in 2027", "body": "IFPRI projection, reported by Addis Standard (Nov 18, 2026)."},
+  {"stat": "905,000", "title": "more people could be pushed into poverty", "body": "Measured at the $3-a-day line, if El Niño losses and higher fuel prices hit together."},
+  {"stat": "9.6%", "title": "projected drop in farm output in dry highland areas", "body": "The meher harvest provides over 95% of Ethiopia's annual crop production."},
+  {"stat": "76%", "title": "of the newly undernourished would be in rural areas", "body": "Researchers also flag conflict in the north as a further, hard-to-measure risk."},
+  {"title": "Aid needs could peak June-August 2027", "body": "IFPRI urges early planning as donor contributions shrink. These are scenarios, not forecasts."},
+  {"title": "Prepare early. Keep aid reaching families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard (IFPRI analysis), Nov 18, 2026",
+ "card": {"stat": "2.8 million", "title": "more Ethiopians could become undernourished in 2027", "body": "IFPRI via Addis Standard, Nov 18, 2026"}
+}
