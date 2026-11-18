@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-18_olashirka_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT IN ETHIOPIA · ARSI, OROMIA",
+ "places": ["oromia"],
+ "place_label": "SHIRKA WOREDA, ARSI, OROMIA",
+ "slides": [
+  {"title": "Armed group admits Shirka raid, disputes toll", "body": "Overnight in Ethiopia, Nov 18"},
+  {"title": "OLA says it carried out the raid", "body": "In a statement this week, the OLA acknowledged the October operation in Shirka woreda, Borkena reported, citing BBC Amharic."},
+  {"title": "It disputes who was killed", "body": "The group claims those killed were local militia, not civilians, and rejects the rights commission's findings."},
+  {"stat": "48", "body": "people killed, the Ethiopian Human Rights Commission found: 23 local security, 5 militia and 20 civilians."},
+  {"stat": "60", "body": "followers killed in Shirka and Merti within one week, the Ethiopian Orthodox Church said. Tolls differ by source."},
+  {"title": "Independent investigations. Protect civilians.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Borkena (citing BBC Amharic, EHRC), Nov 18, 2026",
+ "card": {"title": "Armed group admits Shirka raid, disputes toll", "body": "Borkena, Nov 18, 2026"}
+}
