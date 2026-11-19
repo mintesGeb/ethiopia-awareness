@@ -201,3 +201,32 @@ aid/policy videos settled at ~200 views. The hot videos (Aksum 669, Moyale 908) 
   (Amharic: same pattern in Amharic). Hot-news slide-length rule (~12 words) still applies where it is stricter.
 - Renderer: tools/render_media.py supports the "text" key (works for en and am). 11 PM recap slides may keep
   title + one line, but write each headline as a full sentence with bold key facts too.
+
+## NEW DAILY SCHEDULE (MG, Nov 19, 2026) — overrides all earlier slot plans
+MG now has ~700 followers, most of them Amharic readers, and the 15-second daily recap is the favourite format.
+Ethiopia is 8 hours ahead of US Eastern (EST). Slots (MG posts at these ET times; prep runs ~40 min before):
+| ET | Ethiopia | Language | Content |
+| 6:00 AM | 2 PM | AMHARIC | the hottest Ethiopia story of the last 24 h (hot-news rules) |
+| 10:00 AM | 6 PM | English | human-rights / humanitarian story |
+| 12:00 PM (noon) | 8 PM | AMHARIC | "ኢትዮጵያ ዛሬ በ15 ሰከንድ" — Amharic daily recap of the past 24 h |
+| 6:00 PM | 2 AM | English | hot story for the US/diaspora evening |
+| 11:00 PM | 7 AM | English | "Ethiopia today in 15 seconds" recap |
+The old 2 PM slot is dropped.
+
+### Amharic recap (noon) — id <date>_tt_today15_am, hook "series", lang "am"
+- Slide 1 title "ኢትዮጵያ ዛሬ በ15 ሰከንድ", body = the date in Amharic-Gregorian form (e.g. "ኖቬምበር 19, 2026").
+- Then exactly 3 slides: the 3 most important Ethiopia stories of the past 24 hours, each ONE complete Amharic
+  sentence with **bold** key facts and attribution (per the Nov 16 slide format), max ~18 words.
+- Last slide: {"text": "**ነገ ቀትር ላይ እንገናኛለን።** ከመላው ኢትዮጵያ ምንጩ የተጠቀሰ መረጃ ለማግኘት ይከተሉን።"}
+- kicker "የዕለቱ ማጠቃለያ · ኢትዮጵያ", places [], source line lists the outlets (Latin script is fine).
+- Caption first line: "የኢትዮጵያ ዜና ዛሬ፣ <date>: <the 3 topics in a few words>"; then the 3 headlines as short lines;
+  "ምንጭ፦ <outlets>"; hashtags #ኢትዮጵያ #Ethiopia #EthiopiaNews #ዜና + one place tag. Voice line: none (Amharic).
+### Recaps vs single videos
+- A recap may include stories that already had their own video that day (that is what a recap is); the
+  "no second-language version" rule applies to single-story videos only.
+- The 11 PM English recap must not repeat more than ONE of the noon Amharic recap's 3 headlines: lead with what
+  happened after noon ET, so the two recaps never look like copies.
+### Amharic quality
+- Natural, correct Amharic as a native newsreader would write it (not word-for-word translation). Keep names,
+  numbers and quotes exact; Gregorian dates; same careful-language and neutrality rules. The Amharic banned-word
+  list in spirit: no ጦርነት/ተገደሉ/ጭፍጨፋ/ድሮን ጥቃት/የሟቾች ቁጥር on slide 1 or the caption's first line, no death counts.
