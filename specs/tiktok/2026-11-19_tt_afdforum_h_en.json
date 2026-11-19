@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-19_tt_afdforum_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": false,
+ "kicker": "DISPLACEMENT · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "Addis Ababa hosts Africa Forum on Displacement", "body": "Two-day meeting opened Nov 17"},
+  {"text": "Ethiopia's Foreign Ministry says **refugee law** from **2019** widens access to **work, school and movement**."},
+  {"text": "State Minister **Hadera Abera** names **limited finance** and **regulatory barriers** as major obstacles."},
+  {"text": "UNHCR's Ethiopia chief wants **practical commitments with targets and timelines**, Capital reports. Single source, not independently verified."},
+  {"text": "**Protect displaced people, keep aid open.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Capital Ethiopia, Nov 18, 2026"
+}
