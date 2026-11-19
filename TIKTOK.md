@@ -209,9 +209,10 @@ Ethiopia is 8 hours ahead of US Eastern (EST). Slots (MG posts at these ET times
 | 6:00 AM | 2 PM | AMHARIC | the hottest Ethiopia story of the last 24 h (hot-news rules) |
 | 10:00 AM | 6 PM | English | human-rights / humanitarian story |
 | 12:00 PM (noon) | 8 PM | AMHARIC | "ኢትዮጵያ ዛሬ በ15 ሰከንድ" — Amharic daily recap of the past 24 h |
+| 2:00 PM | 10 PM | AMHARIC | an ADDITIONAL single story (new story, not one already in today's videos or the noon recap's lead) |
 | 6:00 PM | 2 AM | English | hot story for the US/diaspora evening |
 | 11:00 PM | 7 AM | English | "Ethiopia today in 15 seconds" recap |
-The old 2 PM slot is dropped.
+The 2 PM slot stays (MG, Nov 19): 6 videos a day, 3 Amharic (6 AM, noon recap, 2 PM) and 3 English (10 AM, 6 PM, 11 PM recap).
 
 ### Amharic recap (noon) — id <date>_tt_today15_am, hook "series", lang "am"
 - Slide 1 title "ኢትዮጵያ ዛሬ በ15 ሰከንድ", body = the date in Amharic-Gregorian form (e.g. "ኖቬምበር 19, 2026").
