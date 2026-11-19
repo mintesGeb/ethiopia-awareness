@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-19_tigraydrought_en",
+ "lang": "en",
+ "kicker": "FOOD SECURITY · TIGRAY",
+ "places": ["shire", "alamata"],
+ "place_label": "TSELEMTI & RAYA AZEBO, TIGRAY",
+ "slides": [
+  {"title": "Failed rains are emptying Tigray villages", "body": "Hunger warnings from the northwest to the south"},
+  {"title": "Families leaving Tselemti", "body": "Opposition party Salsay Weyane Tigray says severe hunger is forcing residents of Laelay Tselemti to abandon their homes (Nov 17). Not independently verified."},
+  {"stat": "26,722.5 ha", "title": "of rain-fed crops failed in Raya Azebo", "body": "Across 10 kebeles in Southern Tigray, regional authorities said, because of insufficient rain."},
+  {"stat": "10,000+", "title": "people displaced by a July hailstorm", "body": "The El Niño-linked storm in Central Tigray also killed a child and damaged over 1,000 hectares of farmland."},
+  {"stat": "IPC 4", "title": "Emergency hunger possible in early 2027", "body": "FEWS NET warns parts of Tigray, Amhara and Afar could reach this level."},
+  {"title": "Already critical before September", "body": "A Refugees International survey of 452 Tigray households (Aug-Sep) found widespread hunger and child malnutrition."},
+  {"title": "Keep food and aid reaching rural families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard, Nov 17, 2026",
+ "card": {"stat": "26,722.5 ha", "title": "of rain-fed crops failed in Raya Azebo, Southern Tigray", "body": "Regional authorities via Addis Standard, Nov 17, 2026"}
+}
