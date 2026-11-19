@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-19_overnight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT IN ETHIOPIA · NATIONWIDE",
+ "places": ["tigray", "borana"],
+ "place_label": "TIGRAY BORDER · MOYALE",
+ "slides": [
+  {"title": "Border buildup, Moyale aid, new detention claims", "body": "Overnight in Ethiopia, Nov 19"},
+  {"title": "More Eritrean troops at the Tigray border", "body": "Wazema reports a large deployment near Gemhalo and Sembel. Residents say many fled to nearby towns."},
+  {"stat": "50,000", "body": "people have fled Moyale fighting into Kenya, Wazema reports. The EU pledged €550,000 in emergency aid."},
+  {"stat": "8", "body": "riot police killed in an ambush in Bero district, West Omo, citing police sources. Attackers unidentified."},
+  {"stat": "600+", "body": "Tigrayans held at Awash Arba, Afar, the TPLF alleges. Not independently verified; no government reply."},
+  {"title": "Protect civilians. Allow independent monitors.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio briefing, Nov 19, 2026",
+ "card": {"title": "Border buildup, Moyale aid, new detention claims", "body": "Wazema Radio, Nov 19, 2026"}
+}
