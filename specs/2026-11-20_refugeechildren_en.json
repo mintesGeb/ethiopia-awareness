@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-20_refugeechildren_en",
+ "lang": "en",
+ "kicker": "REFUGEES · CHILD PROTECTION",
+ "places": [],
+ "place_label": "ETHIOPIA",
+ "slides": [
+  {"title": "Aid cuts leave refugee children exposed", "body": "A new UNHCR-Oxford study looks at Ethiopia"},
+  {"stat": "1.1 million", "title": "refugees live in Ethiopia", "body": "Most come from South Sudan, Somalia, Eritrea and Sudan."},
+  {"stat": "52%", "title": "of them are children", "body": "Including 31,000 children separated from their parents or guardians."},
+  {"stat": "18%", "title": "of child protection needs were funded in 2025", "body": "UNHCR's Ethiopia operation was less than one-third funded overall."},
+  {"stat": "4,071 → 1,887", "title": "children helped to trace or reunite with family", "body": "Support fell by more than half from 2024 to 2025."},
+  {"stat": "110,000", "title": "refugee children in 57 schools hit by shortfalls", "body": "The study warns cuts raise risks of trafficking and exploitation."},
+  {"title": "Protect refugee children and keep their protection services running.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UN News (UNHCR / Oxford study), Nov 16, 2026",
+ "card": {"stat": "52%", "title": "of Ethiopia's 1.1 million refugees are children", "body": "UN News, Nov 16, 2026"}
+}
