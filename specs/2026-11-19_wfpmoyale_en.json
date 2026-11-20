@@ -1,0 +1,13 @@
+{
+ "id": "2026-11-19_wfpmoyale_en",
+ "lang": "en",
+ "kicker": "INTERNATIONAL RESPONSE · MOYALE",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA-KENYA BORDER",
+ "slides": [
+  {"title": "UN food aid for families who fled Moyale", "body": "WFP, Kenya, Nov 17"},
+  {"stat": "30,000", "body": "people crossed from Ethiopia into Kenya after last month's clashes, WFP says"}
+ ],
+ "source": "Source: UN News (WFP), Nov 17, 2026",
+ "card": {"stat": "~30,000", "title": "people fled Moyale clashes into Kenya, per WFP", "body": "WFP food aid began Nov 11; more funding needed if displacement continues"}
+}
