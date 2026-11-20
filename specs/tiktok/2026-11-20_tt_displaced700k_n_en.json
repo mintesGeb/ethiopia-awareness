@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-20_tt_displaced700k_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "kicker": "DISPLACEMENT · SOUTHERN ETHIOPIA",
+ "places": ["borana", "somali"],
+ "slides": [
+  {"stat": "Nearly 700,000", "title": "people displaced in southern Ethiopia, aid group says"},
+  {"text": "Islamic Relief says about **329,000** are displaced in **Dawa zone, Somali Region**, and **359,798** in **southern Oromia**."},
+  {"text": "The group says the conflict has spread up to **300 km** from **Moyale**, and about **50,000** people have fled into **Kenya**."},
+  {"text": "Islamic Relief says it is giving **cash aid and hygiene kits**, but access is **challenging** and **funding is needed**. The government has not commented, AFP reports."},
+  {"text": "**Protect civilians, open aid access.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Islamic Relief, AFP via Arab News, Nov 19, 2026"
+}
