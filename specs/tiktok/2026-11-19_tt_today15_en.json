@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-19_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 19, 2026"},
+  {"text": "Reuters reports **conflict monitors** say **Ethiopia and Eritrea** have built up forces near **Badme**; **Eritrea** denies any incursion."},
+  {"text": "Critical Threats reports the **UN** and a **US adviser** say they are pushing **de-escalation** in the **Horn of Africa**."},
+  {"text": "Capital Ethiopia reports the **Africa Forum on Displacement** opened in **Addis Ababa** on **Nov 17**."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: Reuters via TimesLIVE, Critical Threats, Capital Ethiopia · Nov 17-18, 2026"
+}
