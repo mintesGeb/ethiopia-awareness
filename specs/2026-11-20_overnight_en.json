@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-20_overnight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT IN ETHIOPIA · OROMIA-SOMALI BORDER",
+ "places": ["borana", "somali"],
+ "place_label": "SOUTHERN OROMIA & SOMALI REGION",
+ "slides": [
+  {"title": "Nearly 700,000 displaced in southern Ethiopia", "body": "Overnight in Ethiopia, Nov 20"},
+  {"stat": "329,000", "body": "people displaced from Dawa zone in the Somali region, Islamic Relief said (via AFP, Nov 19)."},
+  {"stat": "359,798", "body": "people registered as displaced in southern Oromia, according to the same Islamic Relief figures."},
+  {"stat": "300 km", "body": "Fighting over control of Moyale town has spread up to 300 km from it, homes destroyed and health services disrupted."},
+  {"title": "No precise death toll yet", "body": "Monitor ACLED reports several people killed. Heavy weapons were reported in Moyale as recently as Monday. The federal government has not commented."},
+  {"title": "Protect civilians. Pursue dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Islamic Relief via AFP / Arab News, Nov 19, 2026",
+ "card": {"title": "Nearly 700,000 displaced in southern Ethiopia", "body": "Islamic Relief via AFP, Nov 19, 2026"}
+}
