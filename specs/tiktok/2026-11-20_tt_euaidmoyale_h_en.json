@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-20_tt_euaidmoyale_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": true,
+ "kicker": "AID · MOYALE, ETHIOPIA-KENYA BORDER",
+ "places": ["borana"],
+ "slides": [
+  {"title": "EU gives €550,000 for families who fled Moyale", "body": "Announced Nov 18 for those who crossed into Kenya"},
+  {"text": "The EU's humanitarian arm, **DG ECHO**, announced **€550,000** in emergency aid on **Nov 18**, Agence Europe reports."},
+  {"text": "The money goes through **UNHCR Kenya and the Kenya Red Cross** for **food, water, shelter and healthcare**."},
+  {"text": "Local authorities say up to **50,000** civilians have crossed into **Kenya** since **Oct 22**, Agence Europe reports."},
+  {"text": "**Protect civilians, open aid access.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Agence Europe (DG ECHO), Nov 18, 2026; Nation Africa"
+}
