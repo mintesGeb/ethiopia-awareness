@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-21_tt_tigrayhunger_n_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "number",
+ "hot": false,
+ "kicker": "HUNGER · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"stat": "6 in 10", "title": "displaced Tigray homes report hunger"},
+  {"text": "A **Refugees International** assessment dated **Nov 13**, cited by Addis Standard, surveyed **452 households** in **Tigray** in August and September."},
+  {"text": "It found **six in ten** displaced households said someone had **gone to bed hungry** in the previous month."},
+  {"text": "It also found **23%** of children screened at displacement sites showed signs of **acute malnutrition**, with fuel shortages and **unpaid health workers**."},
+  {"text": "**Protect civilians, open aid access.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via AllAfrica, Nov 17-18, 2026 (cites Refugees Intl, Nov 13; unverified)"
+}
