@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-21_overnight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT IN ETHIOPIA · NORTHWEST TIGRAY",
+ "places": ["shire"],
+ "place_label": "SHIRE & NORTHWEST TIGRAY",
+ "slides": [
+  {"title": "Night curfew across northwest Tigray", "body": "Overnight in Ethiopia, Nov 21"},
+  {"title": "No vehicles after 6 p.m.", "body": "Only ambulances are exempt. People may not move after 8 p.m., the Tigray caretaker administration said (via Wazema, Nov 18)."},
+  {"title": "Gatherings banned", "body": "Meetings and gatherings of more than four people are banned across the zone, including Shire town. The curfew is indefinite."},
+  {"title": "Gold mining halted", "body": "Mining operators were ordered to leave the zone, and security personnel told to hand in weapons, with a Nov 23 deadline (ACLED)."},
+  {"title": "Border tension continues", "body": "DW and ACLED reported Ethiopian heavy equipment moving toward the Eritrean border Nov 19-20 (per Critical Threats). Not independently verified."},
+  {"title": "Protect civilians. Pursue dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio, Nov 18; Critical Threats, Nov 20, 2026",
+ "card": {"title": "Night curfew across northwest Tigray", "body": "Wazema Radio, Nov 18, 2026"}
+}
