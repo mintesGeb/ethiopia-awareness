@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-21_harvest_en",
+ "lang": "en",
+ "kicker": "FOOD SECURITY · NORTH & EAST",
+ "places": ["tigray", "afar"],
+ "place_label": "TIGRAY, AMHARA, OROMIA, AFAR",
+ "slides": [
+  {"title": "Harvest season, but hunger risks remain", "body": "What FAO's latest Ethiopia food brief says"},
+  {"stat": "70–90%", "title": "rise in local maize prices", "body": "Between December 2025 and September 2026, reaching record highs, FAO says."},
+  {"title": "Dry rains hit the main harvest", "body": "El Niño-linked rainfall deficits severely affected crops, particularly in Tigray, eastern Amhara and eastern Oromia."},
+  {"title": "Northern Afar expected to worsen", "body": "Poor rains left livestock in below-average condition going into the October-March dry season."},
+  {"title": "Not everywhere is the same", "body": "FAO says food security has generally improved in western and central farming areas since September."},
+  {"title": "Keep food aid reaching drought-hit families.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: FAO GIEWS Country Brief, Ethiopia, Nov 12, 2026",
+ "card": {"stat": "70–90%", "title": "rise in Ethiopia's local maize prices, Dec 2025–Sept 2026", "body": "FAO GIEWS, Nov 12, 2026"}
+}
