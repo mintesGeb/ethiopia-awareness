@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-21_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 21, 2026"},
+  {"text": "Reuters reports **Ethiopia and Eritrea** have built up forces near their **border**; reports of skirmishes are **unconfirmed**."},
+  {"text": "The **Red Cross** warns the humanitarian situation in **Oromia** is worsening and says it cannot reach everyone in need."},
+  {"text": "A **US lawmaker** drafted bills offering **trade incentives** for **Ethiopia-Eritrea peace**, The Hill reports; texts are not public."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: Reuters, Addis Standard via AllAfrica, The Hill · Nov 18-20, 2026"
+}
