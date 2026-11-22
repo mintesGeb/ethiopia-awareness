@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-22_tt_medialicences_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "hot": false,
+ "kicker": "PRESS FREEDOM · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Why are Ethiopian outlets losing their licences?"},
+  {"text": "On **Nov 2**, the Ethiopian Media Authority said it was **indefinitely suspending The Reporter**, one of the country's oldest independent newspapers."},
+  {"text": "The authority says the paper published **“distorted information”** against **national interests**; CPJ says it **cited no specific report**."},
+  {"text": "CPJ says the regulator also revoked authorization for **Addis Standard** and **Wazema Radio** this year; **Human Rights Watch** calls it **“the new normal.”**"},
+  {"text": "**Protect press freedom, allow independent review.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: CPJ (Nov 5, 2026), Human Rights Watch (Nov 3, 2026)"
+}
