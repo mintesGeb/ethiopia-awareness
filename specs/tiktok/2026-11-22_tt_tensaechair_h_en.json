@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-22_tt_tensaechair_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": true,
+ "kicker": "POLITICS & RIGHTS · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray party says its chairman was detained", "body": "Court date set for Monday, Nov 23"},
+  {"text": "Tigray's **Tensae Sebha Enderta** party says chairman **Kebede Assefa** was taken into **federal police custody on Nov 19**."},
+  {"text": "The party says he appeared at the **Addis Ababa High Court** on **Nov 20** and got a new hearing date for **Monday**."},
+  {"text": "The party links it to its statement criticizing **caretaker administration appointments**. **No charge or official comment** was reported."},
+  {"text": "**Protect rights, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Ethiopia Insider, Nov 21, 2026 (party statement; not independently verified)"
+}
