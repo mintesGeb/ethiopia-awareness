@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-22_moyaleprofile_en",
+ "lang": "en",
+ "kicker": "DISPLACEMENT · MOYALE BORDER",
+ "places": ["borana"],
+ "place_label": "MOYALE, ETHIOPIA–KENYA BORDER",
+ "slides": [
+  {"title": "Who is fleeing Moyale into Kenya?", "body": "A new UNHCR count, Nov 18"},
+  {"stat": "50,000", "title": "people estimated to have crossed", "body": "From Ethiopia's Moyale area into Moyale, Kenya, UNHCR and Kenya's government say."},
+  {"stat": "25,720", "title": "profiled so far in 7 sites", "body": "Roughly half of the estimated arrivals have been counted."},
+  {"stat": "6,717", "title": "people in Heilu, the largest site", "body": "There, 36% are boys and 35% girls, 24% women and 5% men."},
+  {"stat": "13%", "title": "profiled at the Alhuda site", "body": "All other sites are fully profiled."},
+  {"title": "Sheltering wherever they can", "body": "With host families, in public buildings and open spaces, in border communities already hit by El Niño."},
+  {"title": "Protect civilians. Keep aid flowing on both sides of the border.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UNHCR / Govt of Kenya, Moyale influx update, Nov 18, 2026",
+ "card": {"stat": "50,000", "title": "people estimated to have fled into Moyale, Kenya", "body": "UNHCR, Nov 18, 2026"}
+}
