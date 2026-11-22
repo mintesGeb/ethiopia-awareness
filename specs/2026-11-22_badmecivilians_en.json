@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-22_badmecivilians_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT IN ETHIOPIA · NORTHWEST TIGRAY",
+ "places": ["shire"],
+ "place_label": "BADME AREA, NORTHWEST TIGRAY",
+ "slides": [
+  {"title": "Civilians caught in Badme border strikes", "body": "Overnight in Ethiopia, Nov 22"},
+  {"title": "A truck hit by a drone", "body": "On Nov 16 a drone struck a vehicle in Biara kebele near Badme, injuring at least four civilians, a local official told BBC Amharic."},
+  {"title": "Returning for food", "body": "The victims had fled to Sheraro and went back to fetch food, the official said. A woman with a serious eye injury was referred to hospital in Shire."},
+  {"stat": "1,233", "body": "people displaced to Sheraro since the fighting began, per a Badme rural-area official (BBC Amharic)"},
+  {"title": "Residents flee again", "body": "ACLED says a Nov 19 drone strike on Badme town forced residents to flee. No side has claimed either strike; not independently verified."},
+  {"title": "Protect civilians. Allow independent access.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: BBC Amharic via Daily News Egypt, Nov 20; ACLED via Rio Times, Nov 19, 2026",
+ "card": {"stat": "1,233", "body": "people displaced to Sheraro (BBC Amharic, Nov 2026)"}
+}
