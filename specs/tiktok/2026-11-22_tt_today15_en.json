@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-22_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 22, 2026"},
+  {"text": "Ethiopia Insider reports a **Tigray party** says its chairman was held in **federal custody**; a hearing is set for **Monday**, with **no official comment**."},
+  {"text": "The **FAO** says local **maize prices** rose **70 to 90 percent** from **Dec 2025 to Sep 2026**, reaching record highs."},
+  {"text": "The **WHO** says a **polio vaccination** campaign runs **Nov 21-24** in **five regions**, targeting **11.3 million children**."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: Ethiopia Insider, FAO GIEWS, WHO Africa · Nov 12-21, 2026"
+}
