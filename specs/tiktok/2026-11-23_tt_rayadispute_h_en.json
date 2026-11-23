@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-23_tt_rayadispute_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": true,
+ "kicker": "POLITICS · RAYA, ALAMATA",
+ "places": ["alamata"],
+ "slides": [
+  {"title": "Raya area: rival claims over local administration", "body": "Two sides, one disputed zone"},
+  {"text": "Borkena, citing Addis Maleda, reports a **Wollo Raya committee** rejects the **legitimacy** of the **Tigray interim administration** in **six Raya woredas**."},
+  {"text": "The committee says the process was **not legal or democratic** and calls for **impartial federal supervision**. These are its claims."},
+  {"text": "Interim coordinator **Molla Hluf** says the process was **vetted by a federal committee** and the woredas lie **within Tigray's boundaries**."},
+  {"text": "Addis Maleda says the **federal government has not issued a definitive statement**. **Protect civilians, choose dialogue.** Follow for sourced updates."}
+ ],
+ "source": "Source: Borkena (citing Addis Maleda), Nov 18, 2026 · claims not independently verified"
+}
