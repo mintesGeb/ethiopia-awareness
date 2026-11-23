@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-23_tigraychildren_en",
+ "lang": "en",
+ "kicker": "CHILDREN · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray's children, by the numbers", "body": "What a UK government bulletin, updated Nov 17, gathers"},
+  {"stat": "1.35 million", "title": "children out of school in Tigray", "body": "With 360 schools closed, the Global Education Cluster recorded (as of Nov 2025)."},
+  {"stat": "66", "title": "under-five deaths per 1,000 live births", "body": "In Tigray, vs 51 nationally, Ethiopia's 2024-25 health survey (EDHS) found."},
+  {"stat": "19.8%", "title": "of children acutely malnourished", "body": "In four assessed woredas, UNICEF's 2026 appeal reported."},
+  {"stat": "3.9 million", "title": "people needing emergency food aid", "body": "Tigray's disaster commission estimated in Sept, as reported by The New Humanitarian."},
+  {"title": "Most of this data predates the latest fighting", "body": "Fresh needs assessments are scarce since fighting resumed in late September."},
+  {"title": "Protect children. Allow full humanitarian access.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: UK Home Office, Country bulletin: Tigray humanitarian situation, updated Nov 17, 2026",
+ "card": {"stat": "1.35 million", "title": "children out of school in Tigray", "body": "Global Education Cluster, via UK Home Office bulletin, Nov 17, 2026"}
+}
