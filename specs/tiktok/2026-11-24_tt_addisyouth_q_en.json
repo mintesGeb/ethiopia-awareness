@@ -1,0 +1,19 @@
+{
+ "id": "2026-11-24_tt_addisyouth_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "hot": false,
+ "kicker": "HUMAN RIGHTS · ADDIS ABABA",
+ "places": ["addis_ababa"],
+ "slides": [
+  {"title": "What do Addis Ababa residents say about youth arrests?"},
+  {"text": "The Rio Times reports residents say **plain-clothes officers** detained **young people** in recent weeks; the report **could not confirm** this."},
+  {"text": "One resident says his brother, stopped on an errand, was held for **three days** without a clear explanation."},
+  {"text": "The Rio Times found **no statement** from the federal government, city administration or police, and it is **not known** why people were held."},
+  {"text": "The **Ethiopian Human Rights Commission** documented similar detentions of young people in **Oromia** in **Dec 2024**."},
+  {"text": "**Protect civilians, choose dialogue.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: The Rio Times (Nov 10, 2026), citing residents; EHRC (Dec 2024). Not independently verified"
+}
