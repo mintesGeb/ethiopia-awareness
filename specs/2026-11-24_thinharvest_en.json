@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-24_thinharvest_en",
+ "lang": "en",
+ "kicker": "FOOD SECURITY · ETHIOPIA",
+ "places": ["east_hararghe", "tigray"],
+ "slides": [
+  {"title": "A thin harvest, and thinning help", "body": "What FEWS NET's new outlook says about the months ahead"},
+  {"stat": "30%+", "title": "how far below average the meher harvest could be", "body": "After a kiremt season that was the driest on record in many areas, FEWS NET says."},
+  {"stat": "40%+", "title": "crop yield losses in lowland Hararghe", "body": "Estimated for lowland East and West Hararghe, versus 10-20% in midland and highland areas."},
+  {"title": "Tigray's safety net is on pause", "body": "The PSNP safety net remains paused in Tigray and is expected to stay paused through at least May 2027."},
+  {"stat": "60%", "title": "rations for long-registered refugees", "body": "In Gambela, around 40,000 arrivals in Tormorok received a one-month ration in July."},
+  {"title": "Some relief in the south", "body": "Deyr/hageya rains are improving pasture and water, but many pastoral areas remain in Crisis (IPC Phase 3)."},
+  {"title": "Fund and protect humanitarian access.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: FEWS NET, Ethiopia Food Security Outlook Oct 2026 - May 2027",
+ "card": {"stat": "30%+", "title": "how far below average the meher harvest could be", "body": "FEWS NET, Ethiopia Food Security Outlook, Oct 2026"}
+}
