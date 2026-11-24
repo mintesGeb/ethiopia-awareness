@@ -1,0 +1,16 @@
+{
+ "id": "2026-11-24_moyaledraft_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · SOUTHERN OROMIA",
+ "places": ["borana"],
+ "place_label": "MOYALE AREA, SOUTHERN OROMIA",
+ "slides": [
+  {"title": "Moyale: gunfire continues despite ceasefire", "body": "Wazema Radio reports sporadic exchanges between Oromia and Somali regional forces over the weekend."},
+  {"stat": "371,000+", "body": "people displaced from seven districts in Oromia region alone, per a draft UN-partner assessment reviewed by Wazema."},
+  {"stat": "130", "body": "people killed and 60 injured in southern Oromia in connection with the conflict, the draft assessment says."},
+  {"stat": "70,000+", "body": "children out of school across seven districts, with over 110 schools reportedly closed."},
+  {"title": "Protect civilians. Keep aid flowing.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio (draft UN assessment) · Nov 24, 2026",
+ "card": {"title": "Moyale: 371,000+ displaced in Oromia alone", "body": "Draft UN-partner assessment, via Wazema Radio, Nov 24, 2026"}
+}
