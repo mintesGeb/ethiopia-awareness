@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-25_poliodrive_en",
+ "lang": "en",
+ "kicker": "HEALTH · FIVE REGIONS",
+ "places": ["oromia", "south"],
+ "place_label": "Five regions",
+ "slides": [
+  {"title": "A polio drive for 11 million children", "body": "What WHO says about the campaign that began November 21"},
+  {"stat": "11.3 million", "title": "children targeted", "body": "In Addis Ababa, Oromia, Central Ethiopia, South Ethiopia and Southwest Ethiopia regions."},
+  {"title": "Two rounds, door to door", "body": "Round 1: Nov 21-24. Round 2: Dec 18-21, 2026. Health workers and volunteers visit every household."},
+  {"title": "Why now", "body": "WHO reports variant poliovirus type 1 cases this year in Gambella, Oromia and South Ethiopia. Ethiopia remains free of wild poliovirus."},
+  {"stat": "1 million+", "title": "children reached in earlier outbreak responses", "body": "In Gambella, Benishangul-Gumuz and parts of Oromia, WHO says."},
+  {"title": "Finding the missed children", "body": "Teams will also look for zero-dose and under-vaccinated children and link them to routine immunization."},
+  {"title": "Every child should be reachable.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: WHO Regional Office for Africa, Nov 21 2026",
+ "card": {"stat": "11.3 million", "title": "children targeted by Ethiopia's polio drive", "body": "WHO Regional Office for Africa, Nov 21 2026"}
+}
