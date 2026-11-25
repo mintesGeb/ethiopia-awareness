@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-25_tigrayovernight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · TIGRAY",
+ "places": ["shire", "mekelle"],
+ "place_label": "NORTH WESTERN TIGRAY & MEKELLE",
+ "slides": [
+  {"title": "Tigray: four developments in 48 hours", "body": "What Wazema Radio reported on Nov 24-25."},
+  {"title": "Drone strikes near Gemahlo", "body": "Wazema says strikes reportedly hit an arms depot in Tahtay Adiyabo on Monday. Its sources reported no casualties. Not independently verified."},
+  {"title": "Mekelle eases night curbs", "body": "From Nov 23, vehicles may move until 10 p.m. Limits on bajaj and motorcycles after 8 p.m. remain."},
+  {"title": "South Tigray appointments cancelled", "body": "The caretaker administration revoked all zonal, district and town appointments after community complaints, Wazema reports."},
+  {"title": "Election board prepares for Tigray", "body": "NEBE asked the caretaker administration for a liaison and logistics. No election date has been announced."},
+  {"title": "Protect civilians. Choose dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio · Nov 24-25, 2026",
+ "card": {"title": "Tigray: four developments in 48 hours", "body": "Wazema Radio, Nov 24-25, 2026"}
+}
