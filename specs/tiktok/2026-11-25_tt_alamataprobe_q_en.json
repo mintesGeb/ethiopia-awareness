@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-25_tt_alamataprobe_q_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "question",
+ "hot": false,
+ "kicker": "HUMAN RIGHTS · TIGRAY",
+ "places": ["alamata"],
+ "slides": [
+  {"title": "What is Amnesty asking for in Alamata, Tigray?"},
+  {"text": "In a **Nov 23** report, Amnesty International calls for an **independent investigation** into artillery strikes on residential areas of **Alamata** on **Sept 26-28**."},
+  {"text": "Amnesty says **civilians were reported harmed** and attributes the shelling to **federal forces and Tigray forces**; the TPLF rejects the allegations."},
+  {"text": "Ethiopian authorities did not respond, according to news reports. Amnesty urges a **UN Human Rights Council** mechanism to examine the case."},
+  {"text": "**Protect civilians, back independent investigations.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Amnesty International, Nov 23, 2026; reported by AP/WaPo, Nov 25"
+}
