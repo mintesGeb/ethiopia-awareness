@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-25_tt_tigrayvoteprep_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": true,
+ "kicker": "POLITICS · TIGRAY",
+ "places": ["tigray"],
+ "slides": [
+  {"title": "Tigray election preparations are underway, Election Board says"},
+  {"text": "**Wazema Radio** reports the Board is preparing **regional and federal elections** in Tigray. **No date** is announced."},
+  {"text": "The Board asked Tigray's **federal caretaker administration** to name a **liaison body**, Wazema reports."},
+  {"text": "On **Oct 16**, the **TPLF rejected** that administration, saying its decisions have **no legality**, Addis Standard reported."},
+  {"text": "**Choose dialogue, protect civilians.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: Wazema Radio, Nov 25, 2026; Addis Standard, Oct 2026"
+}
