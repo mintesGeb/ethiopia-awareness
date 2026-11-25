@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-24_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopia today in 15 seconds", "body": "Nov 24, 2026"},
+  {"text": "Borkena, citing residents and the Ethiopian Red Cross, reports **Moyale** has calmed, but **road movement is still restricted**; talks are **not independently confirmed**."},
+  {"text": "The Rio Times reports **Addis Ababa residents** say plain-clothes officers **detained young people**; there is **no official statement**, and accounts are **unconfirmed**."},
+  {"text": "**Amnesty International** says on **Nov 23** it wants an **independent investigation** into artillery fire on residential areas of **Alamata**."},
+  {"title": "Back tomorrow at 11 PM.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Sources: Borkena (Nov 20), The Rio Times (Nov 10), Amnesty International (Nov 23), 2026"
+}
