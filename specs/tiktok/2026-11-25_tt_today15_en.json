@@ -1,0 +1,30 @@
+{
+ "id": "2026-11-25_tt_today15_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "series",
+ "hot": false,
+ "kicker": "DAILY RECAP · ETHIOPIA",
+ "places": [],
+ "slides": [
+  {
+   "title": "Ethiopia today in 15 seconds",
+   "body": "Nov 25, 2026"
+  },
+  {
+   "text": "Borkena, citing DW, reports **Moyale** residents say gunfire resumed **hours after recent peace talks**, and **relief is scarce** on Ethiopia's side."
+  },
+  {
+   "text": "Christian Today reports **Britain condemns all violence against civilians** in Ethiopia's **Oromia** and backs the rights commission's ability to **investigate**."
+  },
+  {
+   "text": "Wazema: PM adviser **Getachew Reda** says Ethiopia's **Sudan dialogue call**, rejected by Sudan's government, was **not meant to co-opt** political actors."
+  },
+  {
+   "title": "Back tomorrow at 11 PM.",
+   "body": "Follow for sourced updates from across Ethiopia."
+  }
+ ],
+ "source": "Sources: Borkena (Nov 25), Christian Today (Nov 25), Wazema Radio (Nov 26, Ethiopia time)"
+}
