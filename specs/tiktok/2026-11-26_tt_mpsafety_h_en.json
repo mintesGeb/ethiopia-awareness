@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-26_tt_mpsafety_h_en",
+ "platform": "tiktok",
+ "brand": "Be-Aware MG",
+ "lang": "en",
+ "hook": "headline",
+ "hot": false,
+ "kicker": "HUMAN RIGHTS · PARLIAMENT",
+ "places": ["amhara", "oromia"],
+ "slides": [
+  {"title": "Ethiopia MPs raise civilian safety in parliament", "body": "Amhara and Oromia concerns"},
+  {"text": "On **Nov 26**, two opposition MPs questioned **PM Abiy Ahmed** on **civilian insecurity** in parliament, **Addis Standard** reports."},
+  {"text": "**MP Aweke Hamzaye** cited **Ethiopian Human Rights Commission** findings and blamed abuses on government forces, armed groups and others."},
+  {"text": "**MP Gebremeskel Ademe** asked how **displaced residents** will return and be protected, and about **investigations** and legal action."},
+  {"text": "**Protect civilians, investigate abuses.** Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard via AllAfrica; Fana (state media), Nov 26, 2026"
+}
