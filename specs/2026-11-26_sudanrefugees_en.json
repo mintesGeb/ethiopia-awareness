@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-26_sudanrefugees_en",
+ "lang": "en",
+ "kicker": "REFUGEES · ETHIOPIANS IN SUDAN",
+ "places": [],
+ "slides": [
+  {"title": "Ethiopian refugees living inside Sudan's war", "body": "What UN refugee data shows, as of October 31, 2026"},
+  {"stat": "64,902", "title": "Ethiopian refugees and asylum-seekers in Sudan", "body": "UNHCR figures reported by Addis Standard."},
+  {"stat": "67%", "title": "live in Gedaref State", "body": "43,177 people. Blue Nile State hosts another 9,775."},
+  {"title": "Two camps hold the most", "body": "Tenedba camp: 19,856 people. Um Rakuba camp: 14,173. Seven in ten live in camps."},
+  {"stat": "35%", "title": "of registered Ethiopian refugees are children", "body": "Including 712 unaccompanied or separated children."},
+  {"title": "A refugee crisis inside a war", "body": "Sudan's war began in April 2023. Sudan records 921,476 refugees; Ethiopians are about 7%."},
+  {"title": "Protect refugees and keep aid reaching them.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard, citing UNHCR data, Nov 12 2026",
+ "card": {"stat": "64,902", "title": "Ethiopian refugees and asylum-seekers in Sudan", "body": "Addis Standard, citing UNHCR data, Nov 12 2026"}
+}
