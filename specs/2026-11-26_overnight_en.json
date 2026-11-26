@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-26_overnight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · TIGRAY & PARLIAMENT",
+ "places": ["shire"],
+ "place_label": "NORTH WESTERN TIGRAY",
+ "slides": [
+  {"title": "Fighting spreads in rural northwestern Tigray", "body": "What Wazema Radio and Addis Standard reported on Nov 26."},
+  {"title": "Clashes since Tuesday", "body": "Wazema says ENDF forces fought TPLF forces and Eritrean troops around Nafra, Bagoni and Geza Tegaru."},
+  {"title": "Drone strikes reported", "body": "Its sources say drones hit military positions and weapons depots in Waela Nihbi. No casualty figures. Not independently verified."},
+  {"title": "Alarm raised in parliament", "body": "During PM Abiy's appearance, an opposition MP said rights violations had reached a \"deeply concerning level\", citing the EHRC."},
+  {"title": "Arsi, Wollega, Moyale named", "body": "MPs also cited parts of Amhara, Central Ethiopia and the West Guji border, and asked how displaced people will return."},
+  {"title": "Protect civilians. Investigate all abuses.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Wazema Radio; Addis Standard · Nov 26, 2026",
+ "card": {"title": "Fighting spreads in rural northwestern Tigray", "body": "Wazema Radio; Addis Standard, Nov 26, 2026"}
+}
