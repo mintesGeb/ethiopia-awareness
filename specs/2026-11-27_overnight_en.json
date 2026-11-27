@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-27_overnight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · ETHIOPIA & ERITREA",
+ "places": ["addis_ababa", "tigray"],
+ "place_label": "ADDIS ABABA · TIGRAY",
+ "slides": [
+  {"title": "Ethiopia and Eritrea trade sharp accusations", "body": "What Addis Standard reported on Nov 26-27."},
+  {"title": "Abiy in parliament", "body": "On Nov 26, PM Abiy told Eritrea to \"stop arming Ethiopia's enemies\" and denied any plan to invade."},
+  {"title": "\"Peacefully and through dialogue\"", "body": "Abiy said Ethiopia seeks Red Sea access only through talks. He also accused Eritrean forces of killing civilians in Tigray during the 2020-22 war."},
+  {"title": "Eritrea responds", "body": "Eritrea's foreign ministry accused Ethiopia of using maritime diplomacy to hide \"irredentist ambitions\", citing the UN Charter."},
+  {"title": "Tigray services", "body": "Abiy listed restoring flights, phone lines, banking and fuel in Tigray as priorities. No timeline was given."},
+  {"title": "Protect civilians. Choose dialogue.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Addis Standard · Nov 26-27, 2026",
+ "card": {"title": "Ethiopia and Eritrea trade sharp accusations", "body": "Addis Standard, Nov 26-27, 2026"}
+}
