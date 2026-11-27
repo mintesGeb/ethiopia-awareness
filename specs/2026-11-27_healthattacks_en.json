@@ -1,0 +1,18 @@
+{
+ "id": "2026-11-27_healthattacks_en",
+ "lang": "en",
+ "kicker": "HEALTH CARE · NORTHERN ETHIOPIA",
+ "places": ["tigray", "amhara"],
+ "place_label": "TIGRAY, AMHARA & AFAR",
+ "slides": [
+  {"title": "When clinics and ambulances come under attack", "body": "What 602 health workers told researchers"},
+  {"stat": "63.5%", "title": "of health workers surveyed reported attacks on ambulances", "body": "Tigray, Amhara and Afar. PHR and OJAH survey."},
+  {"stat": "61.1%", "title": "reported theft or looting at their facilities", "body": "57% said their health facility was taken over by armed men."},
+  {"stat": "28%", "title": "said they were personally targeted because of their work", "body": "45% said colleagues had been targeted."},
+  {"title": "Abuses attributed to several forces", "body": "The report names federal, Eritrean, Tigrayan, Fano and regional forces."},
+  {"title": "Health system already under strain", "body": "The report cites $380 million in foreign health aid lost in 2025."},
+  {"title": "Protect health workers. Investigate every attack.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Physicians for Human Rights & OJAH report, Aug 18 2026",
+ "card": {"stat": "63.5%", "title": "of health workers surveyed reported attacks on ambulances", "body": "Physicians for Human Rights & OJAH, Aug 18 2026"}
+}
