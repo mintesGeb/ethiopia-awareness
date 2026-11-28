@@ -1,0 +1,17 @@
+{
+ "id": "2026-11-28_overnight_en",
+ "lang": "en",
+ "kicker": "OVERNIGHT · TIGRAY & SUDAN BORDER",
+ "places": ["humera", "shire"],
+ "place_label": "WESTERN & NORTHWEST TIGRAY",
+ "slides": [
+  {"title": "Tension builds along Ethiopia's western edge", "body": "Three reports from Nov 26-27."},
+  {"stat": "6,000", "body": "fighters Sudan's army says it plans to mobilise along the Ethiopian border in Gedaref State (Radio Tamazuj, Nov 26). No Ethiopian response was reported."},
+  {"title": "Fighting near Badme", "body": "EEPA reported federal forces took the Waela Nihbi and Gemhalo areas on Nov 25, then shelled toward Gual Gemhalo. Not independently verified."},
+  {"title": "Western Tigray: fear of no return", "body": "AFP reports displaced Tigrayans fear they may never go home. Residents it spoke to allege beatings and property theft."},
+  {"title": "Claims not verified", "body": "AFP did not independently verify the residents' accounts. A senior local official did not respond to its questions."},
+  {"title": "Protect civilians. Allow safe returns.", "body": "Follow for sourced updates from across Ethiopia."}
+ ],
+ "source": "Source: Radio Tamazuj · EEPA · AFP/Arab News · Nov 26-27, 2026",
+ "card": {"stat": "6,000", "title": "Sudan plans border mobilisation", "body": "Radio Tamazuj, Nov 26, 2026"}
+}
